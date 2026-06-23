@@ -23,7 +23,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Percolate.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Ladder",
@@ -55,7 +58,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Ladder.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Eyeview",
@@ -85,7 +92,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Eyeview.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ]
   },
   {
     "company_name": "ihaveu",
@@ -109,7 +120,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/ihaveu.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/ihaveu.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Webull",
@@ -133,7 +147,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Webull-transparent.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Tome",
@@ -157,7 +174,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/tome-logo-transparent.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "LuckyPai",
@@ -181,7 +201,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/LuckyPai.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/LuckyPai.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Markato",
@@ -208,7 +231,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/08/Markato_logo_emblem-01-1024x433.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Plug",
@@ -238,7 +265,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2026/02/PlugLogo-2Clr-GreenBlack.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ]
   },
   {
     "company_name": "ElevenLabs",
@@ -269,7 +299,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2026/02/ElevenLabs_logo-1024x132.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Mito AI",
@@ -299,7 +333,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2026/01/mito-1024x576.webp",
     "image_url": "https://lsvp.com/wp-content/uploads/2026/01/mito-1024x576.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Dialogue AI",
@@ -329,7 +366,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/10/full_logo_cherry.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/10/Dialogue-AI-Founders-1024x576.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "The Mobile First Company",
@@ -360,7 +400,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/10/661804fec4589bd00c83200e_mobilefirst-logo.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Truth Systems",
@@ -390,7 +434,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/11/truthsystems-logo-jpg767x505-removebg-preview.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "RegTech/Gov/Legal"
+    ]
   },
   {
     "company_name": "Data Sutram",
@@ -421,7 +469,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/10/images-2.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/10/images-2.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Phantom",
@@ -453,7 +504,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/10/phantom-wallet-black-1024x202.webp",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Oolka",
@@ -482,7 +537,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2026/02/Oolka-Logo.webp",
     "image_url": "https://lsip.com/wp-content/uploads/2026/02/Oolka-Logo.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Health"
+    ]
   },
   {
     "company_name": "DualEntry",
@@ -514,7 +573,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/10/DualEntry_Logo.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Outsmart College",
@@ -544,7 +606,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/b9642914-be05-4202-b461-8a15d628a4e7-1024x576.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/09/b9642914-be05-4202-b461-8a15d628a4e7-1024x576.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Assort Health",
@@ -575,7 +640,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/658f56ad64761a9ccc9929af_AssortLogo.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/09/jeff-and-jon-desktop-1800x9161-1-1024x521.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "Periodic Labs",
@@ -605,7 +673,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/periodic-labs-1024x576.webp",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/09/dogus-and-liam-desktop-1800x9161-1-1024x521.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Macroscope",
@@ -635,7 +706,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/macroscop-logo-black.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Sphinx",
@@ -666,7 +740,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/Sphinx_Logo.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/09/adjusted-duo-size-scaled-1-e1758127418638-1024x995.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Brale",
@@ -696,7 +773,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/bb4d2ce8-f8c1-44d9-942b-008d1f07f07f.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/09/bb4d2ce8-f8c1-44d9-942b-008d1f07f07f.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ]
   },
   {
     "company_name": "Netskope",
@@ -728,7 +809,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Netskope.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/09/netskope-lp-banner-sanjayberi-1440x470-desktop-v2-1024x334.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Doctronic",
@@ -758,7 +843,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/doctronic-logo.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "Nuance Labs",
@@ -788,7 +876,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/68c0981cf3356864cb0c78f5_Logos-42-1-1024x185.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Ketryx",
@@ -819,7 +910,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/665d7b35ecda73e6be210b4e_ketryx-nav-logo.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Character.AI",
@@ -848,7 +943,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/lg-672f632876313-Character-ai-e1757522827823.webp",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/09/lg-672f632876313-Character-ai-e1757522827823.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Ramp",
@@ -883,7 +982,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/ramp-logo-png_seeklogo-490761.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Toast Studios",
@@ -915,7 +1017,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2025/09/toast_logo.076f1fab_1-1024x499.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Reindeer AI",
@@ -945,7 +1050,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/09/Forest-Green@3x-1024x375.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/09/Copy-of-20250805_160123-1-e1758561277701-1024x665.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Hook",
@@ -973,7 +1081,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/08/images.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/08/images.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Neoflo.ai",
@@ -999,7 +1110,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2025/10/neoflo-logo.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Zag Bio",
@@ -1033,7 +1147,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/08/download-1.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/08/download-1.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Composio",
@@ -1066,7 +1183,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/07/yliBxepU9eolJ55BigeFzrw1j2o-e1753306072151-removebg-preview.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/07/yliBxepU9eolJ55BigeFzrw1j2o-e1753306072151-removebg-preview.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Rocksalt",
@@ -1099,7 +1219,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/07/rocksalt-horizontal-color-PNG-transparent-2-1-1024x258.webp",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/07/rocksalt-horizontal-color-PNG-transparent-2-1-1024x258.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Cumbuca",
@@ -1129,7 +1252,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/07/Untitled-design-1-1-800x500-1-e1753124310175.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/07/Untitled-design-1-1-800x500-1-e1753124310175.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Moment",
@@ -1159,7 +1285,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/07/Logo_Charcoal.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Thinking Machines",
@@ -1194,7 +1323,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/07/ebea000e-fc92-4bdc-a075-dccc350fe54a_902x390.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/07/ebea000e-fc92-4bdc-a075-dccc350fe54a_902x390.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "LogicFlo AI",
@@ -1224,7 +1356,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2025/07/LogicFlo-AI-Logo_1-1024x339.jpg",
     "image_url": "https://lsip.com/wp-content/uploads/2025/07/LogicFlo-AI-Logo_1-1024x339.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health",
+      "RegTech/Gov/Legal"
+    ]
   },
   {
     "company_name": "Slikk",
@@ -1255,7 +1391,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2025/06/Slikk-logo_1.jpeg",
     "image_url": "https://lsip.com/wp-content/uploads/2025/06/Slikk-logo_1.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Snabbit",
@@ -1284,7 +1424,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2025/06/snabbit-logo-scaled_1-1024x309.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Omnifold",
@@ -1315,7 +1459,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/06/omnifold_transparent-1-1024x202.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Helsing",
@@ -1347,7 +1495,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/07/HELSING_LOCKUP_RGB_DEEP_GREY_AW.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/07/Helsing_3-1024x683.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Alif Semiconductor",
@@ -1379,7 +1530,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/04/Alif_Semiconductor_logo.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Multiplier",
@@ -1412,7 +1566,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/06/multiplier-logo-horizontal-dark-sm.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Nominal",
@@ -1444,7 +1601,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/06/nominal-logo_one-color_dark_2x-2.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/06/Nominal-Founders-1024x683.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Bachatt",
@@ -1472,7 +1633,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2025/06/bachatt-logo_1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Proxima Fusion",
@@ -1503,7 +1668,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/06/Logo_Proxima_Fusion.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Antares Therapeutics",
@@ -1532,7 +1701,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/06/logo-antaresrx-2x.webp",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Seekho",
@@ -1566,7 +1738,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2025/06/Seekho-logo_1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Manex AI",
@@ -1597,7 +1772,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/06/Manex_AI_Logo.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Casap",
@@ -1628,7 +1806,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/Casap_Color_Release_Oct_24_Logo-removebg-preview.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/10/Casap_Founders-scaled-1-1024x683.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Virtue AI",
@@ -1660,7 +1841,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/04/virtue_logo_black_text_2.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Base Power",
@@ -1690,7 +1874,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/04/base-logo-4x.avif",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/10/Base-Founders-1024x584.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ]
   },
   {
     "company_name": "Neuralink",
@@ -1725,7 +1912,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/06/Neuralink-Logo-1024x576.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Health"
+    ]
   },
   {
     "company_name": "LightSource",
@@ -1752,7 +1943,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/04/logo-red-aligned-transparent.6dc1974f-1024x157.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "xAI",
@@ -1778,7 +1973,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/04/XAI_Logo.svg-1024x725.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/04/XAI_Logo.svg-1024x725.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Reflection",
@@ -1808,7 +2006,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/03/reflection_logo_green-1024x122.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/03/Reflection-AI-cofounders-1-1024x683.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Bridgetown Research",
@@ -1834,7 +2035,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/03/image4-1024x227.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/03/image4-1024x227.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Frontera",
@@ -1863,7 +2067,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/02/Frontera-logo.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "Tana",
@@ -1894,7 +2101,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/02/Tana_logo_main.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/01/Tana_Web-11-1024x768.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Observo AI",
@@ -1921,7 +2131,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/01/dbdb379b7f7a6758122d4f2b39b82107-1024x587.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/01/dbdb379b7f7a6758122d4f2b39b82107-1024x587.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Anthropic",
@@ -1952,7 +2166,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/Anthropic_logo.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/10/daniela-dario-2-1024x683.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Neko Health",
@@ -1982,7 +2199,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/01/0f66fc89-2672-4504-b895-966bd9d780bd-1712936858634-1-1024x441.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/01/Neko-Health-Co-Founders-1024x682.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "Whizzo",
@@ -2016,7 +2236,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2025/01/whizzo-logo_1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Whatnot",
@@ -2047,7 +2270,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/01/WhatNotLogo.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Eve",
@@ -2079,7 +2306,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2025/01/678064406543ff5eb2e18bd5_logo-dark.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/01/Group-2-1024x681.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ]
   },
   {
     "company_name": "Cartesia",
@@ -2115,7 +2345,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/12/Logo_FullSize_DarkonTransparent.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Databricks",
@@ -2142,7 +2375,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/12/Databricks_Logo.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Orqa",
@@ -2173,7 +2410,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/12/ORQA_Logo_17456f2d-c1c6-42d7-a612-d6ddad853197_480x480.webp",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Distyl",
@@ -2208,7 +2448,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/Distyl_Logo.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "SolarSquare",
@@ -2240,7 +2483,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/12/SolarSquare-logo_1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ]
   },
   {
     "company_name": "Pacific Fusion",
@@ -2271,7 +2517,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/pacificfusion-removebg-preview.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "TollBit",
@@ -2300,7 +2550,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/tollbit_clear_Logo-removebg-preview.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/10/tollbit-founders-1-1024x682.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Tennr",
@@ -2333,7 +2587,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/Tennr.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/10/Tennr-founders-L-to-R_Trey-Holterman-Tyler-Johnson-and-Diego-Baugh-scaled-1-1024x575.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "p0",
@@ -2362,7 +2619,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/10/p0inc_logo_1.jpeg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Physics Wallah",
@@ -2392,7 +2653,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/PW-Logo.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2025/12/PhysicsWallah-Lightspeed-1024x835.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Qure AI",
@@ -2423,7 +2687,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/10/Qure-AI-logo_1-1024x1024.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ]
   },
   {
     "company_name": "Avarra",
@@ -2454,7 +2722,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/Avarra_Logo-1024x536.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/10/Avarra_Logo-1024x536.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Mitti Labs",
@@ -2487,7 +2758,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/10/mitti_labs_logo_1.jpeg",
     "image_url": "https://lsip.com/wp-content/uploads/2024/10/mitti_labs_logo_1.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "BioTech"
+    ]
   },
   {
     "company_name": "Triomics",
@@ -2517,7 +2792,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/04/triomics_logo_1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ]
   },
   {
     "company_name": "Xaira",
@@ -2545,7 +2824,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/xaira_black-1024x387.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Alpha-9 Oncology",
@@ -2571,7 +2853,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/Alpha9-Logo-Pantone-1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Eon",
@@ -2601,7 +2886,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/66ed2092e8998c2f1cb826b5_Lightblue.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/09/Founders-1024x685.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Chaos Labs",
@@ -2630,7 +2919,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/08/ChaosLabs_16x7.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/08/ChaosLabs_16x7.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "TRIANA Biomedicines",
@@ -2658,7 +2951,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/04/TRIANA_Biomedicines_logo.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/09/Patrick_Trojer_horizontally.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Enlaza Therapeutics",
@@ -2687,7 +2983,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/09/Enlaza_logo_original.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/09/Enlaza_Therapeutics_Sergio_Duron_2.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "EvenUp",
@@ -2720,7 +3019,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/08/evenup-logo.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/08/evenup-team-2-1024x846.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ]
   },
   {
     "company_name": "Clutch",
@@ -2751,7 +3053,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/07/662e6011163f23fdafe45e3b_logo-text.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/07/Clutch-Security-Founders-1024x819.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Skild AI",
@@ -2781,7 +3087,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/07/Skild-Logo-VectorGraphics-Colored.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/07/skild1.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Exa",
@@ -2811,7 +3120,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/07/ColorColor_TypeWordmark@4x-1.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/07/founders2-1024x813.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Scorpion",
@@ -2839,7 +3152,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/07/Scorpion_logo_black-1024x263.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/07/Adam-Friedman.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Chainguard",
@@ -2870,7 +3186,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/07/Chainguard-Logo-Blurple-1024x164.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Emversity",
@@ -2903,7 +3223,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/06/EM_080224_Visual-Identity_Aligned_Digital-02-1_1-1024x270.png",
     "image_url": "https://lsip.com/wp-content/uploads/2024/06/EM_080224_Visual-Identity_Aligned_Digital-02-1_1-1024x270.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Zepto",
@@ -2934,7 +3257,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/07/zepto-logo-F448DDFE54-seeklogo.com_.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Shivalik Small Finance Bank",
@@ -2962,7 +3289,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/07/Shivalik-Bank-Logo_1-1024x254.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Zo Computer",
@@ -2992,7 +3322,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/06/light.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/06/rob-ben-69805f1acfaae-1024x506.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ]
   },
   {
     "company_name": "k-ID",
@@ -3025,7 +3359,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/06/k-id_logo-1-1024x869.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/06/k-id-team-1024x839.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "RegTech/Gov/Legal"
+    ]
   },
   {
     "company_name": "CueIn",
@@ -3054,7 +3392,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/04/Cuein_logo_main.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Nexus",
@@ -3082,7 +3423,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/06/ALo2DI28_400x400-1.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/06/ALo2DI28_400x400-1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Particle",
@@ -3111,7 +3456,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/06/Particle-AI-Logo.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/06/240606_sara_marcel_headshots-161-Edit-1024x611.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Finaloop",
@@ -3139,7 +3488,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/06/6374d36ed341423dd86154d2_Frame-34194.min_-1024x635.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/06/6374d36ed341423dd86154d2_Frame-34194.min_-1024x635.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Sumosave",
@@ -3168,7 +3520,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/05/Sumosave-logo_1.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "P0 Security",
@@ -3198,7 +3554,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/05/p0_security_logo.jpeg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Suno",
@@ -3229,7 +3589,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/06/Suno-AI-Logo.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/05/lsvp-company-suno-mikeyshulman-desktop1-1024x576.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Pheon Therapeutics",
@@ -3258,7 +3621,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/05/PheonTx_Logo_RGB-1024x274.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Unstract",
@@ -3289,7 +3655,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/04/unstract_logo_1.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Augment",
@@ -3319,7 +3688,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/04/augment-lockup.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/04/augment-lockup.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Big Sur AI",
@@ -3348,7 +3720,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/03/bigsur-ai-logo-on-white-1024x535.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/03/bigsur_ai_founders_1-1024x512.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Mithril",
@@ -3377,7 +3753,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/03/Mithril_logo-removebg-preview.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/03/jared-quincy-davis.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Tabs",
@@ -3408,7 +3787,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/04/tabs-header-logo.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/04/cofounders-781-1024x768.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Astro",
@@ -3439,7 +3821,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/01/astro-sea-logo.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Marqo AI",
@@ -3469,7 +3855,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2024/02/63c9df013c7c836b35395849_Image_1-1024x576.png",
     "image_url": "https://lsip.com/wp-content/uploads/2024/02/63c9df013c7c836b35395849_Image_1-1024x576.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Abridge",
@@ -3500,7 +3890,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/02/abridge-logo-black-1024x177.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/02/Shiv-Rao-4.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "Intenseye",
@@ -3526,7 +3919,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/02/8d64b088-086a-4d42-8d9d-e3ab9c16c895-1645014698561.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/02/05_7-1024x683.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Health"
+    ]
   },
   {
     "company_name": "Sarvam AI",
@@ -3555,7 +3952,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/01/Sarvam-AI--1024x225.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/01/Sarvam-AI--1024x225.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "ScaleOps",
@@ -3584,7 +3984,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/01/ScaleOps_Startup_Weekly.jpg-1024x455.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/01/ScaleOps_Founders-1024x683.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Vestwell",
@@ -3614,7 +4017,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/01/Vestwell_Logo-1024x277.webp",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/01/Aaron-Schumm-1024x575.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Saronic",
@@ -3644,7 +4050,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/11/Logo_Full-Dark-pdf-1024x205.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2024/04/lightspeed-74-1024x683.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Pika",
@@ -3674,7 +4083,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/11/pika_logo_200x200.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/11/image1-1024x683.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Noetica",
@@ -3705,7 +4117,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/12/prl-c_2NZJheE-I-1024x1024.webp",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/12/lsvp-company-noetica-danwertman-desktop1-1024x576.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Flow",
@@ -3735,7 +4151,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/12/image001-1.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/12/image001-1.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "YouTrip",
@@ -3765,7 +4184,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/10/yt_logo-1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Verkada",
@@ -3797,7 +4220,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/10/Verkada-Logo-Horiz-Black-RGB.webp",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "It's Good",
@@ -3824,7 +4251,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/10/its_good_logo.jpeg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/10/2023_10_06_MRxJL_ItsGood_0082_RT_WEB-1024x683.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Bluebirds",
@@ -3851,7 +4281,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/10/unnamed-7-1024x169.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/10/founders.b18082a9-1024x677.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Langfuse",
@@ -3881,7 +4314,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/11/68d258f96809a968c1e4a76a27b90f4669b609e0.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/11/Team_SF-1024x417.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Tessell",
@@ -3911,7 +4348,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/10/e491d65fe9591b4192d7319ed6cdbcdf-1024x324.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Radiant Security",
@@ -3938,7 +4378,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/09/radiantsecurity_logo_black_1000px.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Patronus",
@@ -3967,7 +4411,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/09/64ede352897bcddbe2d41207_patronusai_final_logo.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/09/Anand-Kannappan-2.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Farther",
@@ -3997,7 +4445,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/09/648c4f79ef149622e91191da_Farther_Wordmark_RGB_Navy-1024x373.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/09/Farther_founders.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Yaysay",
@@ -4023,7 +4474,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/09/Yaysay_Logo.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/09/image4-1024x574.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Portkey",
@@ -4052,7 +4506,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/08/Logo-on-white-background_1-1024x279.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Supercritical",
@@ -4081,7 +4538,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/08/Supercritical_Logo-v2-1-1024x538.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/07/9.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ]
   },
   {
     "company_name": "Olema",
@@ -4107,7 +4567,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/09/OLMA_BIG-daae0dda-1024x304.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/09/OLMA_BIG-daae0dda-1024x304.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Plan A",
@@ -4135,7 +4598,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/09/Plan-A_Logo_Alternative-002-1024x270.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Kumospace",
@@ -4164,7 +4631,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/08/logo_long_forest.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Berry Health",
@@ -4192,7 +4662,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/08/siahr2k05webokre6rml-1024x1024.webp",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/07/14-683x1024.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "Aledade",
@@ -4221,7 +4694,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/07/Aledade-Logo_Blue-1024x205.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/6.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "Gardens",
@@ -4247,7 +4723,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/07/gardens-logo-1024x612.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/07/gardens-logo-1024x612.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Inworld AI",
@@ -4275,7 +4754,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/07/Inworld-Logo-Black-1024x201.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/07/lsvp-company-inworld-kylangibbs-desktop1-1024x576.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "beehiiv",
@@ -4305,7 +4788,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/08/b310d005f5cefa45955cbb0f0b32ce9b7183a2b5-1024x237.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Granola",
@@ -4334,7 +4820,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/08/granola_logo_horizontal_transparent.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/08/1_2sXSsxDGbpp3wLMN1WcHLg-1024x768.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Airbound",
@@ -4362,7 +4851,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/07/logo_1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Polar Signals",
@@ -4392,7 +4885,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-25-at-10.44.08-AM.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-25-at-10.44.08-AM.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Fathom",
@@ -4420,7 +4917,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/07/logo-fathom-1024x535.jpeg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/07/logo-fathom-1024x535.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "Semgrep",
@@ -4447,7 +4947,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/07/Semgrep_logo_transparent-1024x536.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/07/drew-dennison-2.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Anduril",
@@ -4483,7 +4987,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/07/anduril-industries-vector-logo.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/07/62213_07_oculus-founder-building-virtual-wall-protects-border_full-1-e1689878974787-1024x647.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Zluri",
@@ -4514,7 +5021,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/07/Zluri_Logo_1.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Priority Vendor",
@@ -4543,7 +5054,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/07/Priority-Vendor-logo-1_1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Gushwork",
@@ -4576,7 +5090,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2025/10/gushwork-logo-original-1024x195.png",
     "image_url": "https://lsip.com/wp-content/uploads/2025/10/Image-2-1024x1024.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "ItzCash",
@@ -4600,7 +5118,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/ItzCash-Card.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/ItzCash-Card.svg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Mstack",
@@ -4632,7 +5153,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/07/Mstack-logo_1.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "House of X",
@@ -4659,7 +5183,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/07/Houseofx-logo_1.jpeg",
     "image_url": "https://lsip.com/wp-content/uploads/2023/07/Houseofx-logo_1.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Stable Money",
@@ -4688,7 +5215,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/07/stable-money_1.png",
     "image_url": "https://lsip.com/wp-content/uploads/2023/07/stable-money_1.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Zipstack",
@@ -4719,7 +5249,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/07/zipstack-logo_1.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Pebble",
@@ -4745,7 +5279,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/06/Pebble-1-1024x681.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/Pebble-1-1024x681.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Project Discovery",
@@ -4775,7 +5313,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/06/dd9ebd44b80b6eb4cce9dbe99f17144f_1.png",
     "image_url": "https://lsip.com/wp-content/uploads/2023/06/dd9ebd44b80b6eb4cce9dbe99f17144f_1.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "CertiK",
@@ -4799,7 +5341,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/06/CertiK_.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/CertiK_.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Web3 / Crypto"
+    ]
   },
   {
     "company_name": "Rippling",
@@ -4826,7 +5372,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/06/RGB_Wordmark_Plum-1024x132.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Parker-Conrad-1024x1009.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Setu",
@@ -4855,7 +5405,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/06/Setu_logo.webp",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Stripe",
@@ -4882,7 +5436,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/06/Stripe-wordmark-blurple-large-1024x488.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/stripe-founders.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Mistral AI",
@@ -4913,7 +5471,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/06/mistral-ai.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/mistral-ai-team-2.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Thena",
@@ -4943,7 +5504,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/06/1683091349274_1.jpg",
     "image_url": "https://lsip.com/wp-content/uploads/2023/06/1683091349274_1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "ZYOD",
@@ -4973,7 +5537,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/06/download_1.png",
     "image_url": "https://lsip.com/wp-content/uploads/2023/06/download_1.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Dpanda",
@@ -5001,7 +5569,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/06/Dpanda-logo_1.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "OfficeBanao",
@@ -5033,7 +5604,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/06/OfficeBanao-Logo.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "PropTech"
+    ]
   },
   {
     "company_name": "Exponent Energy",
@@ -5068,7 +5642,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/05/5fLHe65q_400x400_1.jpg",
     "image_url": "https://lsip.com/wp-content/uploads/2023/05/5fLHe65q_400x400_1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Transportation / Mobility"
+    ]
   },
   {
     "company_name": "CommandK",
@@ -5097,7 +5675,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/05/pasted-image-0-2_1-1024x248.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Mason",
@@ -5126,7 +5708,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/05/pasted-image-0-1_1-1024x1024.png",
     "image_url": "https://lsip.com/wp-content/uploads/2023/05/pasted-image-0-1_1-1024x1024.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Cosmart",
@@ -5156,7 +5742,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/05/pasted-image-0.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/05/pasted-image-0.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Lost Lake",
@@ -5184,7 +5774,8 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/04/lost-lake.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/05/james-joe-mark-lost-lake.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": []
   },
   {
     "company_name": "Volley",
@@ -5213,7 +5804,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/04/volley_logo-1024x195.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/04/james-and-max-volley-1024x683.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Wheelocity",
@@ -5242,7 +5836,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/05/Wheelocity1-1.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/05/Wheelocity1-1.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Polygon",
@@ -5269,7 +5866,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/04/polygon.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ]
   },
   {
     "company_name": "Believer",
@@ -5298,7 +5898,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/believer-logo-1024x697.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/michael-chow-1024x575.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Aerohive",
@@ -5324,7 +5927,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Aerohive.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Alooma",
@@ -5350,7 +5956,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Alooma.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Affirm",
@@ -5376,7 +5985,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/affirm-1.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/5ff56fd4d184b30018aad360-e1680825190486-1024x473.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "AppDynamics",
@@ -5404,7 +6016,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/AppDynamics.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/appD-final.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Aquantia",
@@ -5432,7 +6048,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Aquantia-LOGO-1024x536.jpg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Affirmed Networks",
@@ -5458,7 +6078,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Affirmed-Networks.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Arctic Wolf",
@@ -5488,7 +6111,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2024/10/arctic_wolf.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/nick-schneider-president-and-ceo-arctic-wolf_750xx2352-1324-744-524.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Arbor Networks",
@@ -5514,7 +6140,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Arbor-Networks.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Barefoot Networks",
@@ -5542,7 +6172,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Barefoot-Networks.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "AVI Networks",
@@ -5573,7 +6206,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/AVI-Networks.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Avere Systems",
@@ -5599,7 +6236,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Avere-Systems.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Blockchain",
@@ -5628,7 +6268,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/blockchain-com-logo-vector.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "BloomReach",
@@ -5657,7 +6301,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/BloomReach.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Beme",
@@ -5686,7 +6333,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Beme.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Cheddar",
@@ -5719,7 +6370,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Cheddar.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Brocade",
@@ -5743,7 +6397,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Brocade.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Bonobos",
@@ -5771,7 +6428,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Bonobos.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "CPG",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Bromium",
@@ -5801,7 +6462,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Bromium.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Clever",
@@ -5827,7 +6492,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Clever.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "CloudBees",
@@ -5851,7 +6519,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Combination-Black.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/cloudbees1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "DataStax",
@@ -5877,7 +6548,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/datastax-logo-black-on-white-1024x243.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Datorama",
@@ -5908,7 +6582,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Datorama.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Datos IO",
@@ -5936,7 +6613,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Datos-IO.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Datrium",
@@ -5966,7 +6646,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Datrium.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Docker",
@@ -5992,7 +6675,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Docker.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Zscaler",
@@ -6019,7 +6705,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Zscaler.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/jay_chaudhry_zscaler-1024x576.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Delphix",
@@ -6047,7 +6737,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Delphix.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Waveset",
@@ -6073,7 +6766,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Waveset.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Zest AI",
@@ -6099,7 +6795,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Zest-AI.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "TaskRabbit",
@@ -6125,7 +6824,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/TaskRabbit.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Teads",
@@ -6154,7 +6856,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Teads.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Millennial Fox",
@@ -6184,7 +6890,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Millennial-Fox.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "StyleSeat",
@@ -6214,7 +6923,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/StyleSeat.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "SolarEdge",
@@ -6246,7 +6958,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/SolarEdge.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Snap",
@@ -6276,7 +6992,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Snapchat-Ghost-Outlined-Logo.wine_.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/snap.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Slice",
@@ -6302,7 +7021,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Slice.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "SailPoint",
@@ -6332,7 +7054,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/SailPoint.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Plexistor",
@@ -6361,7 +7086,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Plexistor.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Plexxi",
@@ -6389,7 +7117,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Plexxi.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Rubrik",
@@ -6423,7 +7154,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Rubrik.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/LTS_Rubrik_Landing-Page_1350x440_MJ_08-1024x334.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Qubole",
@@ -6453,7 +7187,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Qubole.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Outbrain",
@@ -6482,7 +7220,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Outbrain.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "OverOps",
@@ -6510,7 +7252,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/OverOps.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "One Assist",
@@ -6538,7 +7283,12 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/One-Assist.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Consumer"
+    ]
   },
   {
     "company_name": "PernixData",
@@ -6567,7 +7317,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/PernixData.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Personetics",
@@ -6596,7 +7349,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Personetics.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "MuleSoft",
@@ -6624,7 +7381,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Mulesoft.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Brent-Hayward-4-1024x629.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "MyBuys",
@@ -6652,7 +7412,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/MyBuys.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Natera",
@@ -6681,7 +7444,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Natera.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/matthew-rabinowitz-natera-profile-v2.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ]
   },
   {
     "company_name": "Nest",
@@ -6710,7 +7477,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Nest.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/nest-1024x576.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Nicira Networks",
@@ -6738,7 +7509,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Nicira-Networks.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Nimble Storage",
@@ -6767,7 +7541,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Nimble-Storage.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Numerify",
@@ -6796,7 +7573,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Numerify.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Nutanix",
@@ -6827,7 +7608,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/nutanix_logo_200x200.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/ipooo.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "LedgerX",
@@ -6856,7 +7640,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/LedgerX.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "LiveU",
@@ -6882,7 +7670,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/LiveU.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Memoir Systems",
@@ -6912,7 +7704,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Memoir-Systems.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Mist",
@@ -6942,7 +7737,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Mist.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/mist-co-founder-ceo-sujai-hajela-1024x576.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Kespry",
@@ -6966,7 +7764,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Kespry.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Elementum AI",
@@ -6999,7 +7801,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Elementum.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/elementum1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "enSilo",
@@ -7030,7 +7835,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/enSilo.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Evolv",
@@ -7057,7 +7865,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Evolv.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Evariant",
@@ -7084,7 +7896,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Evariant.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "FiveStars",
@@ -7113,7 +7929,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/FiveStars.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Fireglass",
@@ -7142,7 +7961,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Fireglass.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Giphy",
@@ -7171,7 +7993,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Giphy-logo.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Alex_Chung1-1024x604.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Fusion-IO",
@@ -7198,7 +8023,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Fusion-IO.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "FreshMenu",
@@ -7224,7 +8053,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/FreshMenu.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/FreshMenu.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Flip",
@@ -7248,7 +8080,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Flip.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Flip.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Insightera",
@@ -7277,7 +8112,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Insightera.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Hungryroot",
@@ -7305,7 +8144,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Hungryroot.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Hungryroot.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ]
   },
   {
     "company_name": "The Honest Company",
@@ -7336,7 +8179,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/The-Honest-Company.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Jessica_Video-1024x576.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "CPG",
+      "Consumer"
+    ]
   },
   {
     "company_name": "GrubHub",
@@ -7363,7 +8210,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/GrubHub.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/matt_maloney-grubhub-ceo.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Elastifile",
@@ -7393,7 +8243,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Elastifile-1024x512.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Avamar",
@@ -7419,7 +8272,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Avamar.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Blue Nile",
@@ -7447,7 +8303,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Blue-Nile.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Blue-Nile.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "BlueVine",
@@ -7475,7 +8334,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/BlueVine.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Byju's",
@@ -7505,7 +8367,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/BYJU8217s.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Byju-Raveendran1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Calista Technologies",
@@ -7531,7 +8396,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Calista-Technologies.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Clark",
@@ -7558,7 +8426,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Clark.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Celequest",
@@ -7586,7 +8457,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Celequest.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Ciena",
@@ -7610,7 +8484,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Ciena.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Comprehend",
@@ -7636,7 +8513,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Comprehend.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Health"
+    ]
   },
   {
     "company_name": "Craftsvilla",
@@ -7662,7 +8543,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Craftsvilla.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Eve.com",
@@ -7689,7 +8573,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/EVE-transparent-1024x474.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ]
   },
   {
     "company_name": "eHealth",
@@ -7715,7 +8603,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/eHealth.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Double Click",
@@ -7744,7 +8636,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Double-Click.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Dremio",
@@ -7772,7 +8668,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Dremio.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/dremio-1024x576.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "EdgeSpring",
@@ -7801,7 +8701,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/EdgeSpring.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/EdgeSpring.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "EverString",
@@ -7830,7 +8733,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/EverString.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Extensity",
@@ -7858,7 +8764,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Extensity.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Extensity.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "XtremIO",
@@ -7887,7 +8796,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/XtremIO.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/XtremIO.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Virsa Systems",
@@ -7913,7 +8825,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Virsa-Systems.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Vexata",
@@ -7939,7 +8855,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Vexata.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "VarageSale",
@@ -7966,7 +8885,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/VarageSale.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/VarageSale.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Udaan",
@@ -7999,7 +8921,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Udaan.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Vaibhav-Gupta-Udaan_Video-1024x576.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Toonimo",
@@ -8025,7 +8951,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Toonimo.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "TimesTen",
@@ -8054,7 +8983,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/TimesTen.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Star Analytics",
@@ -8080,7 +9012,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Star-Analytics.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Star-Analytics.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "StreamOnce",
@@ -8109,7 +9044,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/StreamOnce.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/StreamOnce.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Telogy Networks",
@@ -8135,7 +9073,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Telogy-Networks.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Telogy-Networks.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Solazyme",
@@ -8162,7 +9103,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Solazyme.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "BioTech"
+    ]
   },
   {
     "company_name": "Split",
@@ -8192,7 +9137,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Split.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Split.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "SnapRoute",
@@ -8219,7 +9167,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/SnapRoute.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "ShareChat",
@@ -8249,7 +9200,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/ShareChat-horizontal-transparent.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/sharechat1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Sirocco",
@@ -8275,7 +9230,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Sirocco.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Skyfire",
@@ -8304,7 +9262,12 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Skyfire.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Skyfire.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Socket Plane",
@@ -8332,7 +9295,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Socket-Plane.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Socket-Plane.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Scodix",
@@ -8361,7 +9327,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Scodix.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Scodix.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Riverbed Technology",
@@ -8390,7 +9359,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Riverbed-Technology.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/jerry_kennelly_riverbed.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Serverless",
@@ -8418,7 +9390,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Serverless.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Serverless.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "RoofStock",
@@ -8448,7 +9423,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/RoofStock.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "PropTech",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Reflektive",
@@ -8479,7 +9458,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Reflektive.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Reflektive.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Ripple",
@@ -8505,7 +9487,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Ripple.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Quantum Effect Devices",
@@ -8532,7 +9518,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Quantum-Effect-Dev.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Quantum-Effect-Dev.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "RAPsphere",
@@ -8559,7 +9549,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/RAPsphere.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "QuantumScape",
@@ -8589,7 +9582,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/QuantumScape.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Jagdeep-Singh-QuantumScape_61c4225d28b0e.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Provigent",
@@ -8617,7 +9614,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Provigent.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Provigent.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "PSS Systems",
@@ -8643,7 +9643,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/PSS-Systems.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ]
   },
   {
     "company_name": "Pulse",
@@ -8670,7 +9673,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Pulse.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Pulse.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Pushpins",
@@ -8697,7 +9704,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Pushpins.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Pushpins.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Playdom",
@@ -8728,7 +9738,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Playdom.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Playdom.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Pliant Technology",
@@ -8760,7 +9773,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Pliant-Technology.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Phone.com",
@@ -8788,7 +9804,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Phone.com.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "OYO",
@@ -8816,7 +9835,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/OYO-Rooms.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Ritesh-Agrawal-Oyo_Video-1024x576.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "PropTech",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Parsable",
@@ -8854,7 +9877,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Parsable.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Personalis",
@@ -8885,7 +9911,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Personalis.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/personalis1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ]
   },
   {
     "company_name": "Pixer Technology",
@@ -8911,7 +9941,11 @@
     "logo_url": null,
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Masergy",
@@ -8937,7 +9971,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Masergy.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Orbis Education",
@@ -8965,7 +10003,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Orbis-Education.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Orbis-Education.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   },
   {
     "company_name": "Origami Logic",
@@ -8996,7 +10037,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Origami-Logic.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Link-A-Media",
@@ -9020,7 +10064,12 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Link-A-Media.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Link-A-Media.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Gaming / Media / Entertainment",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Maker Comms",
@@ -9046,7 +10095,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Maker-Comms.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "LiveProfile",
@@ -9072,7 +10125,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/LiveProfile.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/LiveProfile.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "LightLogic",
@@ -9098,7 +10154,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/LightLogic.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Kongregate",
@@ -9124,7 +10184,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Kongregate.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Kiva Software",
@@ -9152,7 +10215,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Kiva-Software.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Kiva-Software.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Kosmix",
@@ -9181,7 +10247,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Kosmix.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Influitive",
@@ -9210,7 +10280,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Influitive.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Influitive.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Informatica",
@@ -9239,7 +10312,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Informatica.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "IO Turbine",
@@ -9268,7 +10345,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/IO-Turbine.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/IO-Turbine.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Handshake",
@@ -9299,7 +10379,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Handshake-transparent.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/handshake-ceo.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Galileo Technology",
@@ -9327,7 +10411,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/06/galileo.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/galileo.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Growth Networks",
@@ -9353,7 +10440,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Growth-Networks.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Gainsight",
@@ -9379,7 +10470,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Gainsight.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Doubling-Down-On-Our-Investment-In-Gainsight.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Guardant Health",
@@ -9405,7 +10499,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Guardant-Health-1024x318.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/06/mo_100418107-1600x900-1-1024x576.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ]
   },
   {
     "company_name": "ShoeDazzle",
@@ -9434,7 +10532,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Shoedazzle.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ]
   },
   {
     "company_name": "Flixster",
@@ -9460,7 +10562,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Flixster.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Fashionara",
@@ -9490,7 +10595,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Fashionara.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Fashionara.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ]
   },
   {
     "company_name": "TutorVista",
@@ -9519,7 +10628,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/TutorVista.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Navan",
@@ -9548,7 +10660,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Navan-1024x576.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Ariel_Video-1024x576.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ]
   },
   {
     "company_name": "MetaSolv Software",
@@ -9574,7 +10690,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/MetaSolv-Software.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Athos",
@@ -9602,7 +10721,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Athos.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Cohere Technologies",
@@ -9630,7 +10753,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Cohere-Technologies.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Cohere-Technologies.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Virtual Instruments",
@@ -9656,7 +10782,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Virtual-Instruments.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Virtual-Instruments.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "MagicPin",
@@ -9686,7 +10815,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/07/magic-pin-logo.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "TheFind",
@@ -9712,7 +10844,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/TheFind.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/TheFind.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Poncho",
@@ -9738,7 +10874,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Poncho.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Poncho.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Mend",
@@ -9764,7 +10904,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Mend.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ]
   },
   {
     "company_name": "RecordGram",
@@ -9792,7 +10936,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/RecordGram.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "WiTag",
@@ -9818,7 +10965,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/WiTag.svg",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Rothy's",
@@ -9847,7 +10998,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Rothy8217s.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Rothy8217s.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "CPG",
+      "Consumer"
+    ]
   },
   {
     "company_name": "TeneoBio",
@@ -9878,7 +11033,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/teneo_bio.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/CJ_230123_RolanBeulow_LightspeedFounders_0105-e1680824867564-1024x508.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Forty Seven",
@@ -9909,7 +11067,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/fortyseven-logo.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Irv_Weissman_1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech"
+    ]
   },
   {
     "company_name": "Crowdamp",
@@ -9936,7 +11097,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Crowdamp.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Crowdamp.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Heptio",
@@ -9963,7 +11128,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Heptio.jpg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Heptio.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Streamlio",
@@ -9990,7 +11158,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Streamlio.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Building Connected",
@@ -10019,7 +11191,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Building-Connected.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Building-Connected.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "PropTech"
+    ]
   },
   {
     "company_name": "People.ai",
@@ -10047,7 +11222,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/People.ai.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/jason-ambrose-peopleai-1024x521.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Girlboss",
@@ -10073,7 +11252,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Girlboss.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Girlboss.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Binaris",
@@ -10099,7 +11282,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Binaris.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Exabeam",
@@ -10129,7 +11315,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Exabeam.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/07/exabeam-1024x683.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Highfive",
@@ -10158,7 +11348,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Highfive.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Testim.io",
@@ -10186,7 +11379,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Testim.io.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Testim.io.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Aqua Security",
@@ -10218,7 +11414,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Aqua-Security-1024x310.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/aqa-security1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Darwinbox",
@@ -10251,7 +11451,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/03/Darwinbox_1.png",
     "image_url": "https://lsip.com/wp-content/uploads/2023/03/Rohit-Chenna_Video-1024x576.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Reliable Robotics",
@@ -10280,7 +11483,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Reliable-Robotics.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Reliable-Robotics.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Citadel",
@@ -10307,7 +11514,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Citadel.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Citadel.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Wi-Charge",
@@ -10336,7 +11546,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Wi-Charge.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Wi-Charge.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Freight Tiger",
@@ -10365,7 +11578,10 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/03/Freight-Tiger_1.png",
     "image_url": "https://lsip.com/wp-content/uploads/2023/03/Freight-Tiger_1.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Epsagon",
@@ -10394,7 +11610,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Epsagon.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Goop",
@@ -10420,7 +11639,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Goop.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Goop.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "CPG",
+      "Consumer"
+    ]
   },
   {
     "company_name": "BetterUp",
@@ -10449,7 +11672,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/BetterUp_Logo-1.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Alexi_Video-1024x576.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Terminal",
@@ -10480,7 +11706,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Terminal.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Terminal.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Grab",
@@ -10506,7 +11735,12 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/07/Grab_application_logo.svg-1024x364.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Anthony-Tan-1024x476.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Transportation / Mobility",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Mynd",
@@ -10530,7 +11764,10 @@
     "logo_url": null,
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "PropTech"
+    ]
   },
   {
     "company_name": "Blend",
@@ -10562,7 +11799,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/blend-1.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Nima-1120x560-1-1024x512.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "PropTech",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Audius",
@@ -10589,7 +11830,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Audius.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Candis",
@@ -10618,7 +11863,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Candis.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Kodiak AI",
@@ -10648,7 +11896,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Kodiak-Robotics.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Karius",
@@ -10678,7 +11930,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/karius.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/karius.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ]
   },
   {
     "company_name": "Illumix",
@@ -10706,7 +11962,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Illumix-transparent.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/illumix1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Telegram",
@@ -10733,7 +11993,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Telegram.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Multiverse",
@@ -10762,7 +12026,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Multiverse-1024x306.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/multiverse1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Epic Games",
@@ -10790,7 +12057,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Epic-Games-transparent.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/epic-games1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Yugabyte",
@@ -10825,7 +12095,12 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Yugabyte-dark.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/yugabyte1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "PredictHQ",
@@ -10851,7 +12126,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/PredictHQ.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/PredictHQ.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "AppZen",
@@ -10880,7 +12158,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/AppZen.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ]
   },
   {
     "company_name": "MDClone",
@@ -10906,7 +12188,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/MDClone.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/MDClone-ceo.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "aquant",
@@ -10935,7 +12221,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Aquant-logo-1024x238.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Fiddler",
@@ -10966,7 +12256,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Fiddler-transparent.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Krishna-Gade-2.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Varada",
@@ -10996,7 +12290,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Varada.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Cato Networks",
@@ -11024,7 +12322,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/cato_network-1.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Shlomo_Video-1024x576.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Abstract",
@@ -11054,7 +12356,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Abstract.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Abstract.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Theranica",
@@ -11084,7 +12389,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Theranica.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "At-Bay",
@@ -11110,7 +12419,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/At-Bay.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/at-bay1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Jumprope",
@@ -11137,7 +12449,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Jumprope.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Jumprope.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Blameless",
@@ -11166,7 +12482,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Blameless.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Seventh Spark",
@@ -11195,7 +12514,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Seventh-Spark.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Seventh-Spark.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer"
+    ]
   },
   {
     "company_name": "Art of Sport",
@@ -11225,7 +12547,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Art-of-Sport.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Art-of-Sport.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "CPG"
+    ]
   },
   {
     "company_name": "AWA Studios",
@@ -11253,7 +12578,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/AWA-Studios.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/AWA-Studios.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "ezCater",
@@ -11280,7 +12608,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/ezcater.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Property Share",
@@ -11309,7 +12641,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/03/Property-Share_1.png",
     "image_url": "https://lsip.com/wp-content/uploads/2023/03/Property-Share_1.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "PropTech",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Cameo",
@@ -11337,7 +12673,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Cameo.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Cameo.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Moveworks",
@@ -11368,7 +12708,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Moveworks-dark.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/moveworks1.webp",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "honeylove",
@@ -11396,7 +12739,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/honeylove.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "CPG"
+    ]
   },
   {
     "company_name": "Carta",
@@ -11426,7 +12772,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Carta-logo.svg-1024x447.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/carta1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "OkCredit",
@@ -11457,7 +12806,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/OkCredit.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ]
   },
   {
     "company_name": "Foxy",
@@ -11491,7 +12844,11 @@
     "logo_url": "https://lsip.com/wp-content/uploads/2023/03/Foxy_1.png",
     "image_url": "https://lsip.com/wp-content/uploads/2023/03/Foxy_1.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ]
   },
   {
     "company_name": "Haus Laboratories",
@@ -11517,7 +12874,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Haus-Laboratories-dark.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/haus-laboratories1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "CPG"
+    ]
   },
   {
     "company_name": "Calm",
@@ -11544,7 +12904,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Calm.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/michael_acton_smith_calm.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ]
   },
   {
     "company_name": "Acceldata",
@@ -11574,7 +12938,12 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/acceldata-logo-new-1-1024x1024.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Rohit-Choudhary-video-thumbnail-1024x576.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Data & Analytics",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Yellow.ai",
@@ -11606,7 +12975,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Yellow.ai.jpeg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Yellow.ai.jpeg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Confluera",
@@ -11636,7 +13008,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Confluera.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Eightfold",
@@ -11665,7 +13040,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Eightfold.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/eightfold-ai1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "MemVerge",
@@ -11693,7 +13071,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/MemVerge.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Arrcus",
@@ -11722,7 +13104,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Arrcus.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Holo",
@@ -11751,7 +13136,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Holo-1024x614.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Holo-1024x614.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Impira",
@@ -11780,7 +13168,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Impira.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Impira.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Celona",
@@ -11809,7 +13201,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Celona.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Resilience",
@@ -11840,7 +13235,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Resilience.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/resillience-arceo-labs1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ]
   },
   {
     "company_name": "Grafana",
@@ -11871,7 +13270,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/grafana_logo-web-dark.svg",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/grafana-labs1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ]
   },
   {
     "company_name": "Shipper",
@@ -11897,7 +13300,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Shipper.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ]
   },
   {
     "company_name": "Magic Spoon",
@@ -11926,7 +13332,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Magic-Spoon.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Magic-Spoon.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "CPG"
+    ]
   },
   {
     "company_name": "CyCognito",
@@ -11955,7 +13364,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/CyCognito.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/cycognito1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Pensando",
@@ -11985,7 +13398,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Pensando.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "Personio",
@@ -12011,7 +13428,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Personio.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/personio1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "Stickies",
@@ -12037,7 +13457,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Stickies-1024x304.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ]
   },
   {
     "company_name": "Zetwerk",
@@ -12078,7 +13501,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/zetwerk-logo@2x-1.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Amrit-Acharya_Zetwerk_Video-1024x576.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "DataFleets",
@@ -12104,7 +13531,11 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/DataFleets.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Cybersecurity"
+    ]
   },
   {
     "company_name": "CleanCo",
@@ -12130,7 +13561,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/CleanCo.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "CPG"
+    ]
   },
   {
     "company_name": "Elementor",
@@ -12159,7 +13593,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Elementor.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/elementor1.jpg",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ]
   },
   {
     "company_name": "Aril Inc",
@@ -12185,7 +13622,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/arilinc.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ]
   },
   {
     "company_name": "Kikoff",
@@ -12212,7 +13652,12 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Kikoff.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Cybersecurity",
+      "Consumer"
+    ]
   },
   {
     "company_name": "Tonkean",
@@ -12243,7 +13688,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Tonkean.png",
     "image_url": null,
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ]
   },
   {
     "company_name": "United Dwelling",
@@ -12271,7 +13719,10 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/United-Dwelling.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/United-Dwelling.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "PropTech"
+    ]
   },
   {
     "company_name": "Nym Health",
@@ -12298,6 +13749,9 @@
     "logo_url": "https://lsvp.com/wp-content/uploads/2023/03/Nym-Health.png",
     "image_url": "https://lsvp.com/wp-content/uploads/2023/03/Nym-Health.png",
     "source_url": "https://lsvp.com/companies/",
-    "scraped_at": null
+    "scraped_at": null,
+    "everywhere_tags": [
+      "Health"
+    ]
   }
 ]
