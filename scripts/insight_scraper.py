@@ -22,6 +22,7 @@ usage:
 """
 
 import json
+import os
 import re
 import sys
 import time
@@ -35,7 +36,7 @@ GRID = BASE + "/wp-json/insight/v1/get-companies"
 DETAIL = BASE + "/wp-json/insight/v1/get-company-content"
 PROFILE = BASE + "/portfolio/{slug}/"
 SOURCE_URL = BASE + "/portfolio/"
-OUT = "insight_companies.json"
+OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "data", "insight_companies.json")
 
 HEADERS = {
     "User-Agent": (

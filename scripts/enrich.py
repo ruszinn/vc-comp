@@ -19,9 +19,12 @@ usage:
     python3 enrich.py --limit 30     # only first 30 companies per file (testing)
 """
 
-import json, re, sys, time
+import json, os, re, sys, time
 from urllib.parse import urlparse
 import requests
+
+# JSON data lives in ../data relative to this script
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "data")
 
 WD_API = "https://www.wikidata.org/w/api.php"
 HEADERS = {"User-Agent": "vc-comps-enrich/1.0 (https://github.com/ruszinn/vc-comp; ruszinfilay@gmail.com)"}
@@ -169,7 +172,7 @@ def main():
 
     report = []
     for fname in FILES:
-        data = json.load(open(fname))
+        data = json.load(open(os.path.join(DATA_DIR, fname)))
         rows = data[:limit] if limit else data
         print(f"\n=== {fname} ({len(rows)} of {len(data)}) ===")
 
@@ -241,10 +244,10 @@ def main():
                 report.append({"file": fname, "company": o["company_name"],
                                "source": "wikidata", "wikidata_id": p["qid"], "filled": filled})
 
-        json.dump(data, open(fname, "w"), ensure_ascii=False, indent=2)
+        json.dump(data, open(os.path.join(DATA_DIR, fname), "w"), ensure_ascii=False, indent=2)
         print(f"  wrote {fname}; enriched {sum(1 for r in report if r['file']==fname and r['source']=='wikidata')} via Wikidata")
 
-    json.dump(report, open("enrichment_report.json", "w"), ensure_ascii=False, indent=2)
+    json.dump(report, open(os.path.join(DATA_DIR, "enrichment_report.json"), "w"), ensure_ascii=False, indent=2)
     print(f"\nTotal fills: {len(report)} -> enrichment_report.json")
 
 

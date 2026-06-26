@@ -16,6 +16,7 @@ usage:
 """
 
 import json
+import os
 import re
 import sys
 import time
@@ -25,7 +26,7 @@ import requests
 from bs4 import BeautifulSoup
 
 URL = "https://menlovc.com/portfolio/"
-OUT = "menlo_companies.json"
+OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "data", "menlo_companies.json")
 SOURCE_URL = "https://menlovc.com/portfolio/"
 
 HEADERS = {
