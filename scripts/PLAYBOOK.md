@@ -32,6 +32,21 @@ Caveats seen: responses can be **double-JSON-encoded** (a JSON string containing
 sites may **intermittently bot-block** (retry / vary timing); some firms **redirect**
 sub-portfolios to another host (Lightspeed → lsip.com).
 
+**Empty ≠ absent — mine names + prose before declaring a field N/A.** A structured field
+that is empty for *every* record is a red flag that the data is **denormalized elsewhere**,
+not proof the firm doesn't publish it. Two places to always check before finalizing the
+schema:
+- **The display name.** Firms often encode exit state in the name suffix:
+  `Foo (Acquired)`, `Bar (NYSE: TICK)`, `Baz (IPO: TICK)` (RRE does exactly this — its
+  structured `status` label is blank for all 250, yet 76 names carry the answer). Parse the
+  suffix into `status`/`ticker_symbol`.
+- **The free-text description.** The last sentence frequently states facts no structured
+  field holds: "**Acquired by** Good Technology **in 2012**", "**went public** on the NYSE in
+  2020", "(**formerly** Clubhouse)". Regex these out into `acquirer`/`exit_year`/etc.
+  (RRE: acquirer+year live only in the description for 60/63 acquired companies.)
+So: when a column comes back 100% empty, grep the names and descriptions for the same
+concept before concluding the site simply doesn't expose it.
+
 ---
 
 ## §Per-source cheat-sheet (verified working)
@@ -171,4 +186,7 @@ Flow per company that has a `company_url`:
 - Enrichment: assert **0 overwrites** (diff vs a backup; only None/""/[] → value changes).
 - Print coverage: per-field missing counts, by-tag counts, untagged count; spot-check a few
   known companies (e.g. a public one's ticker, a famous founder).
+- **Investigate any 100%-empty column.** If a field is null/[] for *every* record, don't ship
+  it as "N/A" until you've grepped the names + descriptions for that concept (see §Recon
+  "Empty ≠ absent") — the data is often denormalized into the name suffix or description prose.
 - Back up files (or rely on git) before destructive re-runs; scrapers write to `data/`.

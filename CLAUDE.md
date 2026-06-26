@@ -45,6 +45,10 @@ Scripts resolve `../data` relative to their own file, so run from the repo root:
   Wikidata-only (see below).
 - Most empty cells are **legitimately N/A** (e.g. exit/acquirer/ticker for active
   companies; sector when the firm never tags it). That is not "missing data" to invent.
+- **Empty ≠ absent.** Before declaring a field N/A, check whether the data is *denormalized*
+  into the **name suffix** (`Foo (Acquired)`, `Bar (NYSE: TICK)`) or **description prose**
+  ("Acquired by X in YYYY"). A structured field that's empty for *every* record is a cue to
+  go look there, not proof the site omits it. (See PLAYBOOK §Recon "Empty ≠ absent".)
 
 ## `everywhere_tags` taxonomy (exactly these 17 — verbatim spelling)
 ```
