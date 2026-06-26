@@ -152,10 +152,75 @@ def fetch_grid():
     return uniq, total
 
 
+# roles-section label -> our field name
+ROLE_LABELS = {
+    "founder": "founders", "founders": "founders", "co-founder": "founders", "co-founders": "founders",
+    "ceo": "ceo", "investment team": "partners", "sectors": "sectors", "sector": "sectors",
+    "initial investment": "first_investment_date", "status": "status",
+}
+NAME_FIELDS = {"founders", "ceo", "partners"}
+
+
+def parse_roles(soup):
+    """Parse the .partnership-content__roles label/value block."""
+    out = {"founders": [], "ceo": [], "partners": [], "sectors": [],
+           "first_investment_date": None, "status": None}
+    roles = soup.select_one(".partnership-content__roles")
+    if not roles:
+        return out
+    for div in roles.find_all("div", recursive=True):
+        lab_el = div.select_one("span.font-semibold")
+        if not lab_el:
+            continue
+        key = ROLE_LABELS.get((clean(lab_el.get_text()) or "").lower())
+        if not key:
+            continue
+        if key == "sectors":
+            vals = [clean(a.get_text()) for a in div.select('a[href*="vertical="]')] \
+                or [clean(e.get_text()) for e in div.find_all(["span", "a"]) if e is not lab_el]
+        else:
+            vals = [clean(e.get_text(" ", strip=True)) for e in div.find_all(["span", "a"])
+                    if e is not lab_el and "font-semibold" not in (e.get("class") or [])]
+        flat = []
+        for v in [x for x in vals if x]:
+            flat += [p.strip() for p in v.split(",") if p.strip()] if key in NAME_FIELDS else [v]
+        if key in ("first_investment_date", "status"):
+            if flat and not out[key]:
+                out[key] = flat[0]
+        else:
+            for v in flat:
+                if v not in out[key]:
+                    out[key].append(v)
+    return out
+
+
+def parse_milestones(soup):
+    """Return the Insight milestones timeline as a list of 'YYYY ...' strings."""
+    m = soup.select_one(".partnership-content__milestones")
+    if not m:
+        return []
+    txt = clean(m.get_text(" ", strip=True)) or ""
+    txt = re.sub(r"^\s*Milestones\s*", "", txt, flags=re.I)
+    if not txt:
+        return []
+    parts = re.split(r"(?=(?:19|20)\d{2}\b)", txt)
+    return [p.strip() for p in parts if p.strip()]
+
+
+def year_from(text, milestones):
+    """First-investment year: from the 'Initial Investment' date, else earliest milestone year."""
+    if text:
+        m = re.search(r"(19|20)\d{2}", text)
+        if m:
+            return int(m.group(0))
+    years = [int(y) for ms in milestones for y in re.findall(r"\b((?:19|20)\d{2})\b", ms)]
+    return min(years) if years else None
+
+
 def parse_detail(html):
-    """From the detail HTML fragment -> (description, website, social_urls)."""
+    """From the detail HTML fragment -> (description, website, social_urls, roles, milestones)."""
     soup = BeautifulSoup(html or "", "html.parser")
-    body = soup.select_one(".partnership-content__body")
+    body = soup.select_one(".partnership-content__body") or soup.select_one(".partnership-content-sec1")
     description = clean(body.get_text(" ", strip=True)) if body else None
 
     website, socials = None, []
@@ -170,11 +235,11 @@ def parse_detail(html):
                 socials.append(href)
         elif website is None:        # first non-social external link = company website
             website = href
-    return description, website, socials
+    return description, website, socials, parse_roles(soup), parse_milestones(soup)
 
 
-def everywhere_tags(name, description):
-    text = f"{name or ''} {description or ''}".lower()
+def everywhere_tags(name, description, sectors):
+    text = f"{name or ''} {description or ''} {' '.join(sectors or [])}".lower()
     tags = []
     for tag, kws in KEYWORD_TAGS:
         if any(kw in text for kw in kws) and tag not in tags:
@@ -201,16 +266,15 @@ def main():
     for i, r in enumerate(rows, 1):
         cid, slug, name = r.get("id"), r.get("slug"), clean(r.get("name"))
         description = website = None
-        socials = []
+        socials, milestones = [], []
+        roles = {"founders": [], "ceo": [], "partners": [], "sectors": [],
+                 "first_investment_date": None, "status": None}
         if cid is not None:
             data = fetch(DETAIL, {"id": cid, "detail": "true"})
             if isinstance(data, dict) and data.get("content"):
-                description, website, socials = parse_detail(data["content"])
+                description, website, socials, roles, milestones = parse_detail(data["content"])
             time.sleep(SLEEP)
 
-        verticals = r.get("verticals") or []
-        sectors = [clean(v.get("name") if isinstance(v, dict) else v) for v in verticals]
-        sectors = [s for s in sectors if s]
         logo = (r.get("logo") or {}).get("url") if isinstance(r.get("logo"), dict) else None
 
         out.append({
@@ -220,9 +284,16 @@ def main():
             "company_profile_url": PROFILE.format(slug=slug) if slug else None,
             "logo_url": logo,
             "location": clean_location(r.get("location")),
+            "founders": roles["founders"],
+            "ceo": roles["ceo"],
+            "partners": roles["partners"],
+            "sectors": roles["sectors"],
+            "first_investment_date": roles["first_investment_date"],
+            "first_investment_year": year_from(roles["first_investment_date"], milestones),
+            "status": roles["status"],
+            "milestones": milestones,
             "social_urls": socials,
-            "sectors": sectors,
-            "everywhere_tags": everywhere_tags(name, description),
+            "everywhere_tags": everywhere_tags(name, description, roles["sectors"]),
             "source_url": SOURCE_URL,
             "scraped_at": scraped_at,
         })
@@ -235,10 +306,17 @@ def main():
 
     from collections import Counter
     by_tag = Counter(t for o in out for t in o["everywhere_tags"])
+    by_status = Counter(o["status"] or "Unknown" for o in out)
     print(f"\nWrote {len(out)} companies -> {OUT}")
-    print("with description:", sum(1 for o in out if o["description"]),
-          "| with website:", sum(1 for o in out if o["company_url"]),
-          "| untagged:", sum(1 for o in out if not o["everywhere_tags"]))
+    print("coverage:",
+          "description", sum(1 for o in out if o["description"]),
+          "| website", sum(1 for o in out if o["company_url"]),
+          "| sectors", sum(1 for o in out if o["sectors"]),
+          "| partners", sum(1 for o in out if o["partners"]),
+          "| founders", sum(1 for o in out if o["founders"]),
+          "| first_investment", sum(1 for o in out if o["first_investment_year"]),
+          "| untagged", sum(1 for o in out if not o["everywhere_tags"]))
+    print("By status:", dict(by_status))
     print("By everywhere_tag:")
     for t, c in by_tag.most_common():
         print(f"  {c:>4}  {t}")
