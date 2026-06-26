@@ -84,6 +84,11 @@ sub-portfolios to another host (Lightspeed → lsip.com).
   (label) + `.text-size-large` (value, empty when `w-dyn-bind-empty`).
 - Detail labels seen: **Founded** (~236), **RRE Invested** (~248), **Headquarters** (only 3),
   plus `status`/`RRE participation` labels that are **always empty** → omitted from the schema.
+- **No investment-stage field anywhere.** Exit state is encoded only in the company NAME
+  suffix, so `derive_status()` parses it: `(NYSE: PLTR)`/`(IPO: DOOR)` → `status="Public"` +
+  `ticker_symbol`; `(Acquired)` → `status="Acquired"` + `acquirer`/`exit_year` pulled from the
+  description's trailing "Acquired by <X> in <YYYY>." (60/63 name an acquirer); else `"Active"`.
+  Result: 174 Active / 63 Acquired / 13 Public. `company_name` keeps the suffix verbatim.
 - RRE categories (11): Enterprise/Saas, CONSUMER, Fintech, AI, Media, Hardware, Crypto,
   Healthcare, Featured, Robotics, Space (casing is inconsistent → match case-insensitively).
   `SECTOR_TAG_MAP` maps the clean verticals; **AI** and **Enterprise/Saas** are left to the

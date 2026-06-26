@@ -11,12 +11,16 @@
     "headquarters": null,
     "year_founded": 2021,
     "rre_invested_year": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Data & Analytics",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.088976+00:00"
+    "scraped_at": "2026-06-26T16:04:27.175815+00:00"
   },
   {
     "company_name": "8i",
@@ -29,12 +33,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.089565+00:00"
+    "scraped_at": "2026-06-26T16:04:27.176495+00:00"
   },
   {
     "company_name": "A Vinyl Bar in Shibuya",
@@ -49,12 +57,16 @@
     "headquarters": null,
     "year_founded": 2024,
     "rre_invested_year": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.099441+00:00"
+    "scraped_at": "2026-06-26T16:04:27.186883+00:00"
   },
   {
     "company_name": "Abra",
@@ -68,13 +80,17 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.090155+00:00"
+    "scraped_at": "2026-06-26T16:04:27.177110+00:00"
   },
   {
     "company_name": "Achex (Acquired)",
@@ -88,12 +104,16 @@
     "headquarters": null,
     "year_founded": 1999,
     "rre_invested_year": 2000,
+    "status": "Acquired",
+    "acquirer": "First Data Corporation",
+    "ticker_symbol": null,
+    "exit_year": 2001,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.090734+00:00"
+    "scraped_at": "2026-06-26T16:04:27.177791+00:00"
   },
   {
     "company_name": "Aclaimant",
@@ -107,13 +127,17 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Dev Tools / Cloud",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.091314+00:00"
+    "scraped_at": "2026-06-26T16:04:27.178405+00:00"
   },
   {
     "company_name": "Aconite",
@@ -127,12 +151,16 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.091895+00:00"
+    "scraped_at": "2026-06-26T16:04:27.179030+00:00"
   },
   {
     "company_name": "Addepar",
@@ -147,13 +175,17 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance",
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.092509+00:00"
+    "scraped_at": "2026-06-26T16:04:27.179635+00:00"
   },
   {
     "company_name": "Amicus",
@@ -167,12 +199,16 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2012,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.093096+00:00"
+    "scraped_at": "2026-06-26T16:04:27.180222+00:00"
   },
   {
     "company_name": "Amount (Acquired)",
@@ -186,12 +222,16 @@
     "headquarters": null,
     "year_founded": 2019,
     "rre_invested_year": 2020,
+    "status": "Acquired",
+    "acquirer": "FIS",
+    "ticker_symbol": null,
+    "exit_year": 2025,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.093718+00:00"
+    "scraped_at": "2026-06-26T16:04:27.180836+00:00"
   },
   {
     "company_name": "Anomaly",
@@ -205,12 +245,16 @@
     "headquarters": null,
     "year_founded": 2020,
     "rre_invested_year": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.094317+00:00"
+    "scraped_at": "2026-06-26T16:04:27.181435+00:00"
   },
   {
     "company_name": "Anto",
@@ -224,13 +268,17 @@
     "headquarters": null,
     "year_founded": 2025,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "BioTech",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.094935+00:00"
+    "scraped_at": "2026-06-26T16:04:27.182073+00:00"
   },
   {
     "company_name": "AppliedEA",
@@ -244,13 +292,17 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Data & Analytics",
       "Transportation / Mobility"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.095500+00:00"
+    "scraped_at": "2026-06-26T16:04:27.182682+00:00"
   },
   {
     "company_name": "Apriva",
@@ -264,12 +316,16 @@
     "headquarters": null,
     "year_founded": 1999,
     "rre_invested_year": 2000,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.096059+00:00"
+    "scraped_at": "2026-06-26T16:04:27.183263+00:00"
   },
   {
     "company_name": "Arca",
@@ -283,12 +339,16 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.096626+00:00"
+    "scraped_at": "2026-06-26T16:04:27.183875+00:00"
   },
   {
     "company_name": "Artivest (Acquired)",
@@ -301,11 +361,15 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2012,
+    "status": "Acquired",
+    "acquirer": "iCapital",
+    "ticker_symbol": null,
+    "exit_year": 2020,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.097746+00:00"
+    "scraped_at": "2026-06-26T16:04:27.185075+00:00"
   },
   {
     "company_name": "Arōe",
@@ -319,12 +383,16 @@
     "headquarters": "New York",
     "year_founded": null,
     "rre_invested_year": null,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.097192+00:00"
+    "scraped_at": "2026-06-26T16:04:27.184492+00:00"
   },
   {
     "company_name": "Avant",
@@ -338,12 +406,16 @@
     "headquarters": null,
     "year_founded": 2012,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.098312+00:00"
+    "scraped_at": "2026-06-26T16:04:27.185685+00:00"
   },
   {
     "company_name": "Avina",
@@ -357,11 +429,15 @@
     "headquarters": null,
     "year_founded": 2023,
     "rre_invested_year": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.098876+00:00"
+    "scraped_at": "2026-06-26T16:04:27.186295+00:00"
   },
   {
     "company_name": "Bark (NYSE: BARK)",
@@ -375,12 +451,16 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2012,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NYSE: BARK",
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:21.100003+00:00"
+    "scraped_at": "2026-06-26T16:04:27.187477+00:00"
   },
   {
     "company_name": "Base (Acquired)",
@@ -393,12 +473,16 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2014,
+    "status": "Acquired",
+    "acquirer": "Zendesk",
+    "ticker_symbol": null,
+    "exit_year": 2018,
     "everywhere_tags": [
       "Data & Analytics",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.222663+00:00"
+    "scraped_at": "2026-06-26T16:04:28.331085+00:00"
   },
   {
     "company_name": "Basno",
@@ -413,12 +497,16 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.223449+00:00"
+    "scraped_at": "2026-06-26T16:04:28.331953+00:00"
   },
   {
     "company_name": "BDG Media",
@@ -432,12 +520,16 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.224166+00:00"
+    "scraped_at": "2026-06-26T16:04:28.332711+00:00"
   },
   {
     "company_name": "Beeswax (Acquired)",
@@ -450,11 +542,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2015,
+    "status": "Acquired",
+    "acquirer": "Comcast",
+    "ticker_symbol": null,
+    "exit_year": 2021,
     "everywhere_tags": [
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.224874+00:00"
+    "scraped_at": "2026-06-26T16:04:28.333466+00:00"
   },
   {
     "company_name": "Bend Financial (Acquired)",
@@ -468,12 +564,16 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2017,
+    "status": "Acquired",
+    "acquirer": "HSA Bank",
+    "ticker_symbol": null,
+    "exit_year": 2022,
     "everywhere_tags": [
       "Health",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.225606+00:00"
+    "scraped_at": "2026-06-26T16:04:28.334254+00:00"
   },
   {
     "company_name": "Betaworks",
@@ -486,13 +586,17 @@
     "headquarters": null,
     "year_founded": 2007,
     "rre_invested_year": 2008,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "Dev Tools / Cloud",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.226322+00:00"
+    "scraped_at": "2026-06-26T16:04:28.334978+00:00"
   },
   {
     "company_name": "Betaworks AI Camp",
@@ -505,9 +609,13 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.227023+00:00"
+    "scraped_at": "2026-06-26T16:04:28.335680+00:00"
   },
   {
     "company_name": "Binance.US",
@@ -521,6 +629,10 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
@@ -528,7 +640,7 @@
       "RegTech/Gov/Legal"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.227753+00:00"
+    "scraped_at": "2026-06-26T16:04:28.336400+00:00"
   },
   {
     "company_name": "BioLite",
@@ -542,13 +654,17 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Deeptech / Robotics / AR/VR",
       "Climate / Sustainability"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.228452+00:00"
+    "scraped_at": "2026-06-26T16:04:28.337113+00:00"
   },
   {
     "company_name": "Bitly (Acquired)",
@@ -562,11 +678,15 @@
     "headquarters": null,
     "year_founded": 2008,
     "rre_invested_year": 2010,
+    "status": "Acquired",
+    "acquirer": "Spectrum Equity",
+    "ticker_symbol": null,
+    "exit_year": 2017,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.229143+00:00"
+    "scraped_at": "2026-06-26T16:04:28.337844+00:00"
   },
   {
     "company_name": "Bitnomial (Acquired)",
@@ -580,12 +700,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2018,
+    "status": "Acquired",
+    "acquirer": "Kraken",
+    "ticker_symbol": null,
+    "exit_year": 2026,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.229834+00:00"
+    "scraped_at": "2026-06-26T16:04:28.338587+00:00"
   },
   {
     "company_name": "BitPay",
@@ -599,12 +723,16 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.230505+00:00"
+    "scraped_at": "2026-06-26T16:04:28.339279+00:00"
   },
   {
     "company_name": "BizTrip AI",
@@ -618,11 +746,15 @@
     "headquarters": "San Francisco, CA",
     "year_founded": 2024,
     "rre_invested_year": 2026,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Transportation / Mobility"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.231192+00:00"
+    "scraped_at": "2026-06-26T16:04:28.340023+00:00"
   },
   {
     "company_name": "BlackSky (NYSE: BKSY)",
@@ -639,12 +771,16 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2015,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NYSE: BKSY",
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.231951+00:00"
+    "scraped_at": "2026-06-26T16:04:28.340794+00:00"
   },
   {
     "company_name": "Blockdaemon",
@@ -658,6 +794,10 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
@@ -665,7 +805,7 @@
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.232634+00:00"
+    "scraped_at": "2026-06-26T16:04:28.341480+00:00"
   },
   {
     "company_name": "Bolt",
@@ -679,12 +819,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.233337+00:00"
+    "scraped_at": "2026-06-26T16:04:28.342178+00:00"
   },
   {
     "company_name": "Boom Supersonic",
@@ -699,12 +843,16 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Climate / Sustainability"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.234034+00:00"
+    "scraped_at": "2026-06-26T16:04:28.342893+00:00"
   },
   {
     "company_name": "Boost Insurance",
@@ -718,11 +866,15 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.235314+00:00"
+    "scraped_at": "2026-06-26T16:04:28.344212+00:00"
   },
   {
     "company_name": "Booster",
@@ -735,13 +887,17 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Logistics / Supply Chain",
       "Climate / Sustainability"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.234673+00:00"
+    "scraped_at": "2026-06-26T16:04:28.343549+00:00"
   },
   {
     "company_name": "Bowery Farming",
@@ -754,11 +910,15 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:22.235961+00:00"
+    "scraped_at": "2026-06-26T16:04:28.344870+00:00"
   },
   {
     "company_name": "Braintree (Acquired)",
@@ -772,11 +932,15 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2010,
+    "status": "Acquired",
+    "acquirer": "Venmo in 2013 and is now PayPal Enterprise Payments",
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.447812+00:00"
+    "scraped_at": "2026-06-26T16:04:29.498536+00:00"
   },
   {
     "company_name": "Branch",
@@ -787,12 +951,16 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Logistics / Supply Chain",
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.448512+00:00"
+    "scraped_at": "2026-06-26T16:04:29.499294+00:00"
   },
   {
     "company_name": "Bread Financial (Acquired)",
@@ -805,11 +973,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2014,
+    "status": "Acquired",
+    "acquirer": "Alliance Data Systems",
+    "ticker_symbol": null,
+    "exit_year": 2020,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.449217+00:00"
+    "scraped_at": "2026-06-26T16:04:29.500052+00:00"
   },
   {
     "company_name": "Brightwheel",
@@ -822,11 +994,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.449953+00:00"
+    "scraped_at": "2026-06-26T16:04:29.500889+00:00"
   },
   {
     "company_name": "Broadsoft",
@@ -839,11 +1015,15 @@
     "headquarters": null,
     "year_founded": 1998,
     "rre_invested_year": 2002,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.450666+00:00"
+    "scraped_at": "2026-06-26T16:04:29.501661+00:00"
   },
   {
     "company_name": "Business Insider (Acquired)",
@@ -856,11 +1036,15 @@
     "headquarters": null,
     "year_founded": 2007,
     "rre_invested_year": 2010,
+    "status": "Acquired",
+    "acquirer": "Axel Springer",
+    "ticker_symbol": null,
+    "exit_year": 2015,
     "everywhere_tags": [
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.451377+00:00"
+    "scraped_at": "2026-06-26T16:04:29.502400+00:00"
   },
   {
     "company_name": "Buzzfeed (NASDAQ: BZFD)",
@@ -874,12 +1058,16 @@
     "headquarters": null,
     "year_founded": 2008,
     "rre_invested_year": 2010,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: BZFD",
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.452099+00:00"
+    "scraped_at": "2026-06-26T16:04:29.503130+00:00"
   },
   {
     "company_name": "Camp",
@@ -892,11 +1080,15 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.452812+00:00"
+    "scraped_at": "2026-06-26T16:04:29.503854+00:00"
   },
   {
     "company_name": "Capitalize",
@@ -910,11 +1102,15 @@
     "headquarters": null,
     "year_founded": 2019,
     "rre_invested_year": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.453510+00:00"
+    "scraped_at": "2026-06-26T16:04:29.504573+00:00"
   },
   {
     "company_name": "Care/of",
@@ -928,12 +1124,16 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Health"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.454182+00:00"
+    "scraped_at": "2026-06-26T16:04:29.505285+00:00"
   },
   {
     "company_name": "Catio",
@@ -947,11 +1147,15 @@
     "headquarters": null,
     "year_founded": 2022,
     "rre_invested_year": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.454862+00:00"
+    "scraped_at": "2026-06-26T16:04:29.506002+00:00"
   },
   {
     "company_name": "Certeon",
@@ -964,11 +1168,15 @@
     "headquarters": null,
     "year_founded": 2003,
     "rre_invested_year": 2007,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.455526+00:00"
+    "scraped_at": "2026-06-26T16:04:29.506703+00:00"
   },
   {
     "company_name": "Certificate Hero",
@@ -983,11 +1191,15 @@
     "headquarters": null,
     "year_founded": 2020,
     "rre_invested_year": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.456234+00:00"
+    "scraped_at": "2026-06-26T16:04:29.507449+00:00"
   },
   {
     "company_name": "Chain (Acquired)",
@@ -1001,12 +1213,16 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2013,
+    "status": "Acquired",
+    "acquirer": "Stellar",
+    "ticker_symbol": null,
+    "exit_year": 2018,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.456907+00:00"
+    "scraped_at": "2026-06-26T16:04:29.508160+00:00"
   },
   {
     "company_name": "Citizen",
@@ -1020,12 +1236,16 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.457574+00:00"
+    "scraped_at": "2026-06-26T16:04:29.508841+00:00"
   },
   {
     "company_name": "Clai",
@@ -1039,11 +1259,15 @@
     "headquarters": "Miami, FL",
     "year_founded": 2024,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.458271+00:00"
+    "scraped_at": "2026-06-26T16:04:29.509636+00:00"
   },
   {
     "company_name": "Clarity Money (Acquired)",
@@ -1056,11 +1280,15 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2016,
+    "status": "Acquired",
+    "acquirer": "Goldman Sachs",
+    "ticker_symbol": null,
+    "exit_year": 2018,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.458931+00:00"
+    "scraped_at": "2026-06-26T16:04:29.510340+00:00"
   },
   {
     "company_name": "ClearGraph (Acquired)",
@@ -1073,11 +1301,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2016,
+    "status": "Acquired",
+    "acquirer": "Tableau",
+    "ticker_symbol": null,
+    "exit_year": 2017,
     "everywhere_tags": [
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.459568+00:00"
+    "scraped_at": "2026-06-26T16:04:29.511030+00:00"
   },
   {
     "company_name": "Clearpath Robotics (Acquired)",
@@ -1090,12 +1322,16 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2014,
+    "status": "Acquired",
+    "acquirer": "Rockwell Automation",
+    "ticker_symbol": null,
+    "exit_year": 2023,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Transportation / Mobility"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.460204+00:00"
+    "scraped_at": "2026-06-26T16:04:29.511712+00:00"
   },
   {
     "company_name": "Clearstep",
@@ -1109,11 +1345,15 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:23.460861+00:00"
+    "scraped_at": "2026-06-26T16:04:29.512416+00:00"
   },
   {
     "company_name": "Clyde",
@@ -1126,12 +1366,16 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Logistics / Supply Chain"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.603805+00:00"
+    "scraped_at": "2026-06-26T16:04:30.779876+00:00"
   },
   {
     "company_name": "Coherence Technologies",
@@ -1144,11 +1388,15 @@
     "headquarters": null,
     "year_founded": 2021,
     "rre_invested_year": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.604527+00:00"
+    "scraped_at": "2026-06-26T16:04:30.780589+00:00"
   },
   {
     "company_name": "Collective Health",
@@ -1162,12 +1410,16 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.605256+00:00"
+    "scraped_at": "2026-06-26T16:04:30.781329+00:00"
   },
   {
     "company_name": "Complete Sleep",
@@ -1181,12 +1433,16 @@
     "headquarters": null,
     "year_founded": 2023,
     "rre_invested_year": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Health"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.605968+00:00"
+    "scraped_at": "2026-06-26T16:04:30.782074+00:00"
   },
   {
     "company_name": "Conceal",
@@ -1199,11 +1455,15 @@
     "headquarters": null,
     "year_founded": 2012,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.606629+00:00"
+    "scraped_at": "2026-06-26T16:04:30.782759+00:00"
   },
   {
     "company_name": "Concentrate AI",
@@ -1218,11 +1478,15 @@
     "headquarters": null,
     "year_founded": 2025,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.607329+00:00"
+    "scraped_at": "2026-06-26T16:04:30.783441+00:00"
   },
   {
     "company_name": "Concur",
@@ -1235,12 +1499,16 @@
     "headquarters": null,
     "year_founded": 1993,
     "rre_invested_year": 1998,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Transportation / Mobility"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.607985+00:00"
+    "scraped_at": "2026-06-26T16:04:30.784116+00:00"
   },
   {
     "company_name": "Copiun (Acquired)",
@@ -1253,11 +1521,15 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2010,
+    "status": "Acquired",
+    "acquirer": "Good Technology",
+    "ticker_symbol": null,
+    "exit_year": 2012,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.608644+00:00"
+    "scraped_at": "2026-06-26T16:04:30.784780+00:00"
   },
   {
     "company_name": "Coverhound (Acquired)",
@@ -1271,12 +1543,16 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2013,
+    "status": "Acquired",
+    "acquirer": "Brown + Brown",
+    "ticker_symbol": null,
+    "exit_year": 2020,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.609328+00:00"
+    "scraped_at": "2026-06-26T16:04:30.785474+00:00"
   },
   {
     "company_name": "Culinary Agents",
@@ -1289,13 +1565,17 @@
     "headquarters": null,
     "year_founded": 2012,
     "rre_invested_year": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "Dev Tools / Cloud",
       "CPG"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.610007+00:00"
+    "scraped_at": "2026-06-26T16:04:30.786149+00:00"
   },
   {
     "company_name": "Cyota",
@@ -1309,13 +1589,17 @@
     "headquarters": null,
     "year_founded": 1999,
     "rre_invested_year": 2002,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Cybersecurity",
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.610716+00:00"
+    "scraped_at": "2026-06-26T16:04:30.786830+00:00"
   },
   {
     "company_name": "Datadog (NASDAQ: DDOG)",
@@ -1329,13 +1613,17 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2011,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: DDOG",
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity",
       "Dev Tools / Cloud",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.611405+00:00"
+    "scraped_at": "2026-06-26T16:04:30.787497+00:00"
   },
   {
     "company_name": "Digital Currency Group",
@@ -1350,13 +1638,17 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.612084+00:00"
+    "scraped_at": "2026-06-26T16:04:30.788195+00:00"
   },
   {
     "company_name": "Digital Genius",
@@ -1370,11 +1662,15 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.612751+00:00"
+    "scraped_at": "2026-06-26T16:04:30.788868+00:00"
   },
   {
     "company_name": "Domain Money",
@@ -1387,11 +1683,15 @@
     "headquarters": null,
     "year_founded": 2021,
     "rre_invested_year": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.613392+00:00"
+    "scraped_at": "2026-06-26T16:04:30.789501+00:00"
   },
   {
     "company_name": "Dots (Acquired)",
@@ -1404,12 +1704,16 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2013,
+    "status": "Acquired",
+    "acquirer": "Take-Two",
+    "ticker_symbol": null,
+    "exit_year": 2020,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.614024+00:00"
+    "scraped_at": "2026-06-26T16:04:30.790143+00:00"
   },
   {
     "company_name": "Drop.io (Acquired)",
@@ -1422,11 +1726,15 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2007,
+    "status": "Acquired",
+    "acquirer": "Facebook",
+    "ticker_symbol": null,
+    "exit_year": 2013,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.614655+00:00"
+    "scraped_at": "2026-06-26T16:04:30.790774+00:00"
   },
   {
     "company_name": "E-Machines",
@@ -1439,11 +1747,15 @@
     "headquarters": null,
     "year_founded": 1998,
     "rre_invested_year": 1998,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.771150+00:00"
+    "scraped_at": "2026-06-26T16:04:31.928925+00:00"
   },
   {
     "company_name": "Earn (Acquired)",
@@ -1458,13 +1770,17 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2015,
+    "status": "Acquired",
+    "acquirer": "Coinbase",
+    "ticker_symbol": null,
+    "exit_year": 2018,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.615321+00:00"
+    "scraped_at": "2026-06-26T16:04:30.791452+00:00"
   },
   {
     "company_name": "Edmund",
@@ -1478,11 +1794,15 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.615971+00:00"
+    "scraped_at": "2026-06-26T16:04:30.792106+00:00"
   },
   {
     "company_name": "Elmntri",
@@ -1496,11 +1816,15 @@
     "headquarters": null,
     "year_founded": 2022,
     "rre_invested_year": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:24.616636+00:00"
+    "scraped_at": "2026-06-26T16:04:30.792842+00:00"
   },
   {
     "company_name": "Ember",
@@ -1514,12 +1838,16 @@
     "headquarters": null,
     "year_founded": 2001,
     "rre_invested_year": 2002,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Climate / Sustainability"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.771950+00:00"
+    "scraped_at": "2026-06-26T16:04:31.929673+00:00"
   },
   {
     "company_name": "Enpirion (Acquired)",
@@ -1532,11 +1860,15 @@
     "headquarters": null,
     "year_founded": 2001,
     "rre_invested_year": 2004,
+    "status": "Acquired",
+    "acquirer": "Altera Corporation",
+    "ticker_symbol": null,
+    "exit_year": 2013,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.772724+00:00"
+    "scraped_at": "2026-06-26T16:04:31.930385+00:00"
   },
   {
     "company_name": "Extricity (Acquired)",
@@ -1549,9 +1881,13 @@
     "headquarters": null,
     "year_founded": 2001,
     "rre_invested_year": 1998,
+    "status": "Acquired",
+    "acquirer": "Peregrine Systems",
+    "ticker_symbol": null,
+    "exit_year": 2001,
     "everywhere_tags": [],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.773469+00:00"
+    "scraped_at": "2026-06-26T16:04:31.931090+00:00"
   },
   {
     "company_name": "Farsight AI",
@@ -1566,11 +1902,15 @@
     "headquarters": null,
     "year_founded": 2022,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.774261+00:00"
+    "scraped_at": "2026-06-26T16:04:31.931833+00:00"
   },
   {
     "company_name": "Fi",
@@ -1584,13 +1924,17 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Deeptech / Robotics / AR/VR",
       "CPG"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.774991+00:00"
+    "scraped_at": "2026-06-26T16:04:31.932566+00:00"
   },
   {
     "company_name": "Filecoin",
@@ -1603,12 +1947,16 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.775688+00:00"
+    "scraped_at": "2026-06-26T16:04:31.933264+00:00"
   },
   {
     "company_name": "First Performance (Acquired)",
@@ -1622,12 +1970,16 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2016,
+    "status": "Acquired",
+    "acquirer": "Mastercard",
+    "ticker_symbol": null,
+    "exit_year": 2024,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.776438+00:00"
+    "scraped_at": "2026-06-26T16:04:31.934012+00:00"
   },
   {
     "company_name": "Foundation EGI",
@@ -1641,9 +1993,13 @@
     "headquarters": null,
     "year_founded": 2023,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.777204+00:00"
+    "scraped_at": "2026-06-26T16:04:31.934775+00:00"
   },
   {
     "company_name": "Frictionless Commerce (Acquired)",
@@ -1656,11 +2012,15 @@
     "headquarters": null,
     "year_founded": 1998,
     "rre_invested_year": 2000,
+    "status": "Acquired",
+    "acquirer": "SAP",
+    "ticker_symbol": null,
+    "exit_year": 2006,
     "everywhere_tags": [
       "Logistics / Supply Chain"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.777913+00:00"
+    "scraped_at": "2026-06-26T16:04:31.935447+00:00"
   },
   {
     "company_name": "Fundamental",
@@ -1674,9 +2034,13 @@
     "headquarters": null,
     "year_founded": 2024,
     "rre_invested_year": 2026,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.778641+00:00"
+    "scraped_at": "2026-06-26T16:04:31.936128+00:00"
   },
   {
     "company_name": "Gem (Acquired)",
@@ -1690,13 +2054,17 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2014,
+    "status": "Acquired",
+    "acquirer": "Blockdaemon",
+    "ticker_symbol": null,
+    "exit_year": 2022,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.779378+00:00"
+    "scraped_at": "2026-06-26T16:04:31.936822+00:00"
   },
   {
     "company_name": "Getlabs (Acquired)",
@@ -1710,12 +2078,16 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2024,
+    "status": "Acquired",
+    "acquirer": "Function Health",
+    "ticker_symbol": null,
+    "exit_year": 2026,
     "everywhere_tags": [
       "Consumer",
       "Health"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.780104+00:00"
+    "scraped_at": "2026-06-26T16:04:31.937517+00:00"
   },
   {
     "company_name": "GIPHY (Acquired)",
@@ -1728,11 +2100,15 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2014,
+    "status": "Acquired",
+    "acquirer": "Facebook",
+    "ticker_symbol": null,
+    "exit_year": 2020,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.780775+00:00"
+    "scraped_at": "2026-06-26T16:04:31.938178+00:00"
   },
   {
     "company_name": "Goodlight",
@@ -1745,13 +2121,17 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Data & Analytics",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.781427+00:00"
+    "scraped_at": "2026-06-26T16:04:31.938826+00:00"
   },
   {
     "company_name": "Granted",
@@ -1765,11 +2145,15 @@
     "headquarters": null,
     "year_founded": 2023,
     "rre_invested_year": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.782105+00:00"
+    "scraped_at": "2026-06-26T16:04:31.939504+00:00"
   },
   {
     "company_name": "GreatHorn",
@@ -1782,12 +2166,16 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.782776+00:00"
+    "scraped_at": "2026-06-26T16:04:31.940197+00:00"
   },
   {
     "company_name": "Group Nine Media (Acquired)",
@@ -1800,11 +2188,15 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2013,
+    "status": "Acquired",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.783460+00:00"
+    "scraped_at": "2026-06-26T16:04:31.940857+00:00"
   },
   {
     "company_name": "Groups",
@@ -1817,11 +2209,15 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.784112+00:00"
+    "scraped_at": "2026-06-26T16:04:31.941481+00:00"
   },
   {
     "company_name": "Haitou Global",
@@ -1835,12 +2231,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:25.784798+00:00"
+    "scraped_at": "2026-06-26T16:04:31.942139+00:00"
   },
   {
     "company_name": "Haystacks.AI",
@@ -1853,11 +2253,15 @@
     "headquarters": null,
     "year_founded": 2021,
     "rre_invested_year": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "PropTech"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.905699+00:00"
+    "scraped_at": "2026-06-26T16:04:33.075835+00:00"
   },
   {
     "company_name": "Heights Labs",
@@ -1871,11 +2275,15 @@
     "headquarters": null,
     "year_founded": 2020,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.906490+00:00"
+    "scraped_at": "2026-06-26T16:04:33.076627+00:00"
   },
   {
     "company_name": "HireHaven",
@@ -1888,11 +2296,15 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.907236+00:00"
+    "scraped_at": "2026-06-26T16:04:33.077373+00:00"
   },
   {
     "company_name": "Hot Potato Media (Acquired)",
@@ -1905,11 +2317,15 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2009,
+    "status": "Acquired",
+    "acquirer": "Facebook (Meta)",
+    "ticker_symbol": null,
+    "exit_year": 2010,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.907981+00:00"
+    "scraped_at": "2026-06-26T16:04:33.078131+00:00"
   },
   {
     "company_name": "HowAboutWe",
@@ -1923,12 +2339,16 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.908738+00:00"
+    "scraped_at": "2026-06-26T16:04:33.078894+00:00"
   },
   {
     "company_name": "HuffPost (Acquired)",
@@ -1942,12 +2362,16 @@
     "headquarters": null,
     "year_founded": 2005,
     "rre_invested_year": 2010,
+    "status": "Acquired",
+    "acquirer": "BuzzFeed",
+    "ticker_symbol": null,
+    "exit_year": 2021,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.909513+00:00"
+    "scraped_at": "2026-06-26T16:04:33.079670+00:00"
   },
   {
     "company_name": "HYLA Mobile (Acquired)",
@@ -1960,11 +2384,15 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2011,
+    "status": "Acquired",
+    "acquirer": "Assurant",
+    "ticker_symbol": null,
+    "exit_year": 2020,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.910254+00:00"
+    "scraped_at": "2026-06-26T16:04:33.080388+00:00"
   },
   {
     "company_name": "HyperSpectral",
@@ -1978,11 +2406,15 @@
     "headquarters": null,
     "year_founded": 2022,
     "rre_invested_year": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.911095+00:00"
+    "scraped_at": "2026-06-26T16:04:33.081095+00:00"
   },
   {
     "company_name": "HYPR",
@@ -1995,11 +2427,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.911828+00:00"
+    "scraped_at": "2026-06-26T16:04:33.081808+00:00"
   },
   {
     "company_name": "iCrossing",
@@ -2013,11 +2449,15 @@
     "headquarters": null,
     "year_founded": 1998,
     "rre_invested_year": 2005,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.912561+00:00"
+    "scraped_at": "2026-06-26T16:04:33.082521+00:00"
   },
   {
     "company_name": "Imgix",
@@ -2031,11 +2471,15 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.913295+00:00"
+    "scraped_at": "2026-06-26T16:04:33.083240+00:00"
   },
   {
     "company_name": "InfiCorp",
@@ -2049,11 +2493,15 @@
     "headquarters": null,
     "year_founded": 1994,
     "rre_invested_year": 1998,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.914023+00:00"
+    "scraped_at": "2026-06-26T16:04:33.083958+00:00"
   },
   {
     "company_name": "K2 Integrity",
@@ -2066,11 +2514,15 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "RegTech/Gov/Legal"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.914732+00:00"
+    "scraped_at": "2026-06-26T16:04:33.084652+00:00"
   },
   {
     "company_name": "Kaleidoscope Labs",
@@ -2083,11 +2535,15 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.915429+00:00"
+    "scraped_at": "2026-06-26T16:04:33.085328+00:00"
   },
   {
     "company_name": "Kik",
@@ -2103,6 +2559,10 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Web3 / Crypto",
@@ -2110,7 +2570,7 @@
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.916180+00:00"
+    "scraped_at": "2026-06-26T16:04:33.086054+00:00"
   },
   {
     "company_name": "Kindbody",
@@ -2124,12 +2584,16 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.916875+00:00"
+    "scraped_at": "2026-06-26T16:04:33.086733+00:00"
   },
   {
     "company_name": "Kindo",
@@ -2143,11 +2607,15 @@
     "headquarters": null,
     "year_founded": 2022,
     "rre_invested_year": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.917550+00:00"
+    "scraped_at": "2026-06-26T16:04:33.087419+00:00"
   },
   {
     "company_name": "Knock",
@@ -2160,12 +2628,16 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.918221+00:00"
+    "scraped_at": "2026-06-26T16:04:33.088093+00:00"
   },
   {
     "company_name": "Kroll Bond Rating Agency",
@@ -2178,12 +2650,16 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.918935+00:00"
+    "scraped_at": "2026-06-26T16:04:33.088752+00:00"
   },
   {
     "company_name": "Ladder",
@@ -2197,12 +2673,16 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:26.919695+00:00"
+    "scraped_at": "2026-06-26T16:04:33.089435+00:00"
   },
   {
     "company_name": "Latch (IPO: DOOR)",
@@ -2215,11 +2695,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2017,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "IPO: DOOR",
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.058814+00:00"
+    "scraped_at": "2026-06-26T16:04:34.247786+00:00"
   },
   {
     "company_name": "LearnBoost",
@@ -2233,11 +2717,15 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.059583+00:00"
+    "scraped_at": "2026-06-26T16:04:34.248565+00:00"
   },
   {
     "company_name": "Lightning Labs",
@@ -2251,13 +2739,17 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.060300+00:00"
+    "scraped_at": "2026-06-26T16:04:34.249322+00:00"
   },
   {
     "company_name": "Liquid Machines",
@@ -2270,11 +2762,15 @@
     "headquarters": null,
     "year_founded": 2001,
     "rre_invested_year": 2007,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.061011+00:00"
+    "scraped_at": "2026-06-26T16:04:34.250052+00:00"
   },
   {
     "company_name": "Lit Protocol",
@@ -2288,11 +2784,15 @@
     "headquarters": null,
     "year_founded": 2022,
     "rre_invested_year": 2026,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.061737+00:00"
+    "scraped_at": "2026-06-26T16:04:34.250882+00:00"
   },
   {
     "company_name": "Logentries (Acquired)",
@@ -2305,11 +2805,15 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2012,
+    "status": "Acquired",
+    "acquirer": "Rapid7",
+    "ticker_symbol": null,
+    "exit_year": 2015,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.062431+00:00"
+    "scraped_at": "2026-06-26T16:04:34.251663+00:00"
   },
   {
     "company_name": "Lovelace",
@@ -2324,11 +2828,15 @@
     "headquarters": null,
     "year_founded": 2023,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.063186+00:00"
+    "scraped_at": "2026-06-26T16:04:34.252441+00:00"
   },
   {
     "company_name": "Lucy Goods",
@@ -2341,11 +2849,15 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.063857+00:00"
+    "scraped_at": "2026-06-26T16:04:34.253137+00:00"
   },
   {
     "company_name": "Lynk",
@@ -2359,11 +2871,15 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.064548+00:00"
+    "scraped_at": "2026-06-26T16:04:34.253858+00:00"
   },
   {
     "company_name": "MakerBot",
@@ -2378,12 +2894,16 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2011,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.065237+00:00"
+    "scraped_at": "2026-06-26T16:04:34.254587+00:00"
   },
   {
     "company_name": "Massive",
@@ -2399,6 +2919,10 @@
     "headquarters": null,
     "year_founded": 2004,
     "rre_invested_year": 2004,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance",
@@ -2406,7 +2930,7 @@
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.065947+00:00"
+    "scraped_at": "2026-06-26T16:04:34.255324+00:00"
   },
   {
     "company_name": "Maude",
@@ -2419,11 +2943,15 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.066624+00:00"
+    "scraped_at": "2026-06-26T16:04:34.256002+00:00"
   },
   {
     "company_name": "Merlin (Acquired)",
@@ -2437,11 +2965,15 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2017,
+    "status": "Acquired",
+    "acquirer": "Commure",
+    "ticker_symbol": null,
+    "exit_year": 2020,
     "everywhere_tags": [
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.067329+00:00"
+    "scraped_at": "2026-06-26T16:04:34.256731+00:00"
   },
   {
     "company_name": "MessageOne",
@@ -2454,11 +2986,15 @@
     "headquarters": null,
     "year_founded": 2000,
     "rre_invested_year": 2002,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.067994+00:00"
+    "scraped_at": "2026-06-26T16:04:34.257429+00:00"
   },
   {
     "company_name": "Metapath (Acquired)",
@@ -2471,11 +3007,15 @@
     "headquarters": null,
     "year_founded": 1997,
     "rre_invested_year": 1997,
+    "status": "Acquired",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.068659+00:00"
+    "scraped_at": "2026-06-26T16:04:34.258106+00:00"
   },
   {
     "company_name": "Midas",
@@ -2488,11 +3028,15 @@
     "headquarters": null,
     "year_founded": 2024,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.069335+00:00"
+    "scraped_at": "2026-06-26T16:04:34.258798+00:00"
   },
   {
     "company_name": "Mighty Health",
@@ -2506,12 +3050,16 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.069995+00:00"
+    "scraped_at": "2026-06-26T16:04:34.259600+00:00"
   },
   {
     "company_name": "Mingyian",
@@ -2524,11 +3072,15 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.070624+00:00"
+    "scraped_at": "2026-06-26T16:04:34.260273+00:00"
   },
   {
     "company_name": "Mobalytics (Acquired)",
@@ -2541,13 +3093,17 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2018,
+    "status": "Acquired",
+    "acquirer": "ESL Faceit",
+    "ticker_symbol": null,
+    "exit_year": 2025,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment",
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.071262+00:00"
+    "scraped_at": "2026-06-26T16:04:34.260954+00:00"
   },
   {
     "company_name": "Mobot",
@@ -2563,11 +3119,15 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:28.071960+00:00"
+    "scraped_at": "2026-06-26T16:04:34.261688+00:00"
   },
   {
     "company_name": "Moda Operandi",
@@ -2581,11 +3141,15 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2012,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.267551+00:00"
+    "scraped_at": "2026-06-26T16:04:35.476785+00:00"
   },
   {
     "company_name": "Moov",
@@ -2600,13 +3164,17 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.268344+00:00"
+    "scraped_at": "2026-06-26T16:04:35.477568+00:00"
   },
   {
     "company_name": "Nanit",
@@ -2621,13 +3189,17 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Deeptech / Robotics / AR/VR",
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.269112+00:00"
+    "scraped_at": "2026-06-26T16:04:35.478351+00:00"
   },
   {
     "company_name": "NerdWallet (NASDAQ: NRDS)",
@@ -2642,13 +3214,17 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2015,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: NRDS",
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.269867+00:00"
+    "scraped_at": "2026-06-26T16:04:35.479160+00:00"
   },
   {
     "company_name": "Netcentives",
@@ -2661,11 +3237,15 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 1997,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.270552+00:00"
+    "scraped_at": "2026-06-26T16:04:35.479886+00:00"
   },
   {
     "company_name": "Netsertive",
@@ -2678,9 +3258,13 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.271252+00:00"
+    "scraped_at": "2026-06-26T16:04:35.480585+00:00"
   },
   {
     "company_name": "Nexsan",
@@ -2694,13 +3278,17 @@
     "headquarters": null,
     "year_founded": 1999,
     "rre_invested_year": 2002,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Dev Tools / Cloud",
       "Climate / Sustainability"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.271974+00:00"
+    "scraped_at": "2026-06-26T16:04:35.481308+00:00"
   },
   {
     "company_name": "Nihaopay",
@@ -2713,11 +3301,15 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.272666+00:00"
+    "scraped_at": "2026-06-26T16:04:35.481994+00:00"
   },
   {
     "company_name": "Nodejitsu",
@@ -2730,11 +3322,15 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.273354+00:00"
+    "scraped_at": "2026-06-26T16:04:35.482676+00:00"
   },
   {
     "company_name": "NodeSource",
@@ -2747,11 +3343,15 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.274055+00:00"
+    "scraped_at": "2026-06-26T16:04:35.483372+00:00"
   },
   {
     "company_name": "Nomad Health",
@@ -2764,12 +3364,16 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "Transportation / Mobility"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.274747+00:00"
+    "scraped_at": "2026-06-26T16:04:35.484104+00:00"
   },
   {
     "company_name": "Noom",
@@ -2784,13 +3388,17 @@
     "headquarters": null,
     "year_founded": 2008,
     "rre_invested_year": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Health",
       "Climate / Sustainability"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.275448+00:00"
+    "scraped_at": "2026-06-26T16:04:35.484862+00:00"
   },
   {
     "company_name": "Northstar (Acquired)",
@@ -2803,12 +3411,16 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2018,
+    "status": "Acquired",
+    "acquirer": "Nayya Health",
+    "ticker_symbol": null,
+    "exit_year": 2025,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.276104+00:00"
+    "scraped_at": "2026-06-26T16:04:35.485567+00:00"
   },
   {
     "company_name": "Novo",
@@ -2822,12 +3434,16 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.276776+00:00"
+    "scraped_at": "2026-06-26T16:04:35.486273+00:00"
   },
   {
     "company_name": "Octane11",
@@ -2841,12 +3457,16 @@
     "headquarters": null,
     "year_founded": 2019,
     "rre_invested_year": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Data & Analytics",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.277468+00:00"
+    "scraped_at": "2026-06-26T16:04:35.486950+00:00"
   },
   {
     "company_name": "Odyssey",
@@ -2859,11 +3479,15 @@
     "headquarters": null,
     "year_founded": 1999,
     "rre_invested_year": 1999,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Logistics / Supply Chain"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.278131+00:00"
+    "scraped_at": "2026-06-26T16:04:35.487634+00:00"
   },
   {
     "company_name": "Olo (NYSE: OLO)",
@@ -2877,12 +3501,16 @@
     "headquarters": null,
     "year_founded": 2005,
     "rre_invested_year": 2008,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NYSE: OLO",
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Logistics / Supply Chain"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.278824+00:00"
+    "scraped_at": "2026-06-26T16:04:35.488331+00:00"
   },
   {
     "company_name": "OnDeck",
@@ -2897,13 +3525,17 @@
     "headquarters": null,
     "year_founded": 2006,
     "rre_invested_year": 2007,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.279509+00:00"
+    "scraped_at": "2026-06-26T16:04:35.489013+00:00"
   },
   {
     "company_name": "One Drop",
@@ -2916,11 +3548,15 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.280161+00:00"
+    "scraped_at": "2026-06-26T16:04:35.489658+00:00"
   },
   {
     "company_name": "OpenEnvoy",
@@ -2936,11 +3572,15 @@
     "headquarters": null,
     "year_founded": 2020,
     "rre_invested_year": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:29.280851+00:00"
+    "scraped_at": "2026-06-26T16:04:35.490370+00:00"
   },
   {
     "company_name": "Orchestria",
@@ -2953,11 +3593,15 @@
     "headquarters": null,
     "year_founded": 2000,
     "rre_invested_year": 2005,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.434345+00:00"
+    "scraped_at": "2026-06-26T16:04:36.630537+00:00"
   },
   {
     "company_name": "Originalis",
@@ -2972,11 +3616,15 @@
     "headquarters": null,
     "year_founded": 2024,
     "rre_invested_year": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.435152+00:00"
+    "scraped_at": "2026-06-26T16:04:36.631335+00:00"
   },
   {
     "company_name": "Ostro (Acquired)",
@@ -2990,12 +3638,16 @@
     "headquarters": null,
     "year_founded": 2019,
     "rre_invested_year": 2019,
+    "status": "Acquired",
+    "acquirer": "Veeva",
+    "ticker_symbol": null,
+    "exit_year": 2026,
     "everywhere_tags": [
       "Health",
       "BioTech"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.435963+00:00"
+    "scraped_at": "2026-06-26T16:04:36.632128+00:00"
   },
   {
     "company_name": "OTTO Motors",
@@ -3009,13 +3661,17 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Transportation / Mobility",
       "Logistics / Supply Chain"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.436751+00:00"
+    "scraped_at": "2026-06-26T16:04:36.632901+00:00"
   },
   {
     "company_name": "Palantir (NYSE: PLTR)",
@@ -3029,11 +3685,15 @@
     "headquarters": null,
     "year_founded": 2004,
     "rre_invested_year": 2014,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NYSE: PLTR",
+    "exit_year": null,
     "everywhere_tags": [
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.437522+00:00"
+    "scraped_at": "2026-06-26T16:04:36.633830+00:00"
   },
   {
     "company_name": "Palm NFT Studio (Acquired)",
@@ -3046,13 +3706,17 @@
     "headquarters": null,
     "year_founded": 2020,
     "rre_invested_year": 2021,
+    "status": "Acquired",
+    "acquirer": "Candy Digital",
+    "ticker_symbol": null,
+    "exit_year": 2023,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Web3 / Crypto",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.438264+00:00"
+    "scraped_at": "2026-06-26T16:04:36.634616+00:00"
   },
   {
     "company_name": "Paperless Post",
@@ -3067,11 +3731,15 @@
     "headquarters": null,
     "year_founded": 2012,
     "rre_invested_year": 2012,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.439021+00:00"
+    "scraped_at": "2026-06-26T16:04:36.635409+00:00"
   },
   {
     "company_name": "Parallel Domain",
@@ -3085,11 +3753,15 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Transportation / Mobility"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.439738+00:00"
+    "scraped_at": "2026-06-26T16:04:36.636144+00:00"
   },
   {
     "company_name": "PartnerStack (Acquired)",
@@ -3102,11 +3774,15 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2019,
+    "status": "Acquired",
+    "acquirer": "AppDirect",
+    "ticker_symbol": null,
+    "exit_year": 2026,
     "everywhere_tags": [
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.440443+00:00"
+    "scraped_at": "2026-06-26T16:04:36.636854+00:00"
   },
   {
     "company_name": "Paxos",
@@ -3120,12 +3796,16 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.441174+00:00"
+    "scraped_at": "2026-06-26T16:04:36.637575+00:00"
   },
   {
     "company_name": "Payall",
@@ -3139,12 +3819,16 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.441911+00:00"
+    "scraped_at": "2026-06-26T16:04:36.638291+00:00"
   },
   {
     "company_name": "PebblePost",
@@ -3158,11 +3842,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.442629+00:00"
+    "scraped_at": "2026-06-26T16:04:36.638997+00:00"
   },
   {
     "company_name": "Pickle Robot",
@@ -3175,12 +3863,16 @@
     "headquarters": null,
     "year_founded": 2019,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Logistics / Supply Chain"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.443337+00:00"
+    "scraped_at": "2026-06-26T16:04:36.639705+00:00"
   },
   {
     "company_name": "Pilot Fiber",
@@ -3194,11 +3886,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.444071+00:00"
+    "scraped_at": "2026-06-26T16:04:36.640420+00:00"
   },
   {
     "company_name": "Players' Lounge",
@@ -3211,12 +3907,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.444744+00:00"
+    "scraped_at": "2026-06-26T16:04:36.641104+00:00"
   },
   {
     "company_name": "Polyester",
@@ -3229,11 +3929,15 @@
     "headquarters": null,
     "year_founded": 2025,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.445400+00:00"
+    "scraped_at": "2026-06-26T16:04:36.641771+00:00"
   },
   {
     "company_name": "PrimeRevenue",
@@ -3247,11 +3951,15 @@
     "headquarters": null,
     "year_founded": 2003,
     "rre_invested_year": 2005,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.446073+00:00"
+    "scraped_at": "2026-06-26T16:04:36.642458+00:00"
   },
   {
     "company_name": "Productopia",
@@ -3264,11 +3972,15 @@
     "headquarters": null,
     "year_founded": 1998,
     "rre_invested_year": 1999,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.446726+00:00"
+    "scraped_at": "2026-06-26T16:04:36.643134+00:00"
   },
   {
     "company_name": "Proofpoint (NASDAQ: PFPT)",
@@ -3281,12 +3993,16 @@
     "headquarters": null,
     "year_founded": 2002,
     "rre_invested_year": 2003,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: PFPT",
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity",
       "RegTech/Gov/Legal"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.447395+00:00"
+    "scraped_at": "2026-06-26T16:04:36.643797+00:00"
   },
   {
     "company_name": "Prove",
@@ -3301,13 +4017,17 @@
     "headquarters": null,
     "year_founded": 2008,
     "rre_invested_year": 2008,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Cybersecurity",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:30.448102+00:00"
+    "scraped_at": "2026-06-26T16:04:36.644499+00:00"
   },
   {
     "company_name": "Qoral",
@@ -3321,12 +4041,16 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.577706+00:00"
+    "scraped_at": "2026-06-26T16:04:37.793160+00:00"
   },
   {
     "company_name": "Qpass (Acquired)",
@@ -3339,11 +4063,15 @@
     "headquarters": null,
     "year_founded": 1997,
     "rre_invested_year": 1999,
+    "status": "Acquired",
+    "acquirer": "Amdocs",
+    "ticker_symbol": null,
+    "exit_year": 2006,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.578476+00:00"
+    "scraped_at": "2026-06-26T16:04:37.793931+00:00"
   },
   {
     "company_name": "Ravn",
@@ -3356,11 +4084,15 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.579232+00:00"
+    "scraped_at": "2026-06-26T16:04:37.794697+00:00"
   },
   {
     "company_name": "Recyclebank",
@@ -3374,12 +4106,16 @@
     "headquarters": null,
     "year_founded": 2004,
     "rre_invested_year": 2007,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.579992+00:00"
+    "scraped_at": "2026-06-26T16:04:37.795466+00:00"
   },
   {
     "company_name": "Redox",
@@ -3393,12 +4129,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.580757+00:00"
+    "scraped_at": "2026-06-26T16:04:37.796250+00:00"
   },
   {
     "company_name": "Renumerate",
@@ -3412,11 +4152,15 @@
     "headquarters": null,
     "year_founded": 2023,
     "rre_invested_year": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.581504+00:00"
+    "scraped_at": "2026-06-26T16:04:37.797005+00:00"
   },
   {
     "company_name": "Revolution Money (Acquired)",
@@ -3430,12 +4174,16 @@
     "headquarters": null,
     "year_founded": 2007,
     "rre_invested_year": 2009,
+    "status": "Acquired",
+    "acquirer": "American Express",
+    "ticker_symbol": null,
+    "exit_year": 2010,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.582226+00:00"
+    "scraped_at": "2026-06-26T16:04:37.797789+00:00"
   },
   {
     "company_name": "Revolution Space",
@@ -3449,11 +4197,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.582942+00:00"
+    "scraped_at": "2026-06-26T16:04:37.798550+00:00"
   },
   {
     "company_name": "Ripple",
@@ -3468,13 +4220,17 @@
     "headquarters": null,
     "year_founded": 2012,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.583698+00:00"
+    "scraped_at": "2026-06-26T16:04:37.799299+00:00"
   },
   {
     "company_name": "Sailthru (Acquired)",
@@ -3487,11 +4243,15 @@
     "headquarters": null,
     "year_founded": 2008,
     "rre_invested_year": 2010,
+    "status": "Acquired",
+    "acquirer": "Campaign Monitor",
+    "ticker_symbol": null,
+    "exit_year": 2019,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.584419+00:00"
+    "scraped_at": "2026-06-26T16:04:37.800027+00:00"
   },
   {
     "company_name": "Science",
@@ -3505,12 +4265,16 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": null,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "BioTech"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.585145+00:00"
+    "scraped_at": "2026-06-26T16:04:37.800745+00:00"
   },
   {
     "company_name": "ScreenMeet",
@@ -3523,11 +4287,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.585868+00:00"
+    "scraped_at": "2026-06-26T16:04:37.801455+00:00"
   },
   {
     "company_name": "Securrency",
@@ -3542,13 +4310,17 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.586623+00:00"
+    "scraped_at": "2026-06-26T16:04:37.802187+00:00"
   },
   {
     "company_name": "Sequel",
@@ -3561,11 +4333,15 @@
     "headquarters": null,
     "year_founded": 2018,
     "rre_invested_year": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.587324+00:00"
+    "scraped_at": "2026-06-26T16:04:37.802888+00:00"
   },
   {
     "company_name": "Shortcut",
@@ -3578,11 +4354,15 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.588001+00:00"
+    "scraped_at": "2026-06-26T16:04:37.803592+00:00"
   },
   {
     "company_name": "SideTour (Acquired)",
@@ -3595,11 +4375,15 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2011,
+    "status": "Acquired",
+    "acquirer": "Groupon",
+    "ticker_symbol": null,
+    "exit_year": 2013,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.588669+00:00"
+    "scraped_at": "2026-06-26T16:04:37.804290+00:00"
   },
   {
     "company_name": "Silvertree",
@@ -3613,12 +4397,16 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.589349+00:00"
+    "scraped_at": "2026-06-26T16:04:37.804968+00:00"
   },
   {
     "company_name": "SinglePlatform (Acquired)",
@@ -3634,13 +4422,17 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2010,
+    "status": "Acquired",
+    "acquirer": "Constant Contact",
+    "ticker_symbol": null,
+    "exit_year": 2012,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.590073+00:00"
+    "scraped_at": "2026-06-26T16:04:37.805691+00:00"
   },
   {
     "company_name": "Skyhook (Acquired)",
@@ -3653,11 +4445,15 @@
     "headquarters": null,
     "year_founded": 2003,
     "rre_invested_year": 2007,
+    "status": "Acquired",
+    "acquirer": "Liberty Media",
+    "ticker_symbol": null,
+    "exit_year": 2016,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.590743+00:00"
+    "scraped_at": "2026-06-26T16:04:37.806368+00:00"
   },
   {
     "company_name": "SmarterKids",
@@ -3671,12 +4467,16 @@
     "headquarters": null,
     "year_founded": 1998,
     "rre_invested_year": 1999,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:31.591418+00:00"
+    "scraped_at": "2026-06-26T16:04:37.807054+00:00"
   },
   {
     "company_name": "Smartpay",
@@ -3690,12 +4490,16 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2005,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.720490+00:00"
+    "scraped_at": "2026-06-26T16:04:38.934906+00:00"
   },
   {
     "company_name": "SocialFlow (Acquired)",
@@ -3709,12 +4513,16 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2011,
+    "status": "Acquired",
+    "acquirer": "Piano",
+    "ticker_symbol": null,
+    "exit_year": 2022,
     "everywhere_tags": [
       "Gaming / Media / Entertainment",
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.721278+00:00"
+    "scraped_at": "2026-06-26T16:04:38.935695+00:00"
   },
   {
     "company_name": "Soma Energy",
@@ -3727,11 +4535,15 @@
     "headquarters": null,
     "year_founded": 2024,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Climate / Sustainability"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.722057+00:00"
+    "scraped_at": "2026-06-26T16:04:38.936459+00:00"
   },
   {
     "company_name": "Sonia",
@@ -3744,9 +4556,13 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.722791+00:00"
+    "scraped_at": "2026-06-26T16:04:38.937179+00:00"
   },
   {
     "company_name": "Spanfeller Media Group",
@@ -3759,11 +4575,15 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.723543+00:00"
+    "scraped_at": "2026-06-26T16:04:38.937908+00:00"
   },
   {
     "company_name": "Spire (NYSE: SPIR)",
@@ -3779,13 +4599,17 @@
     "headquarters": null,
     "year_founded": 2012,
     "rre_invested_year": 2014,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NYSE: SPIR",
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Transportation / Mobility",
       "Logistics / Supply Chain"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.724361+00:00"
+    "scraped_at": "2026-06-26T16:04:38.938673+00:00"
   },
   {
     "company_name": "Spring Health",
@@ -3800,12 +4624,16 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Health",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.725147+00:00"
+    "scraped_at": "2026-06-26T16:04:38.939411+00:00"
   },
   {
     "company_name": "Spring Labs",
@@ -3820,13 +4648,17 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "FinTech / Insurance",
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.725873+00:00"
+    "scraped_at": "2026-06-26T16:04:38.940153+00:00"
   },
   {
     "company_name": "SquareFoot",
@@ -3837,12 +4669,16 @@
     "headquarters": null,
     "year_founded": 2011,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.726544+00:00"
+    "scraped_at": "2026-06-26T16:04:38.940837+00:00"
   },
   {
     "company_name": "Staircase",
@@ -3855,13 +4691,17 @@
     "headquarters": null,
     "year_founded": 2019,
     "rre_invested_year": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Dev Tools / Cloud",
       "PropTech"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.727243+00:00"
+    "scraped_at": "2026-06-26T16:04:38.941524+00:00"
   },
   {
     "company_name": "Stella Connect (Acquired)",
@@ -3874,12 +4714,16 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2011,
+    "status": "Acquired",
+    "acquirer": "Medallia",
+    "ticker_symbol": null,
+    "exit_year": 2020,
     "everywhere_tags": [
       "Data & Analytics",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.727962+00:00"
+    "scraped_at": "2026-06-26T16:04:38.942239+00:00"
   },
   {
     "company_name": "Summer",
@@ -3893,12 +4737,16 @@
     "headquarters": null,
     "year_founded": 2022,
     "rre_invested_year": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Data & Analytics",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.728668+00:00"
+    "scraped_at": "2026-06-26T16:04:38.942959+00:00"
   },
   {
     "company_name": "Supergreat (Acquired)",
@@ -3911,12 +4759,16 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2018,
+    "status": "Acquired",
+    "acquirer": "WhatNot",
+    "ticker_symbol": null,
+    "exit_year": 2023,
     "everywhere_tags": [
       "Consumer",
       "CPG"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.729362+00:00"
+    "scraped_at": "2026-06-26T16:04:38.943643+00:00"
   },
   {
     "company_name": "Sygaldry",
@@ -3930,12 +4782,16 @@
     "headquarters": null,
     "year_founded": 2024,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.730067+00:00"
+    "scraped_at": "2026-06-26T16:04:38.944313+00:00"
   },
   {
     "company_name": "Tacit Networks (Acquired)",
@@ -3949,11 +4805,15 @@
     "headquarters": null,
     "year_founded": 2000,
     "rre_invested_year": 2002,
+    "status": "Acquired",
+    "acquirer": "Brocade",
+    "ticker_symbol": null,
+    "exit_year": 2005,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.730786+00:00"
+    "scraped_at": "2026-06-26T16:04:38.945000+00:00"
   },
   {
     "company_name": "Taleo (Acquired)",
@@ -3966,12 +4826,16 @@
     "headquarters": null,
     "year_founded": 1999,
     "rre_invested_year": 2000,
+    "status": "Acquired",
+    "acquirer": "Oracle",
+    "ticker_symbol": null,
+    "exit_year": 2012,
     "everywhere_tags": [
       "Dev Tools / Cloud",
       "Future of Work"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.731443+00:00"
+    "scraped_at": "2026-06-26T16:04:38.945678+00:00"
   },
   {
     "company_name": "TapCommerce (Acquired)",
@@ -3987,6 +4851,10 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2012,
+    "status": "Acquired",
+    "acquirer": "Twitter",
+    "ticker_symbol": null,
+    "exit_year": 2014,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance",
@@ -3994,7 +4862,7 @@
       "Transportation / Mobility"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.732156+00:00"
+    "scraped_at": "2026-06-26T16:04:38.946405+00:00"
   },
   {
     "company_name": "Taqua (Acquired)",
@@ -4007,11 +4875,15 @@
     "headquarters": null,
     "year_founded": 1998,
     "rre_invested_year": 2002,
+    "status": "Acquired",
+    "acquirer": "Sonus Networks",
+    "ticker_symbol": null,
+    "exit_year": 2006,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.732831+00:00"
+    "scraped_at": "2026-06-26T16:04:38.947072+00:00"
   },
   {
     "company_name": "Tato",
@@ -4025,11 +4897,15 @@
     "headquarters": null,
     "year_founded": 2024,
     "rre_invested_year": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.733549+00:00"
+    "scraped_at": "2026-06-26T16:04:38.947770+00:00"
   },
   {
     "company_name": "Telocity (Acquired)",
@@ -4043,12 +4919,16 @@
     "headquarters": null,
     "year_founded": 1997,
     "rre_invested_year": 1999,
+    "status": "Acquired",
+    "acquirer": "Hughes",
+    "ticker_symbol": null,
+    "exit_year": 2000,
     "everywhere_tags": [
       "Consumer",
       "Deeptech / Robotics / AR/VR"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:32.734230+00:00"
+    "scraped_at": "2026-06-26T16:04:38.948473+00:00"
   },
   {
     "company_name": "The Black Tux",
@@ -4061,12 +4941,16 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "PropTech"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.950379+00:00"
+    "scraped_at": "2026-06-26T16:04:40.197755+00:00"
   },
   {
     "company_name": "The Outline (Acquired)",
@@ -4080,12 +4964,16 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2016,
+    "status": "Acquired",
+    "acquirer": "BDG",
+    "ticker_symbol": null,
+    "exit_year": 2020,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.951051+00:00"
+    "scraped_at": "2026-06-26T16:04:40.198413+00:00"
   },
   {
     "company_name": "TheSkimm (Acquired)",
@@ -4099,12 +4987,16 @@
     "headquarters": null,
     "year_founded": 2012,
     "rre_invested_year": 2013,
+    "status": "Acquired",
+    "acquirer": "Ziff Davis",
+    "ticker_symbol": null,
+    "exit_year": 2025,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.951705+00:00"
+    "scraped_at": "2026-06-26T16:04:40.199072+00:00"
   },
   {
     "company_name": "Thinkful (Acquired)",
@@ -4117,11 +5009,15 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2012,
+    "status": "Acquired",
+    "acquirer": "Chegg",
+    "ticker_symbol": null,
+    "exit_year": 2019,
     "everywhere_tags": [
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.952342+00:00"
+    "scraped_at": "2026-06-26T16:04:40.199690+00:00"
   },
   {
     "company_name": "TinyBop",
@@ -4135,12 +5031,16 @@
     "headquarters": null,
     "year_founded": null,
     "rre_invested_year": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.952994+00:00"
+    "scraped_at": "2026-06-26T16:04:40.200325+00:00"
   },
   {
     "company_name": "Tippr",
@@ -4153,13 +5053,17 @@
     "headquarters": null,
     "year_founded": 2008,
     "rre_invested_year": 2008,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Gaming / Media / Entertainment",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.953613+00:00"
+    "scraped_at": "2026-06-26T16:04:40.200952+00:00"
   },
   {
     "company_name": "Tive",
@@ -4173,12 +5077,16 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Logistics / Supply Chain"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.954258+00:00"
+    "scraped_at": "2026-06-26T16:04:40.201606+00:00"
   },
   {
     "company_name": "Token",
@@ -4191,12 +5099,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto",
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.954867+00:00"
+    "scraped_at": "2026-06-26T16:04:40.202212+00:00"
   },
   {
     "company_name": "True Markets",
@@ -4209,11 +5121,15 @@
     "headquarters": null,
     "year_founded": 2023,
     "rre_invested_year": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Web3 / Crypto"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.955499+00:00"
+    "scraped_at": "2026-06-26T16:04:40.202821+00:00"
   },
   {
     "company_name": "Ursa",
@@ -4228,12 +5144,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.956132+00:00"
+    "scraped_at": "2026-06-26T16:04:40.203456+00:00"
   },
   {
     "company_name": "Vastera",
@@ -4247,11 +5167,15 @@
     "headquarters": null,
     "year_founded": 1996,
     "rre_invested_year": 1998,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.956757+00:00"
+    "scraped_at": "2026-06-26T16:04:40.204090+00:00"
   },
   {
     "company_name": "Venmo",
@@ -4265,12 +5189,16 @@
     "headquarters": null,
     "year_founded": 2009,
     "rre_invested_year": 2010,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "FinTech / Insurance"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.957379+00:00"
+    "scraped_at": "2026-06-26T16:04:40.204697+00:00"
   },
   {
     "company_name": "Vine (Acquired)",
@@ -4284,12 +5212,16 @@
     "headquarters": null,
     "year_founded": 2012,
     "rre_invested_year": 2012,
+    "status": "Acquired",
+    "acquirer": "Twitter",
+    "ticker_symbol": null,
+    "exit_year": 2012,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.957986+00:00"
+    "scraped_at": "2026-06-26T16:04:40.205292+00:00"
   },
   {
     "company_name": "Visiprise (Acquired)",
@@ -4302,11 +5234,15 @@
     "headquarters": null,
     "year_founded": 1985,
     "rre_invested_year": 2000,
+    "status": "Acquired",
+    "acquirer": "SAP",
+    "ticker_symbol": null,
+    "exit_year": 2008,
     "everywhere_tags": [
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.958588+00:00"
+    "scraped_at": "2026-06-26T16:04:40.205884+00:00"
   },
   {
     "company_name": "Vivre",
@@ -4320,13 +5256,17 @@
     "headquarters": null,
     "year_founded": 1992,
     "rre_invested_year": 1999,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment",
       "CPG"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.959198+00:00"
+    "scraped_at": "2026-06-26T16:04:40.206476+00:00"
   },
   {
     "company_name": "Vocera (Acquired)",
@@ -4340,13 +5280,17 @@
     "headquarters": null,
     "year_founded": 2000,
     "rre_invested_year": 2000,
+    "status": "Acquired",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Health",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.959811+00:00"
+    "scraped_at": "2026-06-26T16:04:40.207087+00:00"
   },
   {
     "company_name": "VoiceRun",
@@ -4360,11 +5304,15 @@
     "headquarters": null,
     "year_founded": 2025,
     "rre_invested_year": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.960405+00:00"
+    "scraped_at": "2026-06-26T16:04:40.207674+00:00"
   },
   {
     "company_name": "VTS",
@@ -4377,11 +5325,15 @@
     "headquarters": null,
     "year_founded": 2012,
     "rre_invested_year": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "PropTech"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.961021+00:00"
+    "scraped_at": "2026-06-26T16:04:40.208265+00:00"
   },
   {
     "company_name": "Wag! (NASDAQ: PET)",
@@ -4395,12 +5347,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2015,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: PET",
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.961641+00:00"
+    "scraped_at": "2026-06-26T16:04:40.208939+00:00"
   },
   {
     "company_name": "Wallaroo",
@@ -4413,12 +5369,16 @@
     "headquarters": null,
     "year_founded": 2017,
     "rre_invested_year": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Dev Tools / Cloud",
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:33.962221+00:00"
+    "scraped_at": "2026-06-26T16:04:40.209565+00:00"
   },
   {
     "company_name": "WatchGuard (NASDAQ: WGRD)",
@@ -4431,11 +5391,15 @@
     "headquarters": null,
     "year_founded": 1996,
     "rre_invested_year": 1998,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: WGRD",
+    "exit_year": null,
     "everywhere_tags": [
       "Cybersecurity"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.108997+00:00"
+    "scraped_at": "2026-06-26T16:04:41.361399+00:00"
   },
   {
     "company_name": "WayUp (Acquired)",
@@ -4448,12 +5412,16 @@
     "headquarters": null,
     "year_founded": 2014,
     "rre_invested_year": 2014,
+    "status": "Acquired",
+    "acquirer": "Yellow",
+    "ticker_symbol": null,
+    "exit_year": 2021,
     "everywhere_tags": [
       "Gaming / Media / Entertainment",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.109880+00:00"
+    "scraped_at": "2026-06-26T16:04:41.362287+00:00"
   },
   {
     "company_name": "WeddingChannel.com",
@@ -4468,12 +5436,16 @@
     "headquarters": null,
     "year_founded": 1997,
     "rre_invested_year": 1998,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.110810+00:00"
+    "scraped_at": "2026-06-26T16:04:41.363201+00:00"
   },
   {
     "company_name": "Whiptail (Acquired)",
@@ -4486,12 +5458,16 @@
     "headquarters": null,
     "year_founded": 2008,
     "rre_invested_year": 2011,
+    "status": "Acquired",
+    "acquirer": "Cisco",
+    "ticker_symbol": null,
+    "exit_year": 2013,
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR",
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.111705+00:00"
+    "scraped_at": "2026-06-26T16:04:41.364069+00:00"
   },
   {
     "company_name": "WisdomTree (NASDAQ: WETF)",
@@ -4504,12 +5480,16 @@
     "headquarters": null,
     "year_founded": 2002,
     "rre_invested_year": 2004,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: WETF",
+    "exit_year": null,
     "everywhere_tags": [
       "FinTech / Insurance",
       "Web3 / Crypto"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.112555+00:00"
+    "scraped_at": "2026-06-26T16:04:41.364985+00:00"
   },
   {
     "company_name": "WorkIt Health",
@@ -4523,12 +5503,16 @@
     "headquarters": null,
     "year_founded": 2015,
     "rre_invested_year": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Health"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.113373+00:00"
+    "scraped_at": "2026-06-26T16:04:41.365794+00:00"
   },
   {
     "company_name": "Xobni (Acquired)",
@@ -4541,13 +5525,17 @@
     "headquarters": null,
     "year_founded": 2006,
     "rre_invested_year": 2009,
+    "status": "Acquired",
+    "acquirer": "Yahoo!",
+    "ticker_symbol": null,
+    "exit_year": 2013,
     "everywhere_tags": [
       "Dev Tools / Cloud",
       "Data & Analytics",
       "Consumer"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.114175+00:00"
+    "scraped_at": "2026-06-26T16:04:41.366580+00:00"
   },
   {
     "company_name": "Yhat (Acquired)",
@@ -4561,11 +5549,15 @@
     "headquarters": null,
     "year_founded": 2013,
     "rre_invested_year": 2013,
+    "status": "Acquired",
+    "acquirer": "Alteryx",
+    "ticker_symbol": null,
+    "exit_year": 2017,
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.114994+00:00"
+    "scraped_at": "2026-06-26T16:04:41.367409+00:00"
   },
   {
     "company_name": "YipitData",
@@ -4579,12 +5571,16 @@
     "headquarters": null,
     "year_founded": 2010,
     "rre_invested_year": 2011,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Gaming / Media / Entertainment",
       "Data & Analytics"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.115810+00:00"
+    "scraped_at": "2026-06-26T16:04:41.368235+00:00"
   },
   {
     "company_name": "You World",
@@ -4598,12 +5594,16 @@
     "headquarters": null,
     "year_founded": 2016,
     "rre_invested_year": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
     "everywhere_tags": [
       "Consumer",
       "Gaming / Media / Entertainment",
       "Transportation / Mobility"
     ],
     "source_url": "https://rre.com/portfolio",
-    "scraped_at": "2026-06-26T15:59:35.116644+00:00"
+    "scraped_at": "2026-06-26T16:04:41.369027+00:00"
   }
 ]

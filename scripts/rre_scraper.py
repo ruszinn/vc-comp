@@ -138,6 +138,30 @@ def to_year(s):
     return None
 
 
+def derive_status(name, description):
+    """RRE has no structured stage/status field; exits are encoded in the company
+    NAME suffix instead. Return (status, acquirer, ticker_symbol, exit_year):
+      - "(NYSE: PLTR)" / "(IPO: DOOR)" -> Public, ticker = "NYSE: PLTR"
+      - "(Acquired)"   -> Acquired; acquirer + year parsed from the description's
+                          trailing "Acquired by <X> in <YYYY>." sentence (when present)
+      - otherwise      -> Active
+    """
+    nm = name or ""
+    mt = re.search(r"\((?:[A-Za-z]{2,6}|IPO):\s*[A-Za-z.\-]{1,8}\)\s*$", nm)
+    if mt:
+        return "Public", None, clean(mt.group(0).strip("() ")), None
+    if re.search(r"\(Acquired\)\s*$", nm, re.I):
+        acquirer = exit_year = None
+        m = re.search(r"acquired by\s+(.+?)(?:\s+(?:in\s+)?(\d{4}))?\s*(?:\.|$)",
+                      description or "", re.I)
+        if m:
+            acquirer = clean(m.group(1))
+            if m.group(2):
+                exit_year = int(m.group(2))
+        return "Acquired", acquirer, None, exit_year
+    return "Active", None, None, None
+
+
 def everywhere_tags(name, description, categories):
     """RRE categories first (mapped via SECTOR_TAG_MAP), then keyword fallback on
     name + description to add/refine. Order most->least relevant, cap at 4."""
@@ -196,6 +220,8 @@ def parse_modal_item(item):
         if label and v:
             details[label.lower()] = v
 
+    status, acquirer, ticker_symbol, exit_year = derive_status(name, description)
+
     return {
         "company_name": name,
         "description": description,
@@ -205,6 +231,10 @@ def parse_modal_item(item):
         "headquarters": details.get("headquarters"),
         "year_founded": to_year(details.get("founded")),
         "rre_invested_year": to_year(details.get("rre invested")),
+        "status": status,
+        "acquirer": acquirer,
+        "ticker_symbol": ticker_symbol,
+        "exit_year": exit_year,
         "everywhere_tags": everywhere_tags(name, description, categories),
         "source_url": SOURCE_URL,
         "scraped_at": datetime.now(timezone.utc).isoformat(),
@@ -247,9 +277,13 @@ def main():
         json.dump(companies, f, ensure_ascii=False, indent=2)
 
     from collections import Counter
+    by_status = Counter(o["status"] for o in companies)
     by_cat = Counter(c for o in companies for c in o["categories"])
     by_tag = Counter(t for o in companies for t in o["everywhere_tags"])
     print(f"\nWrote {len(companies)} companies -> {OUT}")
+    print("By status:", dict(by_status),
+          "| with acquirer:", sum(1 for o in companies if o["acquirer"]),
+          "| with ticker:", sum(1 for o in companies if o["ticker_symbol"]))
     print("With website:", sum(1 for o in companies if o["company_url"]),
           "| with description:", sum(1 for o in companies if o["description"]),
           "| with founded:", sum(1 for o in companies if o["year_founded"]),
