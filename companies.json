@@ -131,7 +131,9 @@
     "current_stage": "Private",
     "partners": [],
     "founders": [],
-    "sectors": [],
+    "sectors": [
+      "financial services"
+    ],
     "year_founded": 2016,
     "first_partnered_stage": "Series D",
     "first_partnered_year": 2021,
@@ -283,7 +285,9 @@
       "Mati Staniszewski",
       "Piotr Dabkowski"
     ],
-    "sectors": [],
+    "sectors": [
+      "artificial intelligence"
+    ],
     "year_founded": 2022,
     "first_partnered_stage": "Series D",
     "first_partnered_year": 2026,
@@ -557,7 +561,9 @@
       "Santiago Nestares",
       "Benedict Dohmen"
     ],
-    "sectors": [],
+    "sectors": [
+      "enterprise resource planning"
+    ],
     "year_founded": 2024,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2025,
@@ -793,7 +799,9 @@
       "Ravi Ithal",
       "Lebin Cheng"
     ],
-    "sectors": [],
+    "sectors": [
+      "computer security"
+    ],
     "year_founded": 2012,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2013,
@@ -926,7 +934,10 @@
       "Ravi Mhatre",
       "Raviraj Jain"
     ],
-    "founders": [],
+    "founders": [
+      "Noam Shazeer",
+      "Daniel De Freitas"
+    ],
     "sectors": [],
     "year_founded": 2019,
     "first_partnered_stage": "Series B",
@@ -1479,7 +1490,9 @@
       "Niklas Köhler",
       "Gundbert Scherf"
     ],
-    "sectors": [],
+    "sectors": [
+      "weapons industry"
+    ],
     "year_founded": 2021,
     "first_partnered_stage": "Series C",
     "first_partnered_year": 2024,
@@ -1892,8 +1905,10 @@
     "founders": [
       "Elon Musk"
     ],
-    "sectors": [],
-    "year_founded": null,
+    "sectors": [
+      "neurotechnology"
+    ],
+    "year_founded": 2016,
     "first_partnered_stage": null,
     "first_partnered_year": 2025,
     "first_partnered_date": "2025",
@@ -1956,8 +1971,15 @@
     "partners": [
       "Faraz Fatemi"
     ],
-    "founders": [],
-    "sectors": [],
+    "founders": [
+      "Elon Musk",
+      "Tony Wu",
+      "Igor Babuschkin"
+    ],
+    "sectors": [
+      "information technology industry",
+      "artificial intelligence"
+    ],
     "year_founded": 2020,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2024,
@@ -2150,7 +2172,9 @@
       "Dario Amodei",
       "Daniela Amodei"
     ],
-    "sectors": [],
+    "sectors": [
+      "artificial intelligence"
+    ],
     "year_founded": 2021,
     "first_partnered_stage": "Series D",
     "first_partnered_year": 2024,
@@ -2254,7 +2278,9 @@
       "Grant LaFontaine",
       "Logan Head"
     ],
-    "sectors": [],
+    "sectors": [
+      "e-commerce"
+    ],
     "year_founded": 2019,
     "first_partnered_stage": "Series E",
     "first_partnered_year": 2025,
@@ -2358,7 +2384,12 @@
       "Sebastian Duesterhoeft",
       "James Ephrati"
     ],
-    "founders": [],
+    "founders": [
+      "Ali Ghodsi",
+      "Ion Stoica",
+      "Reynold Xin",
+      "Matei Zaharia"
+    ],
     "sectors": [],
     "year_founded": 2013,
     "first_partnered_stage": null,
@@ -2394,7 +2425,9 @@
       "Ivan Jelusic",
       "Vlatko Matijevic"
     ],
-    "sectors": [],
+    "sectors": [
+      "electronics industry"
+    ],
     "year_founded": 2018,
     "first_partnered_stage": "Seed",
     "first_partnered_year": 2024,
@@ -2637,7 +2670,9 @@
       "Alakh Pandey",
       "Prateek Maheshwari"
     ],
-    "sectors": [],
+    "sectors": [
+      "educational technology"
+    ],
     "year_founded": 2020,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2024,
@@ -3936,7 +3971,9 @@
       "Vivek Raghavan",
       "Pratyush Kumar"
     ],
-    "sectors": [],
+    "sectors": [
+      "artificial intelligence"
+    ],
     "year_founded": 2023,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2023,
@@ -4615,7 +4652,9 @@
       "Brett Martin",
       "Yang Mou"
     ],
-    "sectors": [],
+    "sectors": [
+      "communication software"
+    ],
     "year_founded": 2020,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2022,
@@ -4971,7 +5010,9 @@
       "Matt Grimm",
       "Joseph Chen"
     ],
-    "sectors": [],
+    "sectors": [
+      "defense industry"
+    ],
     "year_founded": 2017,
     "first_partnered_stage": "Series E",
     "first_partnered_year": 2022,
@@ -5326,7 +5367,7 @@
     "partners": [],
     "founders": [],
     "sectors": [],
-    "year_founded": null,
+    "year_founded": 2018,
     "first_partnered_stage": null,
     "first_partnered_year": null,
     "first_partnered_date": null,
@@ -5419,8 +5460,14 @@
       "Justin Overdorff",
       "Will Kohler"
     ],
-    "founders": [],
-    "sectors": [],
+    "founders": [
+      "Patrick Collison",
+      "John Collison"
+    ],
+    "sectors": [
+      "financial services",
+      "mobile payment industry"
+    ],
     "year_founded": 2010,
     "first_partnered_stage": "Series I",
     "first_partnered_year": 2023,
@@ -5455,7 +5502,9 @@
       "Timothée Lacroix",
       "Guillaume Lample"
     ],
-    "sectors": [],
+    "sectors": [
+      "combined administrative office services"
+    ],
     "year_founded": 2023,
     "first_partnered_stage": "Seed",
     "first_partnered_year": 2023,
@@ -5911,7 +5960,9 @@
     "founders": [
       "Changming Liu"
     ],
-    "sectors": [],
+    "sectors": [
+      "information technology"
+    ],
     "year_founded": 2006,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2006,
@@ -5919,7 +5970,7 @@
     "initial_investment_type": "series-a",
     "exit_type": "IPO",
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NYSE: HIVE",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/aerohive/",
     "company_url": "https://aerohive.com",
@@ -5968,8 +6019,13 @@
     "partners": [
       "Jeremy Liew"
     ],
-    "founders": [],
-    "sectors": [],
+    "founders": [
+      "Nathan Gettings",
+      "Max Levchin"
+    ],
+    "sectors": [
+      "fintech"
+    ],
     "year_founded": 2012,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2013,
@@ -6095,7 +6151,9 @@
       "Brian NeSmith",
       "Kim Tremblay"
     ],
-    "sectors": [],
+    "sectors": [
+      "computer security"
+    ],
     "year_founded": 2011,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2012,
@@ -6156,7 +6214,9 @@
       "Nick McKeown",
       "Pat Bosshart"
     ],
-    "sectors": [],
+    "sectors": [
+      "computer network"
+    ],
     "year_founded": 2013,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2014,
@@ -6252,7 +6312,9 @@
       "Peter Smith",
       "Nic Cary"
     ],
-    "sectors": [],
+    "sectors": [
+      "cryptocurrency"
+    ],
     "year_founded": 2011,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2014,
@@ -6317,7 +6379,10 @@
       "Casey Neistat",
       "Matt Hackett"
     ],
-    "sectors": [],
+    "sectors": [
+      "social media",
+      "journalism"
+    ],
     "year_founded": 2014,
     "first_partnered_stage": "Seed",
     "first_partnered_year": 2015,
@@ -6412,7 +6477,9 @@
     "founders": [
       "Andy Dunn"
     ],
-    "sectors": [],
+    "sectors": [
+      "retail"
+    ],
     "year_founded": 2007,
     "first_partnered_stage": "Series C",
     "first_partnered_year": 2010,
@@ -6446,7 +6513,9 @@
       "Ian Pratt",
       "Simon Crosby"
     ],
-    "sectors": [],
+    "sectors": [
+      "computer security"
+    ],
     "year_founded": 2010,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2011,
@@ -6689,7 +6758,10 @@
       "Guru Chahal"
     ],
     "founders": [],
-    "sectors": [],
+    "sectors": [
+      "internet security",
+      "computer security"
+    ],
     "year_founded": 2007,
     "first_partnered_stage": "Series C",
     "first_partnered_year": 2012,
@@ -6942,7 +7014,9 @@
       "Meir Adest",
       "Amir Fishelov"
     ],
-    "sectors": [],
+    "sectors": [
+      "photovoltaics"
+    ],
     "year_founded": 2006,
     "first_partnered_stage": "Series C",
     "first_partnered_year": 2010,
@@ -6950,7 +7024,7 @@
     "initial_investment_type": "series-c",
     "exit_type": "IPO",
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NASDAQ: SEDG",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/solaredge/",
     "company_url": "https://solaredge.com",
@@ -7146,7 +7220,7 @@
     "initial_investment_type": "series-a",
     "exit_type": "Public",
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NYSE: RBRK",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/rubrik/",
     "company_url": "https://rubrik.com",
@@ -7204,7 +7278,9 @@
       "Yaron Galai",
       "Ori Lahav"
     ],
-    "sectors": [],
+    "sectors": [
+      "marketing"
+    ],
     "year_founded": 2006,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2007,
@@ -7236,7 +7312,9 @@
     "founders": [
       "Niv Steingarten"
     ],
-    "sectors": [],
+    "sectors": [
+      "software analytics"
+    ],
     "year_founded": 2011,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2015,
@@ -7333,7 +7411,9 @@
       "David Sosna",
       "David Govrin"
     ],
-    "sectors": [],
+    "sectors": [
+      "fintech"
+    ],
     "year_founded": 2010,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2013,
@@ -7365,7 +7445,10 @@
     "founders": [
       "Ross Mason"
     ],
-    "sectors": [],
+    "sectors": [
+      "business software industry",
+      "software as a service"
+    ],
     "year_founded": 2006,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2007,
@@ -7436,7 +7519,7 @@
     "initial_investment_type": "series-b",
     "exit_type": "IPO",
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NASDAQ: NTRA",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/natera/",
     "company_url": "https://natera.com",
@@ -7592,7 +7675,9 @@
       "Dheeraj Pandey",
       "Mohit Aron"
     ],
-    "sectors": [],
+    "sectors": [
+      "Hyper-converged infrastructure"
+    ],
     "year_founded": 2009,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2010,
@@ -7600,7 +7685,7 @@
     "initial_investment_type": "series-a",
     "exit_type": "IPO",
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NASDAQ: NTNX",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/nutanix/",
     "company_url": "https://nutanix.com",
@@ -7654,7 +7739,9 @@
       "David Gussarsky"
     ],
     "founders": [],
-    "sectors": [],
+    "sectors": [
+      "electronics"
+    ],
     "year_founded": 2006,
     "first_partnered_stage": "Series D",
     "first_partnered_year": 2012,
@@ -8007,7 +8094,9 @@
       "Dave Flynn",
       "Rick White"
     ],
-    "sectors": [],
+    "sectors": [
+      "solid-state drive"
+    ],
     "year_founded": 2006,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2009,
@@ -8163,7 +8252,9 @@
       "Brian Lee",
       "Sean Kane"
     ],
-    "sectors": [],
+    "sectors": [
+      "retail"
+    ],
     "year_founded": 2011,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2011,
@@ -8171,7 +8262,7 @@
     "initial_investment_type": "series-a",
     "exit_type": "IPO",
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NASDAQ: HNST",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/the-honest-company/",
     "company_url": "https://honest.com",
@@ -8287,7 +8378,9 @@
     "founders": [
       "Mark Vadon"
     ],
-    "sectors": [],
+    "sectors": [
+      "retail"
+    ],
     "year_founded": 1999,
     "first_partnered_stage": "Early",
     "first_partnered_year": 1999,
@@ -8295,7 +8388,7 @@
     "initial_investment_type": "early",
     "exit_type": null,
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NASDAQ: NILE",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/blue-nile/",
     "company_url": "https://bluenile.com",
@@ -8318,7 +8411,9 @@
     "founders": [
       "Eyal Lifshitz"
     ],
-    "sectors": [],
+    "sectors": [
+      "fintech"
+    ],
     "year_founded": 2013,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2013,
@@ -8468,7 +8563,9 @@
     "current_stage": "Private",
     "partners": [],
     "founders": [],
-    "sectors": [],
+    "sectors": [
+      "telecommunications"
+    ],
     "year_founded": 1992,
     "first_partnered_stage": "Early",
     "first_partnered_year": 1995,
@@ -8476,7 +8573,7 @@
     "initial_investment_type": "early",
     "exit_type": null,
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NYSE: CIEN",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/ciena/",
     "company_url": "https://ciena.com",
@@ -8652,7 +8749,9 @@
     "founders": [
       "Tomer Shiran"
     ],
-    "sectors": [],
+    "sectors": [
+      "data analytics software industry"
+    ],
     "year_founded": 2015,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2015,
@@ -9343,7 +9442,9 @@
       "Jerry Kennelly",
       "Steve McCanne"
     ],
-    "sectors": [],
+    "sectors": [
+      "information technology"
+    ],
     "year_founded": 2002,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2002,
@@ -9351,7 +9452,7 @@
     "initial_investment_type": "series-a",
     "exit_type": null,
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NASDAQ: RVBD",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/riverbed-technology/",
     "company_url": "https://riverbed.com",
@@ -9407,7 +9508,9 @@
       "Gary Beasley",
       "Gregor Watson"
     ],
-    "sectors": [],
+    "sectors": [
+      "fintech"
+    ],
     "year_founded": 2015,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2016,
@@ -9470,7 +9573,10 @@
     "partners": [
       "Jeremy Liew"
     ],
-    "founders": [],
+    "founders": [
+      "Chris Larsen",
+      "Jed McCaleb"
+    ],
     "sectors": [],
     "year_founded": 2012,
     "first_partnered_stage": "Seed",
@@ -9574,7 +9680,7 @@
     "initial_investment_type": "series-a",
     "exit_type": "SPAC",
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NASDAQ: QS",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/quantumscape/",
     "company_url": "https://quantumscape.com",
@@ -9722,7 +9828,9 @@
       "Chris Wang",
       "Dan Yue"
     ],
-    "sectors": [],
+    "sectors": [
+      "video game industry"
+    ],
     "year_founded": 2008,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2009,
@@ -9819,7 +9927,9 @@
     "founders": [
       "Ritesh Agarwal"
     ],
-    "sectors": [],
+    "sectors": [
+      "hospitality service"
+    ],
     "year_founded": 2012,
     "first_partnered_stage": "Series C",
     "first_partnered_year": 2014,
@@ -9955,7 +10065,9 @@
       "Ravi Mhatre"
     ],
     "founders": [],
-    "sectors": [],
+    "sectors": [
+      "telecommunications"
+    ],
     "year_founded": null,
     "first_partnered_stage": null,
     "first_partnered_year": null,
@@ -10169,7 +10281,7 @@
     ],
     "founders": [],
     "sectors": [],
-    "year_founded": null,
+    "year_founded": 2006,
     "first_partnered_stage": null,
     "first_partnered_year": null,
     "first_partnered_date": null,
@@ -10304,7 +10416,7 @@
     "initial_investment_type": "early",
     "exit_type": null,
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NYSE: INFA",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/informatica/",
     "company_url": "https://informatica.com",
@@ -10483,7 +10595,9 @@
       "Ravi Mhatre"
     ],
     "founders": [],
-    "sectors": [],
+    "sectors": [
+      "biotechnology"
+    ],
     "year_founded": 2011,
     "first_partnered_stage": "Series C",
     "first_partnered_year": 2014,
@@ -10491,7 +10605,7 @@
     "initial_investment_type": "series-c",
     "exit_type": "IPO",
     "exit_description": null,
-    "ticker_symbol": null,
+    "ticker_symbol": "NASDAQ: GH",
     "acquirer": null,
     "company_profile_url": "https://lsvp.com/company/guardant-health/",
     "company_url": "https://guardanthealth.com",
@@ -10516,7 +10630,9 @@
       "Brian Lee",
       "Kim Kardashian"
     ],
-    "sectors": [],
+    "sectors": [
+      "retail"
+    ],
     "year_founded": 2009,
     "first_partnered_stage": "Series C",
     "first_partnered_year": 2010,
@@ -10829,7 +10945,7 @@
     ],
     "founders": [],
     "sectors": [],
-    "year_founded": null,
+    "year_founded": 2006,
     "first_partnered_stage": null,
     "first_partnered_year": null,
     "first_partnered_date": null,
@@ -11396,7 +11512,9 @@
       "Dror Davidoff",
       "Amir Jerbi"
     ],
-    "sectors": [],
+    "sectors": [
+      "information technology industry"
+    ],
     "year_founded": 2015,
     "first_partnered_stage": "Series B",
     "first_partnered_year": 2017,
@@ -11623,7 +11741,9 @@
     "founders": [
       "Gwyneth Paltrow"
     ],
-    "sectors": [],
+    "sectors": [
+      "alternative medicine"
+    ],
     "year_founded": 2008,
     "first_partnered_stage": "Series C",
     "first_partnered_year": 2017,
@@ -11719,7 +11839,11 @@
       "Bejul Somaia"
     ],
     "founders": [],
-    "sectors": [],
+    "sectors": [
+      "transport",
+      "peer-to-peer ridesharing",
+      "information technology"
+    ],
     "year_founded": 2012,
     "first_partnered_stage": "Series H",
     "first_partnered_year": 2018,
@@ -12041,7 +12165,9 @@
     "founders": [
       "Tim Sweeney"
     ],
-    "sectors": [],
+    "sectors": [
+      "video game industry"
+    ],
     "year_founded": 1991,
     "first_partnered_stage": "Common",
     "first_partnered_year": 2020,
@@ -12305,8 +12431,12 @@
       "James Ephrati",
       "Shaurya Aggarwal"
     ],
-    "founders": [],
-    "sectors": [],
+    "founders": [
+      "Shlomo Kramer"
+    ],
+    "sectors": [
+      "computer network"
+    ],
     "year_founded": 2015,
     "first_partnered_stage": "Series C",
     "first_partnered_year": 2019,
@@ -12592,7 +12722,9 @@
       "Stefania Mallett",
       "Briscoe Rodgers"
     ],
-    "sectors": [],
+    "sectors": [
+      "catering"
+    ],
     "year_founded": 2007,
     "first_partnered_stage": "Series D",
     "first_partnered_year": 2019,
@@ -12858,7 +12990,9 @@
     "founders": [
       "Lady Gaga"
     ],
-    "sectors": [],
+    "sectors": [
+      "cosmetics industry"
+    ],
     "year_founded": 2011,
     "first_partnered_stage": "Series A",
     "first_partnered_year": 2018,
@@ -13316,7 +13450,9 @@
       "Gabi Lewis",
       "Greg Sewitz"
     ],
-    "sectors": [],
+    "sectors": [
+      "food industry"
+    ],
     "year_founded": 2018,
     "first_partnered_stage": "Seed",
     "first_partnered_year": 2019,
@@ -13636,7 +13772,9 @@
       "Cynthia Chen",
       "Christophe Chong"
     ],
-    "sectors": [],
+    "sectors": [
+      "fintech"
+    ],
     "year_founded": 2019,
     "first_partnered_stage": "Seed",
     "first_partnered_year": 2019,
