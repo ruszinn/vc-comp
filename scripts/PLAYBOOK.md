@@ -70,6 +70,26 @@ sub-portfolios to another host (Lightspeed → lsip.com).
 - Insight only says Current/Prior Investment — **no acquirer/ticker/founded-year** structured.
 - `get-company-id-by-slug?slug=<slug>` maps slug→id. Full run ≈ 71 + 847 requests (~8 min).
 
+### RRE Ventures — `rre_scraper.py`
+- **Webflow** site `https://rre.com/portfolio` with two parallel **Finsweet CMS** lists:
+  a compact "card" grid and a richer "modal" list. Scrape **only the modal list** — it
+  carries everything the card has plus website, description, founded/invested years, HQ.
+- Modal list is paginated server-side at **20/page** via `?79e6a7d8_page=N` (the card grid
+  uses a *different* key `155d7971_page=N`, 50/page — ignore it). 13 pages = **250 companies**;
+  stop when a page has no `.portfolio_modal-slider-item`.
+- Per `.portfolio_modal-slider-item`: `slider-name` attr / `h2[fs-list-field="name"]` = name;
+  `a[company-link]` = website (always present); `img.portfolio_modal-image` = logo; the single
+  `<h3>` in a `.portfolio-modal_grid` = description; `[fs-list-field="category"]` (hidden list
+  at top) = RRE's own categories. Detail rows are `.portfolio_modal-details` = `.text-size-eyebrow`
+  (label) + `.text-size-large` (value, empty when `w-dyn-bind-empty`).
+- Detail labels seen: **Founded** (~236), **RRE Invested** (~248), **Headquarters** (only 3),
+  plus `status`/`RRE participation` labels that are **always empty** → omitted from the schema.
+- RRE categories (11): Enterprise/Saas, CONSUMER, Fintech, AI, Media, Hardware, Crypto,
+  Healthcare, Featured, Robotics, Space (casing is inconsistent → match case-insensitively).
+  `SECTOR_TAG_MAP` maps the clean verticals; **AI** and **Enterprise/Saas** are left to the
+  keyword classifier (AI alone isn't a category; Enterprise/Saas has no single tag). `Featured`
+  is a curation flag, not a sector — ignored. ~6 vague AI/SaaS stragglers stay untagged.
+
 ### Lightspeed — `companies.json` (no script)
 - Built from `https://lsvp.com/company-sitemap.xml` (all `/company/<slug>/` URLs), fetching
   each detail page (Status, Founded, Stage Invested, LSVP Investment yr, Lightspeed Team =

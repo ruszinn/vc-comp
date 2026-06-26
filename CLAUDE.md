@@ -14,6 +14,7 @@ Current datasets (in `data/`):
 | USV | `usv_companies.json` | 214 | usv.com/companies (`usv_scraper.py`) |
 | Menlo Ventures | `menlo_companies.json` | 239 | menlovc.com/portfolio (`menlo_scraper.py`) |
 | Insight Partners | `insight_companies.json` | 847 | insightpartners.com/portfolio (`insight_scraper.py`) |
+| RRE Ventures | `rre_companies.json` | 250 | rre.com/portfolio (`rre_scraper.py`) |
 
 ## Layout
 ```
@@ -24,7 +25,7 @@ VC comps/
 │   ├── enrichment_report.json          ← provenance for enrich.py fills
 │   └── everywhere_tagging_report.json  ← Lightspeed tagging report
 └── scripts/                  ← ALL Python
-    ├── usv_scraper.py  menlo_scraper.py  insight_scraper.py
+    ├── usv_scraper.py  menlo_scraper.py  insight_scraper.py  rre_scraper.py
     ├── enrich.py             ← Wikidata back-fill of empty fields
     └── PLAYBOOK.md           ← how to scrape a new firm / per-source cheat-sheet
 ```
