@@ -368,7 +368,10 @@
     "acquirer": "Automation Anywhere",
     "ticker_symbol": null,
     "sectors": [],
-    "everywhere_tags": [],
+    "everywhere_tags": [
+      "Future of Work",
+      "Dev Tools / Cloud"
+    ],
     "social_urls": [
       "https://www.linkedin.com/company/aisera/",
       "https://twitter.com/aisera_ai"
@@ -529,8 +532,12 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
-    "everywhere_tags": [],
+    "sectors": [
+      "artificial intelligence"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
     "social_urls": [
       "https://www.linkedin.com/company/anthropicresearch/",
       "https://twitter.com/AnthropicAI"
@@ -965,7 +972,9 @@
     "acquirer": null,
     "ticker_symbol": null,
     "sectors": [],
-    "everywhere_tags": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
     "social_urls": [
       "https://www.linkedin.com/company/axiommath",
       "https://x.com/axiommathai"
@@ -1055,7 +1064,9 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "financial services"
+    ],
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
@@ -1112,7 +1123,9 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "cryptocurrency industry"
+    ],
     "everywhere_tags": [
       "FinTech / Insurance",
       "Web3 / Crypto"
@@ -1146,7 +1159,10 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "computer security",
+      "risk management"
+    ],
     "everywhere_tags": [
       "Cybersecurity"
     ],
@@ -1179,7 +1195,9 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "fintech"
+    ],
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
@@ -1601,7 +1619,10 @@
     "exit_detail": "IPO; NASDAQ: CHYM",
     "acquirer": null,
     "ticker_symbol": "NASDAQ: CHYM",
-    "sectors": [],
+    "sectors": [
+      "financial services",
+      "fintech"
+    ],
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
@@ -1890,7 +1911,10 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "biotechnology",
+      "service"
+    ],
     "everywhere_tags": [
       "BioTech",
       "Health"
@@ -1991,7 +2015,10 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "fintech",
+      "financial services"
+    ],
     "everywhere_tags": [
       "FinTech / Insurance"
     ],
@@ -2244,7 +2271,10 @@
     "acquirer": null,
     "ticker_symbol": null,
     "sectors": [],
-    "everywhere_tags": [],
+    "everywhere_tags": [
+      "Consumer",
+      "Future of Work"
+    ],
     "social_urls": [
       "https://www.linkedin.com/company/delphi-ai/",
       "https://twitter.com/withdelphi"
@@ -2382,7 +2412,11 @@
     "company_profile_url": "https://menlovc.com/portfolio/eero/",
     "logo_url": "https://menlovc.com/wp-content/uploads/2022/08/eero.svg",
     "image_url": "https://menlovc.com/wp-content/uploads/2022/08/eero_graphic.jpg",
-    "founders": [],
+    "founders": [
+      "Amos Schallich",
+      "Nate Hardison",
+      "Nick Weaver"
+    ],
     "partners": [
       "Mark Siegel"
     ],
@@ -2395,7 +2429,9 @@
     "exit_detail": "Acquired by Amazon",
     "acquirer": "Amazon",
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "consumer electronics industry"
+    ],
     "everywhere_tags": [
       "Deeptech / Robotics / AR/VR"
     ],
@@ -2557,7 +2593,9 @@
     "acquirer": null,
     "ticker_symbol": null,
     "sectors": [],
-    "everywhere_tags": [],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
     "social_urls": [
       "https://www.linkedin.com/company/envoy-inc/",
       "https://twitter.com/envoy"
@@ -2880,7 +2918,9 @@
     "acquirer": "Freshworks",
     "ticker_symbol": null,
     "sectors": [],
-    "everywhere_tags": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
     "social_urls": [
       "https://www.linkedin.com/company/firehydrant/",
       "https://twitter.com/FireHydrant"
@@ -2909,7 +2949,9 @@
     "acquirer": "SumUp",
     "ticker_symbol": null,
     "sectors": [],
-    "everywhere_tags": [],
+    "everywhere_tags": [
+      "Consumer"
+    ],
     "social_urls": [],
     "source_url": "https://menlovc.com/portfolio/",
     "scraped_at": "2026-06-25T14:28:54.434119+00:00"
@@ -3029,7 +3071,9 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "biotechnology industry"
+    ],
     "everywhere_tags": [
       "BioTech",
       "Dev Tools / Cloud"
@@ -3060,7 +3104,9 @@
     "exit_detail": "NYSE: GETR",
     "acquirer": null,
     "ticker_symbol": "NYSE: GETR",
-    "sectors": [],
+    "sectors": [
+      "carsharing"
+    ],
     "everywhere_tags": [
       "Consumer"
     ],
@@ -3091,7 +3137,9 @@
     "exit_detail": "IPO; NASDAQ: GILD",
     "acquirer": null,
     "ticker_symbol": "NASDAQ: GILD",
-    "sectors": [],
+    "sectors": [
+      "pharmaceutical industry"
+    ],
     "everywhere_tags": [
       "BioTech",
       "Health"
@@ -3492,7 +3540,9 @@
     "company_profile_url": "https://menlovc.com/portfolio/homelight/",
     "logo_url": "https://menlovc.com/wp-content/uploads/2022/08/homelight-1.png",
     "image_url": "https://menlovc.com/wp-content/uploads/2022/08/homelight_graphic.jpg",
-    "founders": [],
+    "founders": [
+      "Andrew Uher"
+    ],
     "partners": [
       "Tyler Sosin"
     ],
@@ -3674,7 +3724,14 @@
     "company_profile_url": "https://menlovc.com/portfolio/juliahub/",
     "logo_url": "https://menlovc.com/wp-content/uploads/2022/08/juliahub.png",
     "image_url": "https://menlovc.com/wp-content/uploads/2022/08/juliahub_graphic2-cropped.jpg",
-    "founders": [],
+    "founders": [
+      "Jeff Bezanson",
+      "Alan Edelman",
+      "Stefan Karpinski",
+      "Viral B. Shah",
+      "Keno Fischer",
+      "Deepak Vinchhi"
+    ],
     "partners": [
       "Tim Tully"
     ],
@@ -3687,7 +3744,9 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "cloud computing"
+    ],
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
@@ -3979,7 +4038,11 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "information technology industry",
+      "artificial intelligence",
+      "vibe coding"
+    ],
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
@@ -4388,7 +4451,9 @@
     "acquirer": null,
     "ticker_symbol": null,
     "sectors": [],
-    "everywhere_tags": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
     "social_urls": [
       "https://www.linkedin.com/company/ndea/",
       "https://x.com/ndea"
@@ -4499,7 +4564,10 @@
     "company_profile_url": "https://menlovc.com/portfolio/netlify/",
     "logo_url": "https://menlovc.com/wp-content/uploads/2022/08/netlify-e1679354589818.png",
     "image_url": "https://menlovc.com/wp-content/uploads/2022/08/netlify_graphic.jpg",
-    "founders": [],
+    "founders": [
+      "Mathias Biilmann",
+      "Christian Bach"
+    ],
     "partners": [
       "Matt Murphy"
     ],
@@ -4512,7 +4580,11 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "cloud computing",
+      "serverless computing",
+      "platform as a service"
+    ],
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
@@ -4664,7 +4736,9 @@
     "company_profile_url": "https://menlovc.com/portfolio/observable/",
     "logo_url": "https://menlovc.com/wp-content/uploads/2022/08/observable.png",
     "image_url": "https://menlovc.com/wp-content/uploads/2022/08/observable_graphic-scaled.jpg",
-    "founders": [],
+    "founders": [
+      "Mike Bostock"
+    ],
     "partners": [
       "Matt Murphy"
     ],
@@ -5332,7 +5406,9 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "software development"
+    ],
     "everywhere_tags": [
       "Dev Tools / Cloud"
     ],
@@ -5512,8 +5588,10 @@
     "exit_type": "Acquired",
     "exit_detail": "Acquired by Naver",
     "acquirer": "Naver",
-    "ticker_symbol": null,
-    "sectors": [],
+    "ticker_symbol": "NASDAQ: POSH",
+    "sectors": [
+      "e-commerce"
+    ],
     "everywhere_tags": [
       "Consumer"
     ],
@@ -6238,7 +6316,9 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "logistics"
+    ],
     "everywhere_tags": [
       "Dev Tools / Cloud",
       "Logistics / Supply Chain",
@@ -6358,7 +6438,9 @@
     "company_profile_url": "https://menlovc.com/portfolio/siri/",
     "logo_url": "https://menlovc.com/wp-content/uploads/2022/08/siri-1.png",
     "image_url": "https://menlovc.com/wp-content/uploads/2022/08/siri_graphic.jpg",
-    "founders": [],
+    "founders": [
+      "Apple Inc."
+    ],
     "partners": [
       "Shawn Carolan"
     ],
@@ -6435,7 +6517,9 @@
     "acquirer": null,
     "ticker_symbol": null,
     "sectors": [],
-    "everywhere_tags": [],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
     "social_urls": [
       "https://www.linkedin.com/company/skild-ai/",
       "https://x.com/SkildAI"
@@ -6934,7 +7018,9 @@
     "exit_detail": null,
     "acquirer": null,
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "e-commerce"
+    ],
     "everywhere_tags": [
       "Consumer"
     ],
@@ -7021,7 +7107,10 @@
     "company_profile_url": "https://menlovc.com/portfolio/tumblr/",
     "logo_url": "https://menlovc.com/wp-content/uploads/2022/08/tumblr.png",
     "image_url": "https://menlovc.com/wp-content/uploads/2022/08/tumblr_graphic.jpg",
-    "founders": [],
+    "founders": [
+      "David Karp",
+      "Marco Arment"
+    ],
     "partners": [
       "Shawn Carolan"
     ],
@@ -7034,7 +7123,9 @@
     "exit_detail": "Acquired by Yahoo!",
     "acquirer": "Yahoo!",
     "ticker_symbol": null,
-    "sectors": [],
+    "sectors": [
+      "social media"
+    ],
     "everywhere_tags": [
       "Gaming / Media / Entertainment",
       "Dev Tools / Cloud",
@@ -7120,7 +7211,10 @@
     "company_profile_url": "https://menlovc.com/portfolio/uber/",
     "logo_url": "https://menlovc.com/wp-content/uploads/2022/08/uber.png",
     "image_url": "https://menlovc.com/wp-content/uploads/2022/08/uber_graphic.jpg",
-    "founders": [],
+    "founders": [
+      "Garrett Camp",
+      "Travis Kalanick"
+    ],
     "partners": [
       "Shawn Carolan"
     ],
@@ -7133,7 +7227,10 @@
     "exit_detail": "IPO; NYSE: UBER",
     "acquirer": null,
     "ticker_symbol": "NYSE: UBER",
-    "sectors": [],
+    "sectors": [
+      "information technology",
+      "peer-to-peer ridesharing"
+    ],
     "everywhere_tags": [
       "Transportation / Mobility",
       "Logistics / Supply Chain"
@@ -7231,7 +7328,10 @@
     "acquirer": "Qualtrics",
     "ticker_symbol": null,
     "sectors": [],
-    "everywhere_tags": [],
+    "everywhere_tags": [
+      "Future of Work",
+      "Data & Analytics"
+    ],
     "social_urls": [
       "https://www.linkedin.com/company/usermind/",
       "https://twitter.com/usermindinc"
@@ -7408,7 +7508,9 @@
     "exit_detail": "NYSE: WRBY",
     "acquirer": null,
     "ticker_symbol": "NYSE: WRBY",
-    "sectors": [],
+    "sectors": [
+      "retail"
+    ],
     "everywhere_tags": [
       "CPG",
       "Consumer"
