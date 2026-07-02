@@ -110,6 +110,55 @@ concept before concluding the site simply doesn't expose it.
   keyword classifier (AI alone isn't a category; Enterprise/Saas has no single tag). `Featured`
   is a curation flag, not a sector — ignored. ~6 vague AI/SaaS stragglers stay untagged.
 
+### Founders Fund — `foundersfund_scraper.py`
+- WordPress; the portfolio page (`foundersfund.com/portfolio/`) is JS-rendered, but the
+  `company` custom post type is exposed via the **standard WP REST API** (no custom route):
+  `GET /wp-json/wp/v2/company?per_page=100&page=N`. **62 companies**, fits in ~1 page;
+  paginate via `X-WP-TotalPages`.
+- Each record is self-contained — no per-company crawl needed: `title.rendered` = name,
+  `content.rendered` = description (strip HTML), `link` = FF profile URL,
+  `featured_image_thumbnail_url` = logo, `founders` = list of `{founder_name, ...}` objects,
+  `industry` = sector display name, and `class_list` holds `company_industry-<slug>` entries
+  (the **source of truth for sectors** — read these, not `industry`, since one company,
+  Cedar, carries two). The external **website** lives in a small `profiles` HTML blob
+  (`<a href=...>Website</a>`; first link) — `acf`/`meta` are empty. Some hrefs are malformed
+  (`http:///www...` → collapse the triple slash).
+- **6 FF sectors** → `SECTOR_SLUG_DISPLAY`: Advanced Machines & Intelligence, Aerospace &
+  Transportation, Analytics & Software, Biotechnology & Health, Consumer Internet & Media,
+  Real Estate & Technology. `SECTOR_TAG_MAP` maps all but **"Analytics & Software"** (≈ just
+  "software" — left to the keyword classifier to tag by market served).
+- **Founders kept as `{name, url}` objects** (unlike usv/menlo/insight, which store names
+  only). The API's misnamed `founder_crunchbase_slug` field actually holds the founder's
+  Twitter / LinkedIn / Wikipedia / personal site (137 entries, 132 with a URL). These are
+  links FF itself publishes — not external enrichment we fetched from a banned DB — so per an
+  explicit user decision they're retained. `Empty ≠ absent` checked: no status/exit/acquirer/ticker is
+  encoded in names or descriptions (the regex hits were false positives like "customer
+  acquisition", "public safety"); FF also publishes no stage / founded-year / location, so
+  those fields are intentionally omitted, not invented.
+- Legit empties at source: 2 with no website (Asana, Nanotronics — blank `profiles`), 2 with
+  no sector (Impulse, Postmates), 1 with no founders (OpenAI — source founder is literally
+  blank). ~4 vague AI/SaaS stragglers stay untagged.
+
+### ICONIQ Growth — `iconiq_scraper.py`
+- **Webflow + Finsweet CMS**, but unlike RRE the data is **fully server-rendered in the one
+  static page** `iconiq.com/growth/companies` — no API, no pagination. Just `GET` it and parse.
+- The list is **rendered twice** (a reveal/animation duplicate: 200 `.companies-list_grid-item`
+  for 100 companies) → **dedupe by name**. Per item: `h2.heading-style-h3` = name,
+  `.text-size-medium.is-companies` = description (2 empty), `a.companies-list_grid-item-reveal-wrap`
+  = external website (all 100; no ICONIQ detail page), `img.companies-list_logo` = logo.
+- **Sectors are an "Empty ≠ absent" trap.** The same 5 sectors are encoded in TWO places that
+  disagree per record: the `data-groups` attr (lowercase slugs `["all","ai",...]`) and the
+  `.hidden-params p[fs-cmsfilter-field="category"]` display names. **Neither is a superset** —
+  6 companies differ (e.g. Anduril's only sector lives in `data-groups`; Calendly's only in the
+  category text), so **UNION both** (map slugs via `SLUG_DISPLAY`, skip `all`/blanks). Reading
+  only the category `<p>` text leaves Anduril sector-less. 5 sectors: AI, Consumer Internet,
+  Enterprise SaaS, Fintech, Healthcare.
+- `SECTOR_TAG_MAP` maps Healthcare/Fintech/Consumer Internet; **AI** and **Enterprise SaaS**
+  are left to the keyword classifier (AI alone isn't a category; Enterprise SaaS spans
+  dev-tools/work/data/security). ICONIQ exposes no founders/stage/status/exit/founded/location
+  (names + descriptions checked — the lone "exit" hit, Adyen, is a false positive). ~6 terse
+  AI/SaaS stragglers stay untagged.
+
 ### Lightspeed — `companies.json` (no script)
 - Built from `https://lsvp.com/company-sitemap.xml` (all `/company/<slug>/` URLs), fetching
   each detail page (Status, Founded, Stage Invested, LSVP Investment yr, Lightspeed Team =

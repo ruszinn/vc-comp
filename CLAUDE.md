@@ -15,17 +15,68 @@ Current datasets (in `data/`):
 | Menlo Ventures | `menlo_companies.json` | 239 | menlovc.com/portfolio (`menlo_scraper.py`) |
 | Insight Partners | `insight_companies.json` | 847 | insightpartners.com/portfolio (`insight_scraper.py`) |
 | RRE Ventures | `rre_companies.json` | 250 | rre.com/portfolio (`rre_scraper.py`) |
+| Founders Fund | `foundersfund_companies.json` | 62 | foundersfund.com/portfolio (`foundersfund_scraper.py`) |
+| ICONIQ Growth | `iconiq_companies.json` | 100 | iconiq.com/growth/companies (`iconiq_scraper.py`) |
+| Sequoia Capital | `sequoia_companies.json` | 412 | sequoiacap.com/our-companies (`sequoia_scraper.py`) |
+| Andreessen Horowitz | `a16z_companies.json` | 849 | a16z.com/portfolio (`a16z_scraper.py`) |
+| Accel | `accel_companies.json` | 766 | accel.com — own Sanity CMS API (`accel_scraper.py`) |
+| Index Ventures | `index_companies.json` | 311 | indexventures.com/companies (`index_scraper.py`) |
+| Kleiner Perkins | `kleinerperkins_companies.json` | 385 | kleinerperkins.com/partnerships (`kleinerperkins_scraper.py`) |
+| NEA | `nea_companies.json` | 903 | nea.com — Statamic GraphQL (`nea_scraper.py`) |
+| Greylock | `greylock_companies.json` | 159 | greylock.com/portfolio (`greylock_scraper.py`) |
+| Bessemer | `bessemer_companies.json` | 516 | bvp.com/companies (`bessemer_scraper.py`) |
+| Khosla Ventures | `khosla_companies.json` | 132 | khoslaventures.com sector pages (`khosla_scraper.py`) |
+| General Catalyst | `generalcatalyst_companies.json` | 584 | generalcatalyst.com — own Algolia index (`generalcatalyst_scraper.py`) |
+| Ribbit Capital | `ribbit_companies.json` | 148 | ribbitcap.com/rebels (`ribbit_scraper.py`) |
+| Parkway VC | `parkway_companies.json` | 25 | parkway.vc/portfolio (`parkway_scraper.py`) |
+| General Atlantic | `generalatlantic_companies.json` | 405 | generalatlantic.com/investments (`generalatlantic_scraper.py`) |
+| Notable Capital | `notable_companies.json` | 127 | notablecap.com/companies (`notable_scraper.py`) |
+| IVP | `ivp_companies.json` | 156 | ivp.com/portfolio `_payload.json` (`ivp_scraper.py`) |
+| Dragoneer | `dragoneer_companies.json` | 29 | dragoneer.com/companies — curated subset (`dragoneer_scraper.py`) |
+| Mayfield | `mayfield_companies.json` | 135 | mayfield.com/meet-our-founders (`mayfield_scraper.py`) |
+| OrbiMed | `orbimed_companies.json` | 200 | orbimed.com/portfolio (`orbimed_scraper.py`) |
+| Coatue | `coatue_companies.json` | 372 | coatue.com/portfolio API (`coatue_scraper.py`) |
+| Spark Capital | `spark_companies.json` | 48 | sparkcapital.com/companies (`spark_scraper.py`) |
+| SV Angel | `svangel_companies.json` | 150 | svangel.com/portfolio (`svangel_scraper.py`) |
+| Battery Ventures | `battery_companies.json` | 343 | battery.com/company admin-ajax (`battery_scraper.py`) |
+| Bedrock | `bedrock_companies.json` | 6 | bedrockcap.com/investments — full disclosure (`bedrock_scraper.py`) |
+| Paradigm | `paradigm_companies.json` | 105 | paradigm.xyz/investments (`paradigm_scraper.py`) |
+| Oak HC/FT | `oakhcft_companies.json` | 107 | oakhcft.com/portfolio (`oakhcft_scraper.py`) |
+| Atlas Venture | `atlas_companies.json` | 79 | atlasventure.com/portfolio (`atlas_scraper.py`) |
+| Venrock | `venrock_companies.json` | 250 | venrock.com — WP REST (`venrock_scraper.py`) |
+| Meritech | `meritech_companies.json` | 48 | meritechcapital.com/companies (`meritech_scraper.py`) |
+| Norwest | `norwest_companies.json` | 514 | norwest.com/companies (`norwest_scraper.py`) |
+| CRV | `crv_companies.json` | 183 | crv.com/companies — RSC payload (`crv_scraper.py`) |
+| Bain Capital Ventures | `baincapital_companies.json` | 269 | baincapitalventures.com — own Sanity API (`baincapital_scraper.py`) |
+| Inflection Ventures | `inflection_companies.json` | 16 | inflectionvc.com/portfolio (`inflection_scraper.py`) |
+| First Round Capital | `firstround_companies.json` | 190 | firstround.com/companies (`firstround_scraper.py`) |
+| 8VC | `8vc_companies.json` | 172 | 8vc.com/companies (`8vc_scraper.py`) |
+| TCV | `tcv_companies.json` | 151 | tcv.com/partnerships (`tcv_scraper.py`) |
+| Lux Capital | `lux_companies.json` | 215 | luxcapital.com/companies via sitemap (`lux_scraper.py`) |
+| ARCH Venture Partners | `arch_companies.json` | 128 | archventure.com/portfolio (`arch_scraper.py`) |
+
+**Firms verified to publish NO portfolio on their own site** (no dataset possible under the
+no-third-party-sources rule): Benchmark, Thrive Capital, DST Global, Tiger Global, Altimeter,
+Sutter Hill Ventures, Greenoaks. Each was exhaustively checked (sitemaps, guessed paths,
+embedded JS) — their sites are minimal brochures / gated LP portals.
+
+**Network note (2026-07-01):** this machine intermittently cannot route to Webflow's current
+CDN IP (`cdn.webflow.com` → 198.202.211.1). Affected scrapers (`parkway`, `khosla`, `spark`,
+`oakhcft`, `8vc`, `lux`, `dragoneer`, also existing `rre`/`iconiq`) implement a fallback chain:
+direct HTTPS → legacy-IP pin (75.2.70.75) → `r.jina.ai` read-only relay of the same page. On a
+healthy network they use the direct route. Datasets fetched relay-only at build time: 8VC, Lux,
+Dragoneer, Spark (spot-checked correct; re-run to refresh when routing is healthy).
 
 ## Layout
 ```
 VC comps/
 ├── CLAUDE.md                 ← this file
 ├── data/                     ← ALL JSON (datasets + reports)
-│   ├── companies.json  usv_companies.json  menlo_companies.json  insight_companies.json
+│   ├── companies.json + 43× <firm>_companies.json   (one per firm — see table above)
 │   ├── enrichment_report.json          ← provenance for enrich.py fills
 │   └── everywhere_tagging_report.json  ← Lightspeed tagging report
 └── scripts/                  ← ALL Python
-    ├── usv_scraper.py  menlo_scraper.py  insight_scraper.py  rre_scraper.py
+    ├── <firm>_scraper.py     ← one per firm (43 scrapers; data source in each docstring)
     ├── enrich.py             ← Wikidata back-fill of empty fields
     └── PLAYBOOK.md           ← how to scrape a new firm / per-source cheat-sheet
 ```
@@ -94,11 +145,12 @@ from **Wikidata** (free + attributable):
 
 ## Conventions
 - Politeness: custom User-Agent, timeouts, retries/back-off, small sleeps between requests.
-- **Git is local-only — there is NO remote.** Commits stay on this machine; the user
-  re-uploads JSON to GitHub `ruszinn/vc-comp` by hand (drag-drop in the web UI). Don't
-  assume `git push` works; don't claim anything is "on GitHub" unless the user uploaded it.
-- **Commit only when the user asks.** Use a concise message; end with:
-  `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>`. Commits use
+- **Remote: `https://github.com/ruszinn/vc-comp` (public).** Since 2026-07-01 the GitHub
+  CLI (`gh`) is installed and authenticated as `ruszinn`, and `origin` is configured —
+  `git push` works. The old drag-drop upload workflow is retired.
+- **Commit and push only when the user asks.** Use a concise message; end with a
+  co-author trailer for the current Claude model, e.g.
+  `Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>`. Commits use
   `git -c user.email="ruszinfilay@gmail.com" -c user.name="rus.perish"`.
 - Use `/tmp` (or the session scratchpad) for recon HTML/temp files, not the repo.
 
