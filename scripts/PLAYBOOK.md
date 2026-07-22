@@ -179,10 +179,14 @@ concept before concluding the site simply doesn't expose it.
 - **Sectors** = a nested `.sector-collection-wrapper` list per card
   (`[fs-cmsfilter-field="sector"]`), 0–3 each, 15 values. Note **NBSP** inside
   "Energy Transition &`\xa0`Climate" → normalize whitespace before mapping.
-  `SECTOR_TAG_MAP` leaves **AI/ML** and **Marketing Services** to the keyword classifier
-  (AI alone isn't a category; marketing services has no single tag). Two Lerer sectors
-  conflate two of our tags ("FinTech, DeFi, & Blockchain", "Data & Security") — each maps to
-  the dominant tag only and keywords add the second when the blurb warrants. 12 untagged.
+  `SECTOR_TAG_MAP` leaves **AI/ML** to the keyword classifier (AI alone isn't a category);
+  **Marketing Services** → `Gaming / Media / Entertainment` (adtech/martech sits in media —
+  the same call `hustlefund_scraper.py` makes for "Advertising / Marketing" and `enrich.py`
+  makes for "advertis"/"marketing"; it was the single biggest source of untagged records here,
+  8 of the original 12). Two Lerer sectors conflate two of our tags ("FinTech, DeFi, &
+  Blockchain", "Data & Security") — each maps to the dominant tag only and keywords add the
+  second when the blurb warrants. Plus a small `KEYWORD_TAGS_EXTRA` for AI/ML-only stragglers
+  ("frontline", "pre-trained transformer", "engineering agi"). **1 untagged.**
 - "Empty ≠ absent" checked: no acquirer/ticker/exit-year in names or descriptions (exit state
   lives only in the chip); no founders/HQ/stage anywhere, and there are **no detail pages**.
 
@@ -208,7 +212,7 @@ concept before concluding the site simply doesn't expose it.
   Those columns are omitted; tagging is name+description only. Because the blurbs are one terse
   line each, the shared `KEYWORD_TAGS` left 23/75 untagged → the scraper adds a documented
   `KEYWORD_TAGS_EXTRA` supplement (every term appears verbatim in a 2048 blurb; same precedent as
-  `orbimed_scraper.py`/`coatue_scraper.py`), bringing it to **4 untagged**.
+  `orbimed_scraper.py`/`coatue_scraper.py`), bringing it to **3 untagged**.
 
 ### Hustle Fund — `hustlefund_scraper.py`
 - **No `/portfolio` path** (404) and **the portfolio page is absent from `sitemap.xml`** — the
@@ -230,7 +234,11 @@ concept before concluding the site simply doesn't expose it.
   ("Finance - Other,Blockchain / Crypto / NFT / Web 3.0") → split on the comma (no individual
   label contains one). The filter dropdown only shows the first 12 — harvest the vocabulary from
   a full run, not the dropdown. `SECTOR_TAG_MAP` leaves Manufacturing / General - Industry
-  Agnostic / Personal & Professional Services unmapped. 7 untagged.
+  Agnostic / Personal & Professional Services unmapped. **7 untagged, and they stay that way:**
+  Hustle Fund publishes no description, so the only signal for those records is the company
+  name plus a sector that is deliberately unmapped (or absent) — tagging them would mean
+  inventing a market from a name alone. This is the one dataset where the straggler count
+  can't be driven down without fabricating.
 - **No description, founders, founded year, stage or status anywhere**, and no detail page →
   those columns are omitted and tagging runs on name + sector label only (coarser than usual).
 

@@ -75,13 +75,16 @@ MAX_PAGES = 40  # guard rail; the list is 5 pages today
 LEGACY_WEBFLOW_IPS = ["75.2.70.75", "99.83.190.102"]
 
 # ---- Lerer's own 15 sectors -> the 17-tag everywhere_tags taxonomy -----------
-# "AI/ML" and "Marketing Services" are deliberately unmapped: AI alone is not a
-# category (classify by the market served), and marketing services spans every
-# vertical with no single tag. Two Lerer sectors conflate two of our tags
-# ("FinTech, DeFi, & Blockchain", "Data & Security"); each maps to the dominant
-# one only and the keyword classifier adds the second when the blurb warrants it.
+# "AI/ML" is deliberately unmapped: AI alone is not a category (classify by the
+# market served). Two Lerer sectors conflate two of our tags ("FinTech, DeFi, &
+# Blockchain", "Data & Security"); each maps to the dominant one only and the
+# keyword classifier adds the second when the blurb warrants it.
 SECTOR_TAG_MAP = {
     "Media & Entertainment": ["Gaming / Media / Entertainment"],
+    # Adtech/martech sits in media. This matches hustlefund_scraper.py's
+    # "Advertising / Marketing" mapping and enrich.py, which both file
+    # "advertis"/"marketing" under Gaming / Media / Entertainment.
+    "Marketing Services": ["Gaming / Media / Entertainment"],
     "Commerce": ["Consumer"],
     "Future of Work & Productivity": ["Future of Work"],
     "Food & Beverage": ["CPG"],
@@ -158,6 +161,19 @@ KEYWORD_TAGS = [
                   "ecommerce", "e-commerce", "subscription", "retailer", "universit", "student", "education",
                   "learning", "fashion", "parents", "creators", "fitness", "gig economy", "discounts", "tutor"]),
 ]
+
+# Lerer-specific keyword supplement, for stragglers whose only sector is the
+# unmapped "AI/ML". Each term appears verbatim in a Lerer description and was
+# checked against all 305 for false positives (same precedent as
+# orbimed_scraper.py / coatue_scraper.py). Note "physical world" was REJECTED as
+# a Deeptech cue -- it also matches DataSnap, which is consumer analytics.
+KEYWORD_TAGS_EXTRA = {
+    "Future of Work": ["frontline"],
+    "Dev Tools / Cloud": ["pre-trained transformer"],   # a frontier-model lab; cf.
+                                                        # enrich.py tagging Anthropic Dev Tools / Cloud
+    "Deeptech / Robotics / AR/VR": ["engineering agi"],
+}
+KEYWORD_TAGS = [(tag, kws + KEYWORD_TAGS_EXTRA.get(tag, [])) for tag, kws in KEYWORD_TAGS]
 
 
 def _mk_session():

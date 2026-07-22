@@ -163,6 +163,8 @@ KEYWORD_TAGS_EXTRA = {
     "Future of Work": ["product demo", "system of record", "corporate innovation",
                        "receptionist"],
     "Consumer": ["restaurant", "shoes"],
+    # adtech/martech -> media, matching lererhippeau/hustlefund and enrich.py
+    "Gaming / Media / Entertainment": ["marketing"],
 }
 KEYWORD_TAGS = [(tag, kws + KEYWORD_TAGS_EXTRA.get(tag, [])) for tag, kws in KEYWORD_TAGS]
 
