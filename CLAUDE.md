@@ -55,6 +55,9 @@ Current datasets (in `data/`):
 | Lux Capital | `lux_companies.json` | 215 | luxcapital.com/companies via sitemap (`lux_scraper.py`) |
 | ARCH Venture Partners | `arch_companies.json` | 128 | archventure.com/portfolio (`arch_scraper.py`) |
 | Afore Capital | `afore_companies.json` | 100 | afore.vc/portfolio (`afore_scraper.py`) |
+| Lerer Hippeau | `lererhippeau_companies.json` | 305 | lererhippeau.com/portfolio (`lererhippeau_scraper.py`) |
+| 2048 Ventures | `2048_companies.json` | 75 | 2048.vc/companies (`2048_scraper.py`) |
+| Hustle Fund | `hustlefund_companies.json` | 335 | hustlefund.vc/founders (`hustlefund_scraper.py`) |
 
 **Firms verified to publish NO portfolio on their own site** (no dataset possible under the
 no-third-party-sources rule): Benchmark, Thrive Capital, DST Global, Tiger Global, Altimeter,
@@ -77,11 +80,11 @@ healthy network (verify the Finsweet card selectors against live markup on the f
 VC comps/
 ├── CLAUDE.md                 ← this file
 ├── data/                     ← ALL JSON (datasets + reports)
-│   ├── companies.json + 44× <firm>_companies.json   (one per firm — see table above)
+│   ├── companies.json + 47× <firm>_companies.json   (one per firm — see table above)
 │   ├── enrichment_report.json          ← provenance for enrich.py fills
 │   └── everywhere_tagging_report.json  ← Lightspeed tagging report
 └── scripts/                  ← ALL Python
-    ├── <firm>_scraper.py     ← one per firm (44 scrapers; data source in each docstring)
+    ├── <firm>_scraper.py     ← one per firm (47 scrapers; data source in each docstring)
     ├── enrich.py             ← Wikidata back-fill of empty fields
     └── PLAYBOOK.md           ← how to scrape a new firm / per-source cheat-sheet
 ```

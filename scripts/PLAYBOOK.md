@@ -159,6 +159,81 @@ concept before concluding the site simply doesn't expose it.
   (names + descriptions checked — the lone "exit" hit, Adyen, is a false positive). ~6 terse
   AI/SaaS stragglers stay untagged.
 
+### Lerer Hippeau — `lererhippeau_scraper.py`
+- **Webflow + Finsweet**, `lererhippeau.com/portfolio`. The page holds **three** collection
+  lists: a 24-card "featured" grid (strict subset, and its cards carry **no sector sub-list**),
+  a 1-item decorative heading list, and the full alphabetical portfolio. Pick the full one by
+  **"is the wrapper that contains a `.w-pagination-wrapper`"** — positional indexing breaks if
+  Lerer re-orders the sections.
+- Server-side pagination `?c33e6893_page=N` at **64/page** → 5 pages = **305 companies**;
+  stop when there's no `a.w-pagination-next`.
+- Per `.portfolio-collection-item`: **there is no name node** — the card renders
+  "Visit / `<Name>` / →" as three `.website-url` divs inside `a.link-holder`, so the name is
+  the middle one (logo `alt` attrs are empty). Also: `p.portfolio-details` (description, 305/305),
+  `a.link-holder[href]` (external site, 305/305), `img.potfolio-logo` (**sic** — Lerer's own
+  class typo), `.year-holder` → "SINCE `<year>`" (first investment year, 305/305).
+- **Status**: a `.exit-tag` chip ("Exited") — verified it is *never* rendered hidden
+  (174 occurrences, all plain-class), so presence/absence is a trustworthy signal →
+  174 Exited / 131 Active. Spot-checked: Warby Parker/Allbirds/Casper/Axios/Giphy = Exited,
+  Glossier/Hungryroot/Zipline = Active.
+- **Sectors** = a nested `.sector-collection-wrapper` list per card
+  (`[fs-cmsfilter-field="sector"]`), 0–3 each, 15 values. Note **NBSP** inside
+  "Energy Transition &`\xa0`Climate" → normalize whitespace before mapping.
+  `SECTOR_TAG_MAP` leaves **AI/ML** and **Marketing Services** to the keyword classifier
+  (AI alone isn't a category; marketing services has no single tag). Two Lerer sectors
+  conflate two of our tags ("FinTech, DeFi, & Blockchain", "Data & Security") — each maps to
+  the dominant tag only and keywords add the second when the blurb warrants. 12 untagged.
+- "Empty ≠ absent" checked: no acquirer/ticker/exit-year in names or descriptions (exit state
+  lives only in the chip); no founders/HQ/stage anywhere, and there are **no detail pages**.
+
+### 2048 Ventures — `2048_scraper.py`
+- `2048.vc/**companies**` (`/portfolio` **404s**). Webflow; whole portfolio server-rendered in
+  one page — **75** `.card-investment` items, no pagination, no API (the Jetboost dropdowns
+  filter client-side over the rendered DOM).
+- Per card: `a.heading-h3.link-companies` = name + external site (no 2048 detail page);
+  `.companies-description p` = description; `.partner-content` blocks = the **company's**
+  founders/execs (`.partner-name`/`.partner-title`/`.partner-avatar`) — Webflow pads every card
+  to 3 slots, so skip `w-condition-invisible` / `w-dyn-bind-empty` (75/75 have ≥1, 158 people);
+  `.companies-body` richtext = latest-news headline + press link (24/75);
+  `a.button-invested` = the "Why we invested" 2048 blog post (41/75, `href="#"` + invisible when absent).
+- **Stage and location chips share the class `.button-outline-invested`** — the only way to tell
+  them apart is the icon filename (`...filter-fund.webp` vs `...filter-location.webp`).
+- Stage vocabulary is Pre-Seed/Seed/Series A/Series B/Growth/**Exited** — "Exited" is a *value of
+  the stage field*, not a separate column, so it's kept verbatim in `stage` rather than split into
+  a fabricated `status` for the other 74. Source casing is inconsistent ("Pre-seed", "Seed+",
+  "Seed +") and is preserved.
+- **No per-company sector or investment year in the markup**: the Jetboost sector
+  (Vertical AI / Deep Tech / Health / Bio / Other) and year (2019–2026) dropdowns resolve through
+  Jetboost's own service via `.jetboost-list-item` inputs that carry only the company slug.
+  Those columns are omitted; tagging is name+description only. Because the blurbs are one terse
+  line each, the shared `KEYWORD_TAGS` left 23/75 untagged → the scraper adds a documented
+  `KEYWORD_TAGS_EXTRA` supplement (every term appears verbatim in a 2048 blurb; same precedent as
+  `orbimed_scraper.py`/`coatue_scraper.py`), bringing it to **4 untagged**.
+
+### Hustle Fund — `hustlefund_scraper.py`
+- **No `/portfolio` path** (404) and **the portfolio page is absent from `sitemap.xml`** — the
+  company list lives on `hustlefund.vc/**founders**`, in a `.founder-list-wrapper` Finsweet list.
+  The big logo collages higher up that page (`.portfolio-image*`) are decorative, not the data.
+- Server-side pagination `?5d649f4d_page=N` at **9/page** → 38 pages = **335 companies**
+  (stop on the first page with no `.company-info`).
+- **Every card is rendered twice** — a desktop layout plus a `.company-info-mobile` duplicate.
+  `.decompose()` the mobile block first, otherwise every value double-counts.
+- The two location values are **cross-labelled** between the layouts: the desktop
+  `[fs-cmsfilter-field="location"]` holds the COARSE bucket (US/Asia/Africa/…) while the
+  *unattributed* `.filter-label` beside it holds the FINER value ("US - Bay Area",
+  "Asia - Philippines") — and the mobile block tags the finer one as `location`. Captured as
+  `region` (coarse) + `location` (fine).
+- Also per card: `.company-title` = name; `a.company-link-with-arrow[href]` = site (**75/335 are
+  `href="#"` at source** → null, verified genuine, not a selector miss);
+  `[fs-cmsfilter-field="sectors"]`; `[fs-cmsfilter-field="funds"]` (fund I 90 / fund II 245).
+- **31 sectors**, and a few cards carry **two comma-joined in the one cell**
+  ("Finance - Other,Blockchain / Crypto / NFT / Web 3.0") → split on the comma (no individual
+  label contains one). The filter dropdown only shows the first 12 — harvest the vocabulary from
+  a full run, not the dropdown. `SECTOR_TAG_MAP` leaves Manufacturing / General - Industry
+  Agnostic / Personal & Professional Services unmapped. 7 untagged.
+- **No description, founders, founded year, stage or status anywhere**, and no detail page →
+  those columns are omitted and tagging runs on name + sector label only (coarser than usual).
+
 ### Lightspeed — `companies.json` (no script)
 - Built from `https://lsvp.com/company-sitemap.xml` (all `/company/<slug>/` URLs), fetching
   each detail page (Status, Founded, Stage Invested, LSVP Investment yr, Lightspeed Team =
