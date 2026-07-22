@@ -54,6 +54,7 @@ Current datasets (in `data/`):
 | TCV | `tcv_companies.json` | 151 | tcv.com/partnerships (`tcv_scraper.py`) |
 | Lux Capital | `lux_companies.json` | 215 | luxcapital.com/companies via sitemap (`lux_scraper.py`) |
 | ARCH Venture Partners | `arch_companies.json` | 128 | archventure.com/portfolio (`arch_scraper.py`) |
+| Afore Capital | `afore_companies.json` | 100 | afore.vc/portfolio (`afore_scraper.py`) |
 
 **Firms verified to publish NO portfolio on their own site** (no dataset possible under the
 no-third-party-sources rule): Benchmark, Thrive Capital, DST Global, Tiger Global, Altimeter,
@@ -65,18 +66,22 @@ CDN IP (`cdn.webflow.com` → 198.202.211.1). Affected scrapers (`parkway`, `kho
 `oakhcft`, `8vc`, `lux`, `dragoneer`, also existing `rre`/`iconiq`) implement a fallback chain:
 direct HTTPS → legacy-IP pin (75.2.70.75) → `r.jina.ai` read-only relay of the same page. On a
 healthy network they use the direct route. Datasets fetched relay-only at build time: 8VC, Lux,
-Dragoneer, Spark (spot-checked correct; re-run to refresh when routing is healthy).
+Dragoneer, Spark (spot-checked correct; re-run to refresh when routing is healthy). Afore
+(`afore_companies.json`, added 2026-07-22) was transcribed from afore.vc's own portfolio page via
+a read-only fetch relay for the same reason — its `afore_scraper.py` carries the standard
+direct→legacy-IP→r.jina.ai fallback chain and re-derives straight from the source HTML on a
+healthy network (verify the Finsweet card selectors against live markup on the first clean re-run).
 
 ## Layout
 ```
 VC comps/
 ├── CLAUDE.md                 ← this file
 ├── data/                     ← ALL JSON (datasets + reports)
-│   ├── companies.json + 43× <firm>_companies.json   (one per firm — see table above)
+│   ├── companies.json + 44× <firm>_companies.json   (one per firm — see table above)
 │   ├── enrichment_report.json          ← provenance for enrich.py fills
 │   └── everywhere_tagging_report.json  ← Lightspeed tagging report
 └── scripts/                  ← ALL Python
-    ├── <firm>_scraper.py     ← one per firm (43 scrapers; data source in each docstring)
+    ├── <firm>_scraper.py     ← one per firm (44 scrapers; data source in each docstring)
     ├── enrich.py             ← Wikidata back-fill of empty fields
     └── PLAYBOOK.md           ← how to scrape a new firm / per-source cheat-sheet
 ```
