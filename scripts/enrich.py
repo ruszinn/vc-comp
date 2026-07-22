@@ -13,10 +13,16 @@ Two sources, both faithful (never overwrite a non-empty value, never fabricate):
 
 Writes the updated JSONs in place and an enrichment_report.json (provenance).
 
+Only fields a record ALREADY defines are ever filled -- the datasets use
+site-tailored schemas, so a file that carries no `sectors`/`founders`/... column
+is left alone rather than having one introduced.
+
 requirements: pip install requests
 usage:
-    python3 enrich.py                # all three files, full
-    python3 enrich.py --limit 30     # only first 30 companies per file (testing)
+    python3 enrich.py                     # every file in FILES, full
+    python3 enrich.py --limit 30          # only first 30 companies per file (testing)
+    python3 enrich.py --files a.json,b.json   # restrict to specific files; report
+                                              # entries for the others are preserved
 """
 
 import json, os, re, sys, time
@@ -30,7 +36,8 @@ WD_API = "https://www.wikidata.org/w/api.php"
 HEADERS = {"User-Agent": "vc-comps-enrich/1.0 (https://github.com/ruszinn/vc-comp; ruszinfilay@gmail.com)"}
 SLEEP = 0.15
 
-FILES = ["companies.json", "menlo_companies.json", "usv_companies.json"]
+FILES = ["companies.json", "menlo_companies.json", "usv_companies.json",
+         "lererhippeau_companies.json", "2048_companies.json", "hustlefund_companies.json"]
 
 GENERIC_SECTORS = {"technology", "technology industry", "software", "software industry",
                    "software company", "business", "company", "internet", "service industry"}
@@ -170,8 +177,28 @@ def main():
     if "--limit" in sys.argv:
         limit = int(sys.argv[sys.argv.index("--limit") + 1])
 
+    files = FILES
+    if "--files" in sys.argv:
+        files = [f.strip() for f in sys.argv[sys.argv.index("--files") + 1].split(",") if f.strip()]
+        unknown = [f for f in files if not os.path.exists(os.path.join(DATA_DIR, f))]
+        if unknown:
+            raise SystemExit(f"FATAL: no such data file(s): {unknown}")
+
+    # The report is provenance for every fill ever made, so a partial run must NOT
+    # discard the entries for files it isn't touching. Carry those forward and
+    # regenerate only the ones for the files in this run (keeps it idempotent).
+    report_path = os.path.join(DATA_DIR, "enrichment_report.json")
+    carried = []
+    if os.path.exists(report_path):
+        try:
+            carried = [r for r in json.load(open(report_path)) if r.get("file") not in files]
+        except (json.JSONDecodeError, OSError):
+            carried = []
+    if carried:
+        print(f"carrying forward {len(carried)} report entries for files not in this run")
+
     report = []
-    for fname in FILES:
+    for fname in files:
         data = json.load(open(os.path.join(DATA_DIR, fname)))
         rows = data[:limit] if limit else data
         print(f"\n=== {fname} ({len(rows)} of {len(data)}) ===")
@@ -190,10 +217,16 @@ def main():
             dom = domain_of(o.get("company_url"))
             if not dom:
                 continue
+            # Every target field is optional: the datasets use site-tailored schemas,
+            # so a file may simply not carry a `sectors` / `founders` / ... column
+            # (e.g. 2048_companies.json has none of them). Only ever consider a
+            # field that the record actually defines -- never introduce a new column.
             has_founders = "founders" in o
             has_year = "year_founded" in o
+            has_sectors = "sectors" in o
             need = ((has_founders and not o["founders"]) or (has_year and not o["year_founded"])
-                    or not o["sectors"] or ("ticker_symbol" in o and not o["ticker_symbol"]))
+                    or (has_sectors and not o["sectors"])
+                    or ("ticker_symbol" in o and not o["ticker_symbol"]))
             if not need:
                 continue
             qid, claims = wd_match(o["company_name"], dom)
@@ -206,7 +239,8 @@ def main():
             yr = inception_year(claims)
             pending.append({"o": o, "fname": fname, "qid": qid, "founders": founders,
                             "industries": industries, "exch": exch, "ticker": tk, "year": yr,
-                            "has_founders": has_founders, "has_year": has_year})
+                            "has_founders": has_founders, "has_year": has_year,
+                            "has_sectors": has_sectors})
             pending_label_ids += founders + industries + ([exch] if exch else [])
             if i % 50 == 0:
                 print(f"  matched-scan {i}/{len(rows)}")
@@ -223,7 +257,7 @@ def main():
             if p["has_year"] and not o["year_founded"] and p["year"]:
                 o["year_founded"] = p["year"]
                 filled["year_founded"] = p["year"]
-            if not o["sectors"] and p["industries"]:
+            if p["has_sectors"] and not o["sectors"] and p["industries"]:
                 secs = [labels.get(q) for q in p["industries"]
                         if labels.get(q) and labels[q].lower() not in GENERIC_SECTORS]
                 if secs:
@@ -247,8 +281,9 @@ def main():
         json.dump(data, open(os.path.join(DATA_DIR, fname), "w"), ensure_ascii=False, indent=2)
         print(f"  wrote {fname}; enriched {sum(1 for r in report if r['file']==fname and r['source']=='wikidata')} via Wikidata")
 
-    json.dump(report, open(os.path.join(DATA_DIR, "enrichment_report.json"), "w"), ensure_ascii=False, indent=2)
-    print(f"\nTotal fills: {len(report)} -> enrichment_report.json")
+    json.dump(carried + report, open(report_path, "w"), ensure_ascii=False, indent=2)
+    print(f"\nTotal fills this run: {len(report)} "
+          f"({len(carried) + len(report)} in enrichment_report.json)")
 
 
 if __name__ == "__main__":
